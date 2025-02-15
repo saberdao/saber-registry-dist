@@ -18610,6 +18610,200 @@
       "quarry": "7YsjyUn53KSqi4YGfhukrTLWcM6ex7TDtNvfVYSAet3D"
     },
     {
+      "id": "swansol_sol",
+      "name": "SOL-swanSOL",
+      "tokens": [
+        {
+          "name": "Wrapped SOL",
+          "symbol": "SOL",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/So11111111111111111111111111111111111111112.png",
+          "decimals": 9,
+          "address": "So11111111111111111111111111111111111111112",
+          "chainId": 101,
+          "tags": [
+            "saber-mkt-sol"
+          ],
+          "extensions": {
+            "website": "https://solana.com/",
+            "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+            "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+            "coingeckoId": "solana",
+            "currency": "SOL"
+          }
+        },
+        {
+          "address": "9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT",
+          "name": "White Swan Staked SOL",
+          "decimals": 9,
+          "chainId": 101,
+          "symbol": "swanSOL",
+          "logoURI": "https://bliq.so/api/v1/metadata/9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT.png",
+          "extensions": {
+            "coingeckoId": "solana",
+            "currency": "SOL",
+            "source": "swansol",
+            "sourceUrl": "https://solscan.io/token/9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT/"
+          },
+          "tags": [
+            "saber-mkt-sol"
+          ]
+        }
+      ],
+      "tokenIcons": [
+        {
+          "name": "Wrapped SOL",
+          "symbol": "SOL",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/So11111111111111111111111111111111111111112.png",
+          "decimals": 9,
+          "address": "So11111111111111111111111111111111111111112",
+          "chainId": 101,
+          "tags": [
+            "saber-mkt-sol"
+          ],
+          "extensions": {
+            "website": "https://solana.com/",
+            "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+            "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+            "coingeckoId": "solana",
+            "currency": "SOL"
+          }
+        },
+        {
+          "address": "9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT",
+          "name": "White Swan Staked SOL",
+          "decimals": 9,
+          "chainId": 101,
+          "symbol": "swanSOL",
+          "logoURI": "https://bliq.so/api/v1/metadata/9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT.png",
+          "extensions": {
+            "coingeckoId": "solana",
+            "currency": "SOL",
+            "source": "swansol",
+            "sourceUrl": "https://solscan.io/token/9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT/"
+          },
+          "tags": [
+            "saber-mkt-sol"
+          ]
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "name": "Wrapped SOL",
+          "symbol": "SOL",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/So11111111111111111111111111111111111111112.png",
+          "decimals": 9,
+          "address": "So11111111111111111111111111111111111111112",
+          "chainId": 101,
+          "tags": [
+            "saber-mkt-sol"
+          ],
+          "extensions": {
+            "website": "https://solana.com/",
+            "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+            "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+            "coingeckoId": "solana",
+            "currency": "SOL"
+          }
+        },
+        {
+          "address": "9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT",
+          "name": "White Swan Staked SOL",
+          "decimals": 9,
+          "chainId": 101,
+          "symbol": "swanSOL",
+          "logoURI": "https://bliq.so/api/v1/metadata/9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT.png",
+          "extensions": {
+            "coingeckoId": "solana",
+            "currency": "SOL",
+            "source": "swansol",
+            "sourceUrl": "https://solscan.io/token/9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT/"
+          },
+          "tags": [
+            "saber-mkt-sol"
+          ]
+        }
+      ],
+      "currency": "SOL",
+      "lpToken": {
+        "symbol": "SOL-swanSOL",
+        "name": "Saber SOL-swanSOL LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "3ttNmMi7L6GoR4QiQkcs17s7TUbE1QPF8c4G8HPPQZrm",
+        "chainId": 101,
+        "tags": [
+          "saber-stableswap-lp"
+        ],
+        "extensions": {
+          "website": "https://app.saber.so/pools/swansol_sol",
+          "underlyingTokens": [
+            "So11111111111111111111111111111111111111112",
+            "9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "DXZKVqSDj6PRzMHCHJKdfAX1sHDGTQfAFWhtsMv2iWDU",
+      "swap": {
+        "config": {
+          "swapAccount": "FwboHN22hGDqjujNXniwnpSVAMcMQDGkFpc4A8EKgieX",
+          "authority": "5x7YBw1iLJHnWcu7ucgL4spuJXMrhUC8RnJLNZcqYoc7",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "poolTokenMint": "3ttNmMi7L6GoR4QiQkcs17s7TUbE1QPF8c4G8HPPQZrm",
+          "adminAccount": "63TLBeQtrVmVfftxkPM7GZyi5nqtkX9LxV65DFnCLquW",
+          "tokenA": {
+            "adminFeeAccount": "Aue5KvK7BZeD5AXVbZS94PtT3RehCBGJeXFGJLaaFoVR",
+            "mint": "So11111111111111111111111111111111111111112",
+            "reserve": "E7WJf12FUT3CaJ4gAM5rEE8bnXtBxxggFTX3mFn2vmgL"
+          },
+          "tokenB": {
+            "adminFeeAccount": "55m16ZUDAUWECD82Rq8mrmi8hbM9E8aLuwYPG6MvDuoz",
+            "mint": "9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT",
+            "reserve": "Aev6XHNxc6tEkdufPUshxk42pkpmhNZZ6D2nCfXJWys1"
+          },
+          "initialAmpFactor": "64",
+          "targetAmpFactor": "64",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "trade": {
+              "isFraction": true,
+              "numeratorStr": "4",
+              "denominatorStr": "10000",
+              "isPercent": true
+            },
+            "adminTrade": {
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
+            },
+            "withdraw": {
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
+            },
+            "adminWithdraw": {
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
+            }
+          }
+        }
+      },
+      "quarry": "DwyokrYxxLWQUYqp5hqU5bcrrkGLuo9JpdUSx5YAhbXK"
+    },
+    {
       "id": "usdc_pai",
       "name": "PAI-USDC",
       "tokens": [

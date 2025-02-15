@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2025-02-15T11:51:31.907Z",
+  "timestamp": "2025-02-15T12:14:01.141Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -349,6 +349,25 @@
       "symbol": "abBTCB",
       "tags": [
         "saber-mkt-btc"
+      ]
+    },
+    {
+      "address": "3ttNmMi7L6GoR4QiQkcs17s7TUbE1QPF8c4G8HPPQZrm",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "So11111111111111111111111111111111111111112",
+          "9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT"
+        ],
+        "website": "https://app.saber.so/pools/swansol_sol"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber SOL-swanSOL LP",
+      "symbol": "SOL-swanSOL",
+      "tags": [
+        "saber-stableswap-lp"
       ]
     },
     {
@@ -1152,6 +1171,23 @@
         "wrapped-sollet",
         "ethereum",
         "saber-mkt-btc"
+      ]
+    },
+    {
+      "address": "9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "solana",
+        "currency": "SOL",
+        "source": "swansol",
+        "sourceUrl": "https://solscan.io/token/9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT/"
+      },
+      "logoURI": "https://bliq.so/api/v1/metadata/9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT.png",
+      "name": "White Swan Staked SOL",
+      "symbol": "swanSOL",
+      "tags": [
+        "saber-mkt-sol"
       ]
     },
     {
