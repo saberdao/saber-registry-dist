@@ -6766,7 +6766,7 @@
           "fees": {
             "trade": {
               "isFraction": true,
-              "numeratorStr": "4",
+              "numeratorStr": "1",
               "denominatorStr": "10000",
               "isPercent": true
             },
