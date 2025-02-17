@@ -382,6 +382,37 @@
   },
   {
     "addresses": {
+      "admin": "9WTDgaFESEXitWjTnpN1hhVDRqtWo7SqVa2oqqA4BbbN",
+      "lpTokenMint": "47A3aoctFhnts7TmFPbYaSAJPp5wZLz1wbhCJj7eDyWr",
+      "mergePool": "HBwHCLGfd3EEyQuERQoapocT4yiCGqEWQ7u7LHVXBQq",
+      "quarry": "CZZWd3SHU1pfFPXPoqjPw1ymWMdySKCN8ACuHemTJL3w",
+      "reserves": [
+        "2NKGMgpjsE26WJp8N66rngs6CijLb5Xx3ZtFWvGSA6GK",
+        "AGcycdSvnHnddg93HTySpX4kdLDFVhzGqEeAD4seqzUZ"
+      ],
+      "swapAccount": "9iuicJU1EZbLVuVXiquwBxvy7Ep7k8eB4ewU52eA34V8",
+      "swapAuthority": "9uywTzMB7oeCAw6Yc3yf22spPawdHqrUGwXb3BCEnc7m"
+    },
+    "currency": "SOL",
+    "decimals": 9,
+    "displayTokens": [
+      "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+      "9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT"
+    ],
+    "id": "bsol_swansol",
+    "isVerified": true,
+    "name": "bSOL-swanSOL",
+    "sources": [
+      "blazestake",
+      "swansol"
+    ],
+    "underlyingTokens": [
+      "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+      "9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT"
+    ]
+  },
+  {
+    "addresses": {
       "admin": "98KM8AzKATj1YADG2WLbQpcBEi1jcNTUN3xgCDesoLN1",
       "lpTokenMint": "GEcowHQW46CrEkfAdbcsdt4SV7taCetZF4sFBXN4USDC",
       "mergePool": "hPEiDsmM5EHZbsH9A53bpaUCtwHQcZ41UK2RvZ6244M",

@@ -480,6 +480,18 @@
     "decimals": 9
   },
   {
+    "id": "bsol_swansol",
+    "lpMint": "47A3aoctFhnts7TmFPbYaSAJPp5wZLz1wbhCJj7eDyWr",
+    "tokenA": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+    "tokenB": "9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT",
+    "authority": "9uywTzMB7oeCAw6Yc3yf22spPawdHqrUGwXb3BCEnc7m",
+    "reserveA": "2NKGMgpjsE26WJp8N66rngs6CijLb5Xx3ZtFWvGSA6GK",
+    "reserveB": "AGcycdSvnHnddg93HTySpX4kdLDFVhzGqEeAD4seqzUZ",
+    "tokenACoingecko": "solana",
+    "tokenBCoingecko": "solana",
+    "decimals": 9
+  },
+  {
     "id": "bsol_vsol",
     "lpMint": "FndcYng9EuEmjrrp7RhN9xp9EUuEUXioHxzpWZkTKh4d",
     "tokenA": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",

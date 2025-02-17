@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2025-02-15T12:24:34.703Z",
+  "timestamp": "2025-02-17T19:51:49.651Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -391,6 +391,25 @@
         "wormhole",
         "saber-mkt-usd",
         "wormhole-v2"
+      ]
+    },
+    {
+      "address": "47A3aoctFhnts7TmFPbYaSAJPp5wZLz1wbhCJj7eDyWr",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+          "9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT"
+        ],
+        "website": "https://app.saber.so/pools/bsol_swansol"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber bSOL-swanSOL LP",
+      "symbol": "bSOL-swanSOL",
+      "tags": [
+        "saber-stableswap-lp"
       ]
     },
     {

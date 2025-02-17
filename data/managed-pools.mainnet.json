@@ -1430,6 +1430,90 @@
   {
     "pool": {
       "bump": 254,
+      "index": 131,
+      "key": "9WTDgaFESEXitWjTnpN1hhVDRqtWo7SqVa2oqqA4BbbN",
+      "lpMint": "47A3aoctFhnts7TmFPbYaSAJPp5wZLz1wbhCJj7eDyWr",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "mintA": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+      "mintB": "9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT",
+      "permissionlessImport": true,
+      "swap": "9iuicJU1EZbLVuVXiquwBxvy7Ep7k8eB4ewU52eA34V8",
+      "tokenAFees": "2KnQFiXCZJeD3qbYVBsnyeVoaCU5qfzimjGHEJojNacj",
+      "tokenBFees": "82y57YY5L96YkgrFVvEjFRuMwsHU8LpReVws3LKiWn41",
+      "tokenDecimals": 9
+    },
+    "state": {
+      "adminAccount": "9WTDgaFESEXitWjTnpN1hhVDRqtWo7SqVa2oqqA4BbbN",
+      "fees": {
+        "adminTrade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "adminWithdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "trade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "4"
+        },
+        "withdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        }
+      },
+      "futureAdminAccount": "11111111111111111111111111111111",
+      "futureAdminDeadline": 0,
+      "initialAmpFactor": "64",
+      "isInitialized": true,
+      "isPaused": false,
+      "nonce": 254,
+      "poolTokenMint": "47A3aoctFhnts7TmFPbYaSAJPp5wZLz1wbhCJj7eDyWr",
+      "startRampTimestamp": 0,
+      "stopRampTimestamp": 0,
+      "targetAmpFactor": "64",
+      "tokenA": {
+        "adminFeeAccount": "2KnQFiXCZJeD3qbYVBsnyeVoaCU5qfzimjGHEJojNacj",
+        "mint": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+        "reserve": "2NKGMgpjsE26WJp8N66rngs6CijLb5Xx3ZtFWvGSA6GK"
+      },
+      "tokenB": {
+        "adminFeeAccount": "82y57YY5L96YkgrFVvEjFRuMwsHU8LpReVws3LKiWn41",
+        "mint": "9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT",
+        "reserve": "AGcycdSvnHnddg93HTySpX4kdLDFVhzGqEeAD4seqzUZ"
+      }
+    },
+    "summary": {
+      "addresses": {
+        "admin": "9WTDgaFESEXitWjTnpN1hhVDRqtWo7SqVa2oqqA4BbbN",
+        "lpTokenMint": "47A3aoctFhnts7TmFPbYaSAJPp5wZLz1wbhCJj7eDyWr",
+        "mergePool": "HBwHCLGfd3EEyQuERQoapocT4yiCGqEWQ7u7LHVXBQq",
+        "quarry": "CZZWd3SHU1pfFPXPoqjPw1ymWMdySKCN8ACuHemTJL3w",
+        "reserves": [
+          "2NKGMgpjsE26WJp8N66rngs6CijLb5Xx3ZtFWvGSA6GK",
+          "AGcycdSvnHnddg93HTySpX4kdLDFVhzGqEeAD4seqzUZ"
+        ],
+        "swapAccount": "9iuicJU1EZbLVuVXiquwBxvy7Ep7k8eB4ewU52eA34V8",
+        "swapAuthority": "9uywTzMB7oeCAw6Yc3yf22spPawdHqrUGwXb3BCEnc7m"
+      },
+      "decimals": 9,
+      "underlyingTokens": [
+        "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+        "9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT"
+      ]
+    }
+  },
+  {
+    "pool": {
+      "bump": 254,
       "index": 124,
       "key": "98KM8AzKATj1YADG2WLbQpcBEi1jcNTUN3xgCDesoLN1",
       "lpMint": "GEcowHQW46CrEkfAdbcsdt4SV7taCetZF4sFBXN4USDC",
