@@ -19566,10 +19566,10 @@
             "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
             "reserve": "EnTrdMMpdhugeH6Ban6gYZWXughWxKtVGfCwFn78ZmY3"
           },
-          "initialAmpFactor": "05dc",
-          "targetAmpFactor": "1388",
-          "startRampTimestamp": 1652992259,
-          "stopRampTimestamp": 1653251456,
+          "initialAmpFactor": "1388",
+          "targetAmpFactor": "1f40",
+          "startRampTimestamp": 1740080610,
+          "stopRampTimestamp": 1740339804,
           "fees": {
             "trade": {
               "isFraction": true,
