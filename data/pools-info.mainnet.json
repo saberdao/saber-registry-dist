@@ -8655,13 +8655,13 @@
             "reserve": "6NFcMVYq2TCU9f8yy7nSXst2m1LFqq9idqa9vg3SSTZh"
           },
           "initialAmpFactor": "64",
-          "targetAmpFactor": "64",
-          "startRampTimestamp": 0,
-          "stopRampTimestamp": 0,
+          "targetAmpFactor": "03e8",
+          "startRampTimestamp": 1740309722,
+          "stopRampTimestamp": 1740568916,
           "fees": {
             "trade": {
               "isFraction": true,
-              "numeratorStr": "4",
+              "numeratorStr": "1",
               "denominatorStr": "10000",
               "isPercent": true
             },
@@ -10889,7 +10889,7 @@
           "fees": {
             "trade": {
               "isFraction": true,
-              "numeratorStr": "4",
+              "numeratorStr": "1",
               "denominatorStr": "10000",
               "isPercent": true
             },
@@ -15348,13 +15348,13 @@
             "reserve": "6U6oZid7w1k5U6XQcfnVLnHrNrosrbryfar41KpcNH81"
           },
           "initialAmpFactor": "23",
-          "targetAmpFactor": "23",
-          "startRampTimestamp": 0,
-          "stopRampTimestamp": 0,
+          "targetAmpFactor": "015e",
+          "startRampTimestamp": 1740309539,
+          "stopRampTimestamp": 1740568732,
           "fees": {
             "trade": {
               "isFraction": true,
-              "numeratorStr": "4",
+              "numeratorStr": "1",
               "denominatorStr": "10000",
               "isPercent": true
             },
@@ -18367,7 +18367,7 @@
           "fees": {
             "trade": {
               "isFraction": true,
-              "numeratorStr": "4",
+              "numeratorStr": "1",
               "denominatorStr": "10000",
               "isPercent": true
             },
@@ -22143,13 +22143,13 @@
             "reserve": "A2NGvvPrMGzsJ4jb52KEnSBVmsA7C34dV1GC7PerdgvG"
           },
           "initialAmpFactor": "64",
-          "targetAmpFactor": "64",
-          "startRampTimestamp": 0,
-          "stopRampTimestamp": 0,
+          "targetAmpFactor": "14",
+          "startRampTimestamp": 1740309834,
+          "stopRampTimestamp": 1740569027,
           "fees": {
             "trade": {
               "isFraction": true,
-              "numeratorStr": "4",
+              "numeratorStr": "1",
               "denominatorStr": "10000",
               "isPercent": true
             },
@@ -22340,7 +22340,7 @@
           "fees": {
             "trade": {
               "isFraction": true,
-              "numeratorStr": "4",
+              "numeratorStr": "1",
               "denominatorStr": "10000",
               "isPercent": true
             },
@@ -22528,9 +22528,9 @@
             "reserve": "7ouZ76ceqDgfddMSgX9MubMDAN6nnMJPsRjWY7AoKP9o"
           },
           "initialAmpFactor": "64",
-          "targetAmpFactor": "64",
-          "startRampTimestamp": 0,
-          "stopRampTimestamp": 0,
+          "targetAmpFactor": "03e8",
+          "startRampTimestamp": 1740309670,
+          "stopRampTimestamp": 1740568862,
           "fees": {
             "trade": {
               "isFraction": true,
@@ -23849,10 +23849,10 @@
             "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "reserve": "4DPCj6Z1DsG6HUtwSogBGqXEUxdEV5a8YVrrFtcnz7UW"
           },
-          "initialAmpFactor": "03e8",
-          "targetAmpFactor": "07d0",
-          "startRampTimestamp": 1651036584,
-          "stopRampTimestamp": 1651209366,
+          "initialAmpFactor": "07d0",
+          "targetAmpFactor": "0bb8",
+          "startRampTimestamp": 1740309794,
+          "stopRampTimestamp": 1740568987,
           "fees": {
             "trade": {
               "isFraction": true,
