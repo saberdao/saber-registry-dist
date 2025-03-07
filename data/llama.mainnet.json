@@ -480,13 +480,13 @@
     "decimals": 9
   },
   {
-    "id": "bsol_swansol",
-    "lpMint": "47A3aoctFhnts7TmFPbYaSAJPp5wZLz1wbhCJj7eDyWr",
-    "tokenA": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
-    "tokenB": "9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT",
-    "authority": "9uywTzMB7oeCAw6Yc3yf22spPawdHqrUGwXb3BCEnc7m",
-    "reserveA": "2NKGMgpjsE26WJp8N66rngs6CijLb5Xx3ZtFWvGSA6GK",
-    "reserveB": "AGcycdSvnHnddg93HTySpX4kdLDFVhzGqEeAD4seqzUZ",
+    "id": "brosol_vsol",
+    "lpMint": "78SeG6RWYHFUHrVRjJpi8aHnkXcKhNii72XibGt2KJGi",
+    "tokenA": "broKrYYAnJ4jHSQVTCf2wmS6i6SR2sDXDDaWrPD2kJJ",
+    "tokenB": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+    "authority": "EHtHGsKo4PPNjj6V7RQ9MfQwjEZ2UW14LXK1d8LKBR58",
+    "reserveA": "DPSSDNqFiLWAdLYrsvdFxTcLJwTJSre8m7kdnxyN5uoQ",
+    "reserveB": "AYmVEY7E9sfHn3aY9Ye1ZEij67G4nxHv57pZiBY7vSWX",
     "tokenACoingecko": "solana",
     "tokenBCoingecko": "solana",
     "decimals": 9
@@ -1008,6 +1008,18 @@
     "decimals": 9
   },
   {
+    "id": "sagasol_vsol",
+    "lpMint": "J1AQLfu1TAJpXpEjq4xWK8vAP3t5UV4xTwhrsdmGyJKS",
+    "tokenA": "sagasDqusfYSQMf7DD2dNfUvX3coLZdmKE3ajyPK9kL",
+    "tokenB": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+    "authority": "8LTkoLK2oBMhGZkcecm6nj5VKHG31MsaxHAFtfQkeKx9",
+    "reserveA": "GFmMQVVAWjNt5DXeUj5LYJBgUsuHjtFPSmZh6zh9EH5f",
+    "reserveB": "HE3gZ43npwi3N1NfULcsMTZZ4QxhpcLuRp4YEV5VAFnB",
+    "tokenACoingecko": "solana",
+    "tokenBCoingecko": "solana",
+    "decimals": 9
+  },
+  {
     "id": "scn_jsol",
     "lpMint": "SoLaUA1vvCaidtQLYwt4yszBv1LtbYJDjEbwC4bzxca",
     "tokenA": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
@@ -1161,6 +1173,18 @@
     "reserveB": "8BCa6ge3b7ho3TfZuM64Vk1hgbrJ3J7EPiAb9uP86CGd",
     "tokenACoingecko": "solana",
     "tokenBCoingecko": "msol",
+    "decimals": 9
+  },
+  {
+    "id": "swansol_bsol",
+    "lpMint": "47A3aoctFhnts7TmFPbYaSAJPp5wZLz1wbhCJj7eDyWr",
+    "tokenA": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+    "tokenB": "9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT",
+    "authority": "9uywTzMB7oeCAw6Yc3yf22spPawdHqrUGwXb3BCEnc7m",
+    "reserveA": "2NKGMgpjsE26WJp8N66rngs6CijLb5Xx3ZtFWvGSA6GK",
+    "reserveB": "AGcycdSvnHnddg93HTySpX4kdLDFVhzGqEeAD4seqzUZ",
+    "tokenACoingecko": "solana",
+    "tokenBCoingecko": "solana",
     "decimals": 9
   },
   {
