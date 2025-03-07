@@ -6736,13 +6736,13 @@
             "reserve": "AYmVEY7E9sfHn3aY9Ye1ZEij67G4nxHv57pZiBY7vSWX"
           },
           "initialAmpFactor": "64",
-          "targetAmpFactor": "64",
-          "startRampTimestamp": 0,
-          "stopRampTimestamp": 0,
+          "targetAmpFactor": "03e8",
+          "startRampTimestamp": 1741340095,
+          "stopRampTimestamp": 1741599288,
           "fees": {
             "trade": {
               "isFraction": true,
-              "numeratorStr": "4",
+              "numeratorStr": "1",
               "denominatorStr": "10000",
               "isPercent": true
             },
@@ -16158,13 +16158,13 @@
             "reserve": "HE3gZ43npwi3N1NfULcsMTZZ4QxhpcLuRp4YEV5VAFnB"
           },
           "initialAmpFactor": "64",
-          "targetAmpFactor": "64",
-          "startRampTimestamp": 0,
-          "stopRampTimestamp": 0,
+          "targetAmpFactor": "03e8",
+          "startRampTimestamp": 1741340130,
+          "stopRampTimestamp": 1741599321,
           "fees": {
             "trade": {
               "isFraction": true,
-              "numeratorStr": "4",
+              "numeratorStr": "1",
               "denominatorStr": "10000",
               "isPercent": true
             },
