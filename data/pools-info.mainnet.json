@@ -6585,6 +6585,191 @@
       "quarry": "C3gVUf8sG3uk6pHmQPDVEUMcnxMEWk3ak5Cmyo2LmsEb"
     },
     {
+      "id": "booksol_vsol",
+      "name": "bookSOL-vSOL",
+      "tokens": [
+        {
+          "address": "bookHxJxgu5PhRLof8pNYnWrvxcoG7jfamn61EwxyiP",
+          "name": "bookSOL",
+          "decimals": 9,
+          "chainId": 101,
+          "symbol": "bookSOL",
+          "logoURI": "https://gateway.irys.xyz/UxwgHcnoXREaRHDQi08RYHTGe5CEBocRzCrA5_I3fRY",
+          "extensions": {
+            "coingeckoId": "solana",
+            "currency": "SOL"
+          },
+          "tags": [
+            "saber-mkt-sol"
+          ]
+        },
+        {
+          "name": "The Vault",
+          "symbol": "vSOL",
+          "logoURI": "https://bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta.ipfs.nftstorage.link/",
+          "decimals": 9,
+          "address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+          "chainId": 101,
+          "tags": [
+            "saber-mkt-sol"
+          ],
+          "extensions": {
+            "coingeckoId": "solana",
+            "source": "vault",
+            "currency": "SOL",
+            "sourceUrl": "https://thevault.finance"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "address": "bookHxJxgu5PhRLof8pNYnWrvxcoG7jfamn61EwxyiP",
+          "name": "bookSOL",
+          "decimals": 9,
+          "chainId": 101,
+          "symbol": "bookSOL",
+          "logoURI": "https://gateway.irys.xyz/UxwgHcnoXREaRHDQi08RYHTGe5CEBocRzCrA5_I3fRY",
+          "extensions": {
+            "coingeckoId": "solana",
+            "currency": "SOL"
+          },
+          "tags": [
+            "saber-mkt-sol"
+          ]
+        },
+        {
+          "name": "The Vault",
+          "symbol": "vSOL",
+          "logoURI": "https://bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta.ipfs.nftstorage.link/",
+          "decimals": 9,
+          "address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+          "chainId": 101,
+          "tags": [
+            "saber-mkt-sol"
+          ],
+          "extensions": {
+            "coingeckoId": "solana",
+            "source": "vault",
+            "currency": "SOL",
+            "sourceUrl": "https://thevault.finance"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "address": "bookHxJxgu5PhRLof8pNYnWrvxcoG7jfamn61EwxyiP",
+          "name": "bookSOL",
+          "decimals": 9,
+          "chainId": 101,
+          "symbol": "bookSOL",
+          "logoURI": "https://gateway.irys.xyz/UxwgHcnoXREaRHDQi08RYHTGe5CEBocRzCrA5_I3fRY",
+          "extensions": {
+            "coingeckoId": "solana",
+            "currency": "SOL"
+          },
+          "tags": [
+            "saber-mkt-sol"
+          ]
+        },
+        {
+          "name": "The Vault",
+          "symbol": "vSOL",
+          "logoURI": "https://bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta.ipfs.nftstorage.link/",
+          "decimals": 9,
+          "address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+          "chainId": 101,
+          "tags": [
+            "saber-mkt-sol"
+          ],
+          "extensions": {
+            "coingeckoId": "solana",
+            "source": "vault",
+            "currency": "SOL",
+            "sourceUrl": "https://thevault.finance"
+          }
+        }
+      ],
+      "currency": "SOL",
+      "lpToken": {
+        "symbol": "bookSOL-vSOL",
+        "name": "Saber bookSOL-vSOL LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "AWzyh3tqVGgPaJY26wm2hLcb6v9uuKXx8oub8cvwWY97",
+        "chainId": 101,
+        "tags": [
+          "saber-stableswap-lp"
+        ],
+        "extensions": {
+          "website": "https://app.saber.so/pools/booksol_vsol",
+          "underlyingTokens": [
+            "bookHxJxgu5PhRLof8pNYnWrvxcoG7jfamn61EwxyiP",
+            "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "DVZpdkfq3xocaPRxsDWpiCNq918sai2hJ3tgiuWFMzJg",
+      "swap": {
+        "config": {
+          "swapAccount": "7aYFq6XKZYippQER9sVbCZS2KEPkR4XW7s5ZvPY9R6RM",
+          "authority": "7Bo8kgdEMPbocW4TndCQGkm6N3qRwvCicjDbgnn3SLBp",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 253,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "poolTokenMint": "AWzyh3tqVGgPaJY26wm2hLcb6v9uuKXx8oub8cvwWY97",
+          "adminAccount": "4c2dDwwVHvKrnq7PDJHJiU2aup4wfFRcBNYDnfq7frRE",
+          "tokenA": {
+            "adminFeeAccount": "Ajb3mg9g7KcpwBKrjwbELoS1HREM1YjrqQFEuFk3jrCW",
+            "mint": "bookHxJxgu5PhRLof8pNYnWrvxcoG7jfamn61EwxyiP",
+            "reserve": "HX2HhyApzVQUjtGfMjCpJQdyZj6JyQbXMygMrU1t5kp8"
+          },
+          "tokenB": {
+            "adminFeeAccount": "FQXeCrdGzq2xVR1xFkL8wif2cBKKfzMA81Yz5TuhiCUJ",
+            "mint": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+            "reserve": "22n2ti5hk1te2N1euk8svE7wPq3HVSMwMBks4kbMhN1A"
+          },
+          "initialAmpFactor": "64",
+          "targetAmpFactor": "64",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "trade": {
+              "isFraction": true,
+              "numeratorStr": "4",
+              "denominatorStr": "10000",
+              "isPercent": true
+            },
+            "adminTrade": {
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
+            },
+            "withdraw": {
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
+            },
+            "adminWithdraw": {
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
+            }
+          }
+        }
+      },
+      "quarry": "EAMPARNxTUtVWQHVQCrgfsUHdDkNqm6vqDLQG3N6jKtK"
+    },
+    {
       "id": "brosol_vsol",
       "name": "broSOL-vSOL",
       "tokens": [

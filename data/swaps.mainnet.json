@@ -286,6 +286,36 @@
   },
   {
     "addresses": {
+      "admin": "4c2dDwwVHvKrnq7PDJHJiU2aup4wfFRcBNYDnfq7frRE",
+      "lpTokenMint": "AWzyh3tqVGgPaJY26wm2hLcb6v9uuKXx8oub8cvwWY97",
+      "mergePool": "9A7Asjw5Ztun7wrYSfXRwVyt8LQxknMiNdfVzJihzZkT",
+      "quarry": "EAMPARNxTUtVWQHVQCrgfsUHdDkNqm6vqDLQG3N6jKtK",
+      "reserves": [
+        "HX2HhyApzVQUjtGfMjCpJQdyZj6JyQbXMygMrU1t5kp8",
+        "22n2ti5hk1te2N1euk8svE7wPq3HVSMwMBks4kbMhN1A"
+      ],
+      "swapAccount": "7aYFq6XKZYippQER9sVbCZS2KEPkR4XW7s5ZvPY9R6RM",
+      "swapAuthority": "7Bo8kgdEMPbocW4TndCQGkm6N3qRwvCicjDbgnn3SLBp"
+    },
+    "currency": "SOL",
+    "decimals": 9,
+    "displayTokens": [
+      "bookHxJxgu5PhRLof8pNYnWrvxcoG7jfamn61EwxyiP",
+      "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+    ],
+    "id": "booksol_vsol",
+    "isVerified": true,
+    "name": "bookSOL-vSOL",
+    "sources": [
+      "vault"
+    ],
+    "underlyingTokens": [
+      "bookHxJxgu5PhRLof8pNYnWrvxcoG7jfamn61EwxyiP",
+      "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+    ]
+  },
+  {
+    "addresses": {
       "admin": "GLF6LNrhB5qgaTdUR7qVwVqL4XPTRj8jd3GYebBWNwpF",
       "lpTokenMint": "4FKZsej5FonJWj24xhgG13wV4FSMQqTDwABBQaoQNMZF",
       "mergePool": "F46N3Zhh7oG44NXScMNc8xXCxDHRH2HoM1M5fv7D1Swe",
