@@ -957,7 +957,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "4"
+          "numeratorStr": "1"
         },
         "withdraw": {
           "denominatorStr": "10000",
@@ -973,9 +973,9 @@
       "isPaused": false,
       "nonce": 253,
       "poolTokenMint": "AWzyh3tqVGgPaJY26wm2hLcb6v9uuKXx8oub8cvwWY97",
-      "startRampTimestamp": 0,
-      "stopRampTimestamp": 0,
-      "targetAmpFactor": "64",
+      "startRampTimestamp": 1741603410,
+      "stopRampTimestamp": 1741862603,
+      "targetAmpFactor": "03e8",
       "tokenA": {
         "adminFeeAccount": "Ajb3mg9g7KcpwBKrjwbELoS1HREM1YjrqQFEuFk3jrCW",
         "mint": "bookHxJxgu5PhRLof8pNYnWrvxcoG7jfamn61EwxyiP",

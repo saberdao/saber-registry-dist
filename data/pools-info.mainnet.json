@@ -6736,13 +6736,13 @@
             "reserve": "22n2ti5hk1te2N1euk8svE7wPq3HVSMwMBks4kbMhN1A"
           },
           "initialAmpFactor": "64",
-          "targetAmpFactor": "64",
-          "startRampTimestamp": 0,
-          "stopRampTimestamp": 0,
+          "targetAmpFactor": "03e8",
+          "startRampTimestamp": 1741603410,
+          "stopRampTimestamp": 1741862603,
           "fees": {
             "trade": {
               "isFraction": true,
-              "numeratorStr": "4",
+              "numeratorStr": "1",
               "denominatorStr": "10000",
               "isPercent": true
             },
