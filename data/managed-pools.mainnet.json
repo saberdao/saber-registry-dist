@@ -1010,16 +1010,16 @@
   {
     "pool": {
       "bump": 255,
-      "index": 102,
-      "key": "4Xvjkg3fPAkKHD3zRSGH3u7DfKbQCFxHuYYQ8or2Yc86",
+      "index": 34,
+      "key": "GLF6LNrhB5qgaTdUR7qVwVqL4XPTRj8jd3GYebBWNwpF",
       "lpMint": "4FKZsej5FonJWj24xhgG13wV4FSMQqTDwABBQaoQNMZF",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
       "mintB": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
       "permissionlessImport": false,
       "swap": "7dwD9TF6uikvHXxPFK9AsSim54yJoujQjY9vU6gNFumk",
-      "tokenAFees": "GfQjypXeKEe7vzR1skMshCZpTswHsj6XHkFGfTyzJPVB",
-      "tokenBFees": "7tGC2mWMjFTzV4EdF2Hr81bSivD3FdTfkboqEsea5yqx",
+      "tokenAFees": "HnTYrfGhvDBDA2GYfUbmtnNW6beXszVNZqwPfeyxqxYR",
+      "tokenBFees": "9r1QrKdtdvVT9DqsEuXU8WC6iDqnTjACxUMTsvxUj9qf",
       "tokenDecimals": 9
     },
     "state": {
@@ -1094,16 +1094,16 @@
   {
     "pool": {
       "bump": 255,
-      "index": 34,
-      "key": "GLF6LNrhB5qgaTdUR7qVwVqL4XPTRj8jd3GYebBWNwpF",
+      "index": 102,
+      "key": "4Xvjkg3fPAkKHD3zRSGH3u7DfKbQCFxHuYYQ8or2Yc86",
       "lpMint": "4FKZsej5FonJWj24xhgG13wV4FSMQqTDwABBQaoQNMZF",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
       "mintB": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
       "permissionlessImport": false,
       "swap": "7dwD9TF6uikvHXxPFK9AsSim54yJoujQjY9vU6gNFumk",
-      "tokenAFees": "HnTYrfGhvDBDA2GYfUbmtnNW6beXszVNZqwPfeyxqxYR",
-      "tokenBFees": "9r1QrKdtdvVT9DqsEuXU8WC6iDqnTjACxUMTsvxUj9qf",
+      "tokenAFees": "GfQjypXeKEe7vzR1skMshCZpTswHsj6XHkFGfTyzJPVB",
+      "tokenBFees": "7tGC2mWMjFTzV4EdF2Hr81bSivD3FdTfkboqEsea5yqx",
       "tokenDecimals": 9
     },
     "state": {
@@ -1430,16 +1430,16 @@
   {
     "pool": {
       "bump": 253,
-      "index": 61,
-      "key": "7Yzk4WuWgkivCfKyQxAHsmxfTxUpTP6DPQSHwdPYAMyQ",
+      "index": 119,
+      "key": "HnweCCwu8hEhtFbkLDy6WWEWiXKYiZaRnJ9bJpduobtv",
       "lpMint": "uitHwGt7Z7ZHbrxNZoTxcufWvEMSUK4LcirXsecffMz",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
       "mintB": "HUBsveNpjo5pWqNkH57QzxjQASdTVXcSK7bVKTSZtcSX",
-      "permissionlessImport": false,
+      "permissionlessImport": true,
       "swap": "8MgrW6UFJRuZMNA44286yL8hCYmsmEvSfBZ5Zv5q6rVe",
-      "tokenAFees": "C8Xu8t2CXmViSHY9Jo2MtkVDv3kDZSegUN4KGvwHWGp6",
-      "tokenBFees": "5NzKmAnGcQHdHpN3biAFzxedhhTDKtUSrA6f6cgD7uNP",
+      "tokenAFees": "5fosjTdUgwaehKPpEfJBasZM3K8kdEAynaAzCdh8ELNX",
+      "tokenBFees": "Cbuts3c1nYef7mVkTSkDX1xe1s7TBqGecF6tWf7nvs3N",
       "tokenDecimals": 9
     },
     "state": {
@@ -1514,16 +1514,16 @@
   {
     "pool": {
       "bump": 253,
-      "index": 119,
-      "key": "HnweCCwu8hEhtFbkLDy6WWEWiXKYiZaRnJ9bJpduobtv",
+      "index": 61,
+      "key": "7Yzk4WuWgkivCfKyQxAHsmxfTxUpTP6DPQSHwdPYAMyQ",
       "lpMint": "uitHwGt7Z7ZHbrxNZoTxcufWvEMSUK4LcirXsecffMz",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
       "mintB": "HUBsveNpjo5pWqNkH57QzxjQASdTVXcSK7bVKTSZtcSX",
-      "permissionlessImport": true,
+      "permissionlessImport": false,
       "swap": "8MgrW6UFJRuZMNA44286yL8hCYmsmEvSfBZ5Zv5q6rVe",
-      "tokenAFees": "5fosjTdUgwaehKPpEfJBasZM3K8kdEAynaAzCdh8ELNX",
-      "tokenBFees": "Cbuts3c1nYef7mVkTSkDX1xe1s7TBqGecF6tWf7nvs3N",
+      "tokenAFees": "C8Xu8t2CXmViSHY9Jo2MtkVDv3kDZSegUN4KGvwHWGp6",
+      "tokenBFees": "5NzKmAnGcQHdHpN3biAFzxedhhTDKtUSrA6f6cgD7uNP",
       "tokenDecimals": 9
     },
     "state": {
@@ -1850,6 +1850,90 @@
   {
     "pool": {
       "bump": 255,
+      "index": 123,
+      "key": "6kRtv4YLcoGG2KZBN5Yricr2tvQtCeq9nJw4jgf6YfN2",
+      "lpMint": "PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "mintA": "DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ",
+      "mintB": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "permissionlessImport": false,
+      "swap": "ALBpShJ9NLpE739pcHDF2LNVk5J4VYPvvKuV6jMPitZi",
+      "tokenAFees": "6e8yMTdZav8yFNfxbLzkSkMvVe2HPeLKdVjxoBkZWeyB",
+      "tokenBFees": "2re6UnzsjobMxLmE3B4iNVKzXX7hiuBM8uffotCdpV35",
+      "tokenDecimals": 6
+    },
+    "state": {
+      "adminAccount": "6kRtv4YLcoGG2KZBN5Yricr2tvQtCeq9nJw4jgf6YfN2",
+      "fees": {
+        "adminTrade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "adminWithdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "trade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "4"
+        },
+        "withdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        }
+      },
+      "futureAdminAccount": "11111111111111111111111111111111",
+      "futureAdminDeadline": 0,
+      "initialAmpFactor": "96",
+      "isInitialized": true,
+      "isPaused": false,
+      "nonce": 255,
+      "poolTokenMint": "PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj",
+      "startRampTimestamp": 0,
+      "stopRampTimestamp": 0,
+      "targetAmpFactor": "96",
+      "tokenA": {
+        "adminFeeAccount": "6e8yMTdZav8yFNfxbLzkSkMvVe2HPeLKdVjxoBkZWeyB",
+        "mint": "DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ",
+        "reserve": "D6d156U1bPiJpDYRLextvDRccgFk7QzkQbJg42ceKEu5"
+      },
+      "tokenB": {
+        "adminFeeAccount": "2re6UnzsjobMxLmE3B4iNVKzXX7hiuBM8uffotCdpV35",
+        "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+        "reserve": "GNcM8U5g8RwTZffwwm3kSQqUNPSwv5d2fbN9sLxPJqt2"
+      }
+    },
+    "summary": {
+      "addresses": {
+        "admin": "6kRtv4YLcoGG2KZBN5Yricr2tvQtCeq9nJw4jgf6YfN2",
+        "lpTokenMint": "PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj",
+        "mergePool": "ASGtHtJea3Biaz3L9CRYhr7Wf8xFxMSFWqziWbmFKmyr",
+        "quarry": "9ngf7fgxie59xAbEcMZF27QbcVgRea88RbXqjFccE4dA",
+        "reserves": [
+          "D6d156U1bPiJpDYRLextvDRccgFk7QzkQbJg42ceKEu5",
+          "GNcM8U5g8RwTZffwwm3kSQqUNPSwv5d2fbN9sLxPJqt2"
+        ],
+        "swapAccount": "ALBpShJ9NLpE739pcHDF2LNVk5J4VYPvvKuV6jMPitZi",
+        "swapAuthority": "4S8xo3PeKfs3kY7ecS2amiffJZ4WXCAceDhUseE11q5E"
+      },
+      "decimals": 6,
+      "underlyingTokens": [
+        "DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ",
+        "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+      ]
+    }
+  },
+  {
+    "pool": {
+      "bump": 255,
       "index": 24,
       "key": "3mTb5EuFPHfbsNN7rTRzDCB6LykbDZKGiCpCLL6mNmSw",
       "lpMint": "PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj",
@@ -1934,100 +2018,16 @@
   {
     "pool": {
       "bump": 255,
-      "index": 123,
-      "key": "6kRtv4YLcoGG2KZBN5Yricr2tvQtCeq9nJw4jgf6YfN2",
-      "lpMint": "PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
-      "mintA": "DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ",
-      "mintB": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-      "permissionlessImport": false,
-      "swap": "ALBpShJ9NLpE739pcHDF2LNVk5J4VYPvvKuV6jMPitZi",
-      "tokenAFees": "6e8yMTdZav8yFNfxbLzkSkMvVe2HPeLKdVjxoBkZWeyB",
-      "tokenBFees": "2re6UnzsjobMxLmE3B4iNVKzXX7hiuBM8uffotCdpV35",
-      "tokenDecimals": 6
-    },
-    "state": {
-      "adminAccount": "6kRtv4YLcoGG2KZBN5Yricr2tvQtCeq9nJw4jgf6YfN2",
-      "fees": {
-        "adminTrade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "adminWithdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "trade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "4"
-        },
-        "withdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        }
-      },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
-      "initialAmpFactor": "96",
-      "isInitialized": true,
-      "isPaused": false,
-      "nonce": 255,
-      "poolTokenMint": "PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj",
-      "startRampTimestamp": 0,
-      "stopRampTimestamp": 0,
-      "targetAmpFactor": "96",
-      "tokenA": {
-        "adminFeeAccount": "6e8yMTdZav8yFNfxbLzkSkMvVe2HPeLKdVjxoBkZWeyB",
-        "mint": "DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ",
-        "reserve": "D6d156U1bPiJpDYRLextvDRccgFk7QzkQbJg42ceKEu5"
-      },
-      "tokenB": {
-        "adminFeeAccount": "2re6UnzsjobMxLmE3B4iNVKzXX7hiuBM8uffotCdpV35",
-        "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-        "reserve": "GNcM8U5g8RwTZffwwm3kSQqUNPSwv5d2fbN9sLxPJqt2"
-      }
-    },
-    "summary": {
-      "addresses": {
-        "admin": "6kRtv4YLcoGG2KZBN5Yricr2tvQtCeq9nJw4jgf6YfN2",
-        "lpTokenMint": "PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj",
-        "mergePool": "ASGtHtJea3Biaz3L9CRYhr7Wf8xFxMSFWqziWbmFKmyr",
-        "quarry": "9ngf7fgxie59xAbEcMZF27QbcVgRea88RbXqjFccE4dA",
-        "reserves": [
-          "D6d156U1bPiJpDYRLextvDRccgFk7QzkQbJg42ceKEu5",
-          "GNcM8U5g8RwTZffwwm3kSQqUNPSwv5d2fbN9sLxPJqt2"
-        ],
-        "swapAccount": "ALBpShJ9NLpE739pcHDF2LNVk5J4VYPvvKuV6jMPitZi",
-        "swapAuthority": "4S8xo3PeKfs3kY7ecS2amiffJZ4WXCAceDhUseE11q5E"
-      },
-      "decimals": 6,
-      "underlyingTokens": [
-        "DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ",
-        "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
-      ]
-    }
-  },
-  {
-    "pool": {
-      "bump": 254,
-      "index": 42,
-      "key": "3dM9ttZRfoAU6STgmLWDE9EZFTA5Bi9D5ykoQ2W9r5HN",
+      "index": 14,
+      "key": "4co23umizDKQscKkeLoY5hCP6xMkd61FGb9irUANrnhg",
       "lpMint": "AET3m1Mp2SLi7QX3tSypcZWyEtk1d8dUGcwhweDiZdaR",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
       "mintB": "AaAEw2VCw1XzgvKB8Rj2DyK2ZVau9fbt2bE8hZFWsMyE",
       "permissionlessImport": false,
       "swap": "ALLwa5WNZbvQsRKAqe1jdRGemdYQnW8E5k4msbRFcYtu",
-      "tokenAFees": "6Mb8nmJHsh5n9UzJMPyY4gGLQEnmnZV6Vp2WmKdDxPWb",
-      "tokenBFees": "BNGE59ZcTRZsgnWZj8cokSEfovK956JJHZ6pQgHhoWQZ",
+      "tokenAFees": "3YtJRF3L5gzAr42sA8n5FaNqC64haw3j8c7tL78b7Ksm",
+      "tokenBFees": "DqbBwHR6s7BmmK3wJ3ZD4YVXjZd748hCTefScH2dWGWj",
       "tokenDecimals": 9
     },
     "state": {
@@ -2101,17 +2101,17 @@
   },
   {
     "pool": {
-      "bump": 255,
-      "index": 14,
-      "key": "4co23umizDKQscKkeLoY5hCP6xMkd61FGb9irUANrnhg",
+      "bump": 254,
+      "index": 42,
+      "key": "3dM9ttZRfoAU6STgmLWDE9EZFTA5Bi9D5ykoQ2W9r5HN",
       "lpMint": "AET3m1Mp2SLi7QX3tSypcZWyEtk1d8dUGcwhweDiZdaR",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
       "mintB": "AaAEw2VCw1XzgvKB8Rj2DyK2ZVau9fbt2bE8hZFWsMyE",
       "permissionlessImport": false,
       "swap": "ALLwa5WNZbvQsRKAqe1jdRGemdYQnW8E5k4msbRFcYtu",
-      "tokenAFees": "3YtJRF3L5gzAr42sA8n5FaNqC64haw3j8c7tL78b7Ksm",
-      "tokenBFees": "DqbBwHR6s7BmmK3wJ3ZD4YVXjZd748hCTefScH2dWGWj",
+      "tokenAFees": "6Mb8nmJHsh5n9UzJMPyY4gGLQEnmnZV6Vp2WmKdDxPWb",
+      "tokenBFees": "BNGE59ZcTRZsgnWZj8cokSEfovK956JJHZ6pQgHhoWQZ",
       "tokenDecimals": 9
     },
     "state": {
@@ -2269,17 +2269,17 @@
   },
   {
     "pool": {
-      "bump": 254,
-      "index": 108,
-      "key": "Dm6Kg3SGL8sfWGCmRsYQZVVGE6U7gWL3tT2SXCKgMvbN",
+      "bump": 255,
+      "index": 25,
+      "key": "GedWR7tUUKy9aMmA4dH3sd9MZmhLAB7RrbbDtKQnw2if",
       "lpMint": "ALP89a89ASo1h5VosTSABtQBKLBgeoaWQexYQrRCMNfV",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
       "mintB": "So11111111111111111111111111111111111111112",
       "permissionlessImport": false,
       "swap": "AURHmCnNwiW4uA2Qj1XvEh4iKgRUZYXtiY7FKAapUV5Y",
-      "tokenAFees": "9eeEiq5zN8RtvpZhehMrqijZ483w5YGEyGfV62whuqiP",
-      "tokenBFees": "FcR7AbLq21PCM17B6QWFo4BLzHgRgLssT8X7vTCQgFue",
+      "tokenAFees": "4e7K1sRxauEPf6XnTnnnbSKi4zjda2LyChpQB4qPJYTd",
+      "tokenBFees": "BTJxL7z9CzGEvNo9oN2keWykFfErcVnBqMMZa1BNU31J",
       "tokenDecimals": 9
     },
     "state": {
@@ -2353,17 +2353,17 @@
   },
   {
     "pool": {
-      "bump": 255,
-      "index": 25,
-      "key": "GedWR7tUUKy9aMmA4dH3sd9MZmhLAB7RrbbDtKQnw2if",
+      "bump": 254,
+      "index": 108,
+      "key": "Dm6Kg3SGL8sfWGCmRsYQZVVGE6U7gWL3tT2SXCKgMvbN",
       "lpMint": "ALP89a89ASo1h5VosTSABtQBKLBgeoaWQexYQrRCMNfV",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
       "mintB": "So11111111111111111111111111111111111111112",
       "permissionlessImport": false,
       "swap": "AURHmCnNwiW4uA2Qj1XvEh4iKgRUZYXtiY7FKAapUV5Y",
-      "tokenAFees": "4e7K1sRxauEPf6XnTnnnbSKi4zjda2LyChpQB4qPJYTd",
-      "tokenBFees": "BTJxL7z9CzGEvNo9oN2keWykFfErcVnBqMMZa1BNU31J",
+      "tokenAFees": "9eeEiq5zN8RtvpZhehMrqijZ483w5YGEyGfV62whuqiP",
+      "tokenBFees": "FcR7AbLq21PCM17B6QWFo4BLzHgRgLssT8X7vTCQgFue",
       "tokenDecimals": 9
     },
     "state": {
@@ -2606,16 +2606,16 @@
   {
     "pool": {
       "bump": 255,
-      "index": 23,
-      "key": "8sMyrCKaPcwAV1RCkG2L7nZXoXrNfeX7V6h7hq49TPrf",
+      "index": 73,
+      "key": "EdAznJQTjbyAnPZFQmyhwjx4u6tXLDW7RnTRo7R393m7",
       "lpMint": "APUVVYA8Xf7T1PqLyDvNxLtwQ9rRDf3RUxfMttreVzHP",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca",
       "mintB": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "permissionlessImport": false,
       "swap": "AUSejoEUCh2DBs9mof6BNC8Pubs22w4cJa1ccV9h44R",
-      "tokenAFees": "2ckZv6RqJuU9wjYGgMd4h9ZD4qBdiU7TC3sdsEdNR8fY",
-      "tokenBFees": "EP7vfnJedUyTAVeUxDc64UFGFBupY11DWiTB3p846EfU",
+      "tokenAFees": "Hi1ack2fcPpQumVVtxcyh8Fsypt7Kbwk8tSQZWFfapxD",
+      "tokenBFees": "3Zs4rZj81e8UV7jX5uuVSk5aS7LpNFKadXxU4fxeRNQv",
       "tokenDecimals": 6
     },
     "state": {
@@ -2690,16 +2690,16 @@
   {
     "pool": {
       "bump": 255,
-      "index": 73,
-      "key": "EdAznJQTjbyAnPZFQmyhwjx4u6tXLDW7RnTRo7R393m7",
+      "index": 23,
+      "key": "8sMyrCKaPcwAV1RCkG2L7nZXoXrNfeX7V6h7hq49TPrf",
       "lpMint": "APUVVYA8Xf7T1PqLyDvNxLtwQ9rRDf3RUxfMttreVzHP",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca",
       "mintB": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "permissionlessImport": false,
       "swap": "AUSejoEUCh2DBs9mof6BNC8Pubs22w4cJa1ccV9h44R",
-      "tokenAFees": "Hi1ack2fcPpQumVVtxcyh8Fsypt7Kbwk8tSQZWFfapxD",
-      "tokenBFees": "3Zs4rZj81e8UV7jX5uuVSk5aS7LpNFKadXxU4fxeRNQv",
+      "tokenAFees": "2ckZv6RqJuU9wjYGgMd4h9ZD4qBdiU7TC3sdsEdNR8fY",
+      "tokenBFees": "EP7vfnJedUyTAVeUxDc64UFGFBupY11DWiTB3p846EfU",
       "tokenDecimals": 6
     },
     "state": {
@@ -3109,17 +3109,17 @@
   },
   {
     "pool": {
-      "bump": 253,
-      "index": 94,
-      "key": "3x3Yy9LvkmJFswoXKGMu4zmKcWjgrYj5tVfe4tjR7xSL",
+      "bump": 255,
+      "index": 43,
+      "key": "4UaNQKQBPzBVrJhjfqtv4bHmcrL6DTy6KN5H6W2grNg1",
       "lpMint": "BRENm9SgYJZuCxM4ZJiH6CmZqEBn4MLpD9cnBZDnJgeT",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
       "mintB": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
       "permissionlessImport": false,
       "swap": "BDGnasCnLUuqHVpHipGuevAsnHuMsBLya1RZSo4ZzMUF",
-      "tokenAFees": "8CAUfJ3cGeAAYX7YEAUC7VEB3dPMXs2sZAuti2mi1hXz",
-      "tokenBFees": "73omECErRK6P3vrVgAFBpc8rRQjuuyreV1ShqRtMGUed",
+      "tokenAFees": "4mj3SDyGGMpWGmECFiwY38CA6sLxBgLqjERJShC3B9By",
+      "tokenBFees": "DEtSQshR5MTo2wzgwACG5SjwmpAUqRTyMeqKxiRgbgCY",
       "tokenDecimals": 9
     },
     "state": {
@@ -3193,17 +3193,17 @@
   },
   {
     "pool": {
-      "bump": 255,
-      "index": 43,
-      "key": "4UaNQKQBPzBVrJhjfqtv4bHmcrL6DTy6KN5H6W2grNg1",
+      "bump": 253,
+      "index": 94,
+      "key": "3x3Yy9LvkmJFswoXKGMu4zmKcWjgrYj5tVfe4tjR7xSL",
       "lpMint": "BRENm9SgYJZuCxM4ZJiH6CmZqEBn4MLpD9cnBZDnJgeT",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
       "mintB": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
       "permissionlessImport": false,
       "swap": "BDGnasCnLUuqHVpHipGuevAsnHuMsBLya1RZSo4ZzMUF",
-      "tokenAFees": "4mj3SDyGGMpWGmECFiwY38CA6sLxBgLqjERJShC3B9By",
-      "tokenBFees": "DEtSQshR5MTo2wzgwACG5SjwmpAUqRTyMeqKxiRgbgCY",
+      "tokenAFees": "8CAUfJ3cGeAAYX7YEAUC7VEB3dPMXs2sZAuti2mi1hXz",
+      "tokenBFees": "73omECErRK6P3vrVgAFBpc8rRQjuuyreV1ShqRtMGUed",
       "tokenDecimals": 9
     },
     "state": {
@@ -3949,6 +3949,90 @@
   },
   {
     "pool": {
+      "bump": 255,
+      "index": 30,
+      "key": "8GAo2n3E7jcrZeK9SyXvX7TG8xYx71U6BWRk91s4qcMQ",
+      "lpMint": "BUSDaZjarCrQJLeHpWi7aLaKptdR1S8DFpwdDuuZu9p3",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "mintA": "AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX",
+      "mintB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+      "permissionlessImport": false,
+      "swap": "BkMBnJpvHKtWhUvrgRrLesXfi9RUV3ELgdBaJcdH7hcY",
+      "tokenAFees": "3WmdrG1ESnSDYes4ENnXzyp6bbHjP8badDe2qaUf2iRG",
+      "tokenBFees": "DoEoomAbK5aFkzSF1QmdN7HAToQYGsUy6MVthUM67hzT",
+      "tokenDecimals": 9
+    },
+    "state": {
+      "adminAccount": "3L4zzVvGnvNkAK7Rz33F9XpooHKBDcBK7xKN3BGAiaX2",
+      "fees": {
+        "adminTrade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "adminWithdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "trade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "4"
+        },
+        "withdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        }
+      },
+      "futureAdminAccount": "11111111111111111111111111111111",
+      "futureAdminDeadline": 0,
+      "initialAmpFactor": "96",
+      "isInitialized": true,
+      "isPaused": false,
+      "nonce": 255,
+      "poolTokenMint": "BUSDaZjarCrQJLeHpWi7aLaKptdR1S8DFpwdDuuZu9p3",
+      "startRampTimestamp": 0,
+      "stopRampTimestamp": 0,
+      "targetAmpFactor": "96",
+      "tokenA": {
+        "adminFeeAccount": "J8SCPZ2cbYPYPByMbEhmjn751heWUjAxjv6cczhinV4D",
+        "mint": "AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX",
+        "reserve": "5uerVwBnZQsuVhZ15igs7ZgmcqhHnYWbwoRtLyRqLvR"
+      },
+      "tokenB": {
+        "adminFeeAccount": "FEu78sWJD8ShYtKshX54kUMfumf7CXyMzmL16SBL7Kt1",
+        "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+        "reserve": "9YWiQh5d4jCtgMdzcGLv9bWgnLaFtzvDDh2nnhJdzhBX"
+      }
+    },
+    "summary": {
+      "addresses": {
+        "admin": "3L4zzVvGnvNkAK7Rz33F9XpooHKBDcBK7xKN3BGAiaX2",
+        "lpTokenMint": "BUSDaZjarCrQJLeHpWi7aLaKptdR1S8DFpwdDuuZu9p3",
+        "mergePool": "5KTBse4JeuKihPRjbHwB1otWoYrzHZWxdGWWSSWS4qVg",
+        "quarry": "FdefcL2FRLhz9bDnjyypuV8qRJ5p2TRKV2yUDxqFcFRN",
+        "reserves": [
+          "5uerVwBnZQsuVhZ15igs7ZgmcqhHnYWbwoRtLyRqLvR",
+          "9YWiQh5d4jCtgMdzcGLv9bWgnLaFtzvDDh2nnhJdzhBX"
+        ],
+        "swapAccount": "BkMBnJpvHKtWhUvrgRrLesXfi9RUV3ELgdBaJcdH7hcY",
+        "swapAuthority": "FDndRkBVpFoNBHY6Jhx7PgNpysvZjt3P2MZ95vmkSfWa"
+      },
+      "decimals": 9,
+      "underlyingTokens": [
+        "AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX",
+        "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+      ]
+    }
+  },
+  {
+    "pool": {
       "bump": 254,
       "index": 23,
       "key": "3L4zzVvGnvNkAK7Rz33F9XpooHKBDcBK7xKN3BGAiaX2",
@@ -4034,20 +4118,20 @@
   {
     "pool": {
       "bump": 255,
-      "index": 30,
-      "key": "8GAo2n3E7jcrZeK9SyXvX7TG8xYx71U6BWRk91s4qcMQ",
-      "lpMint": "BUSDaZjarCrQJLeHpWi7aLaKptdR1S8DFpwdDuuZu9p3",
+      "index": 29,
+      "key": "E2gajrH3ztUMEiGZeqWCqaXMsWNzW6yidAb6Jiu9GKJS",
+      "lpMint": "SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs",
       "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
-      "mintA": "AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX",
-      "mintB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+      "mintA": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+      "mintB": "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv",
       "permissionlessImport": false,
-      "swap": "BkMBnJpvHKtWhUvrgRrLesXfi9RUV3ELgdBaJcdH7hcY",
-      "tokenAFees": "3WmdrG1ESnSDYes4ENnXzyp6bbHjP8badDe2qaUf2iRG",
-      "tokenBFees": "DoEoomAbK5aFkzSF1QmdN7HAToQYGsUy6MVthUM67hzT",
-      "tokenDecimals": 9
+      "swap": "BkwbeSfcX1h4thMDd7obGkHrPevf3QwgzJ4pCEqG18Lu",
+      "tokenAFees": "BtWyCxodyYWEXED61iSZoD4cng7E7rCRuuHJj52CRcBv",
+      "tokenBFees": "A94zn3axQ1PyMsrFzSH6KHKkmTMkKHPwJxsczVjShu9u",
+      "tokenDecimals": 8
     },
     "state": {
-      "adminAccount": "3L4zzVvGnvNkAK7Rz33F9XpooHKBDcBK7xKN3BGAiaX2",
+      "adminAccount": "Dz7V5tp7ce6826LvTVsKGi4c6AEaANyuVuViJPkctrHq",
       "fees": {
         "adminTrade": {
           "denominatorStr": "10000",
@@ -4079,39 +4163,39 @@
       "initialAmpFactor": "96",
       "isInitialized": true,
       "isPaused": false,
-      "nonce": 255,
-      "poolTokenMint": "BUSDaZjarCrQJLeHpWi7aLaKptdR1S8DFpwdDuuZu9p3",
+      "nonce": 248,
+      "poolTokenMint": "SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs",
       "startRampTimestamp": 0,
       "stopRampTimestamp": 0,
       "targetAmpFactor": "96",
       "tokenA": {
-        "adminFeeAccount": "J8SCPZ2cbYPYPByMbEhmjn751heWUjAxjv6cczhinV4D",
-        "mint": "AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX",
-        "reserve": "5uerVwBnZQsuVhZ15igs7ZgmcqhHnYWbwoRtLyRqLvR"
+        "adminFeeAccount": "QxTVo5qavyWk2Q72Mc53kMdmoLqDrCQdJCP8ENj9kd1",
+        "mint": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+        "reserve": "35yX27bmurdebhfAb8EPmjLETDiUaEUCn9zHaDPbakH2"
       },
       "tokenB": {
-        "adminFeeAccount": "FEu78sWJD8ShYtKshX54kUMfumf7CXyMzmL16SBL7Kt1",
-        "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-        "reserve": "9YWiQh5d4jCtgMdzcGLv9bWgnLaFtzvDDh2nnhJdzhBX"
+        "adminFeeAccount": "3dchdDDZ7XisK5C2u77bdPYJqg3G9etetTDrCoShyxw5",
+        "mint": "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv",
+        "reserve": "2CxECn1ZJFoESyUnQysQU8rRgT3iJ5GRs2Mdd6gZjx5g"
       }
     },
     "summary": {
       "addresses": {
-        "admin": "3L4zzVvGnvNkAK7Rz33F9XpooHKBDcBK7xKN3BGAiaX2",
-        "lpTokenMint": "BUSDaZjarCrQJLeHpWi7aLaKptdR1S8DFpwdDuuZu9p3",
-        "mergePool": "5KTBse4JeuKihPRjbHwB1otWoYrzHZWxdGWWSSWS4qVg",
-        "quarry": "FdefcL2FRLhz9bDnjyypuV8qRJ5p2TRKV2yUDxqFcFRN",
+        "admin": "Dz7V5tp7ce6826LvTVsKGi4c6AEaANyuVuViJPkctrHq",
+        "lpTokenMint": "SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs",
+        "mergePool": "2n8i18VBnm77bnUJL3zsobyMnqsB3KvxHYapr3mG3FFF",
+        "quarry": "4pp9vu4oVr61KmyW1byfXg613jhfsDAA6FCuLhw9ycMp",
         "reserves": [
-          "5uerVwBnZQsuVhZ15igs7ZgmcqhHnYWbwoRtLyRqLvR",
-          "9YWiQh5d4jCtgMdzcGLv9bWgnLaFtzvDDh2nnhJdzhBX"
+          "35yX27bmurdebhfAb8EPmjLETDiUaEUCn9zHaDPbakH2",
+          "2CxECn1ZJFoESyUnQysQU8rRgT3iJ5GRs2Mdd6gZjx5g"
         ],
-        "swapAccount": "BkMBnJpvHKtWhUvrgRrLesXfi9RUV3ELgdBaJcdH7hcY",
-        "swapAuthority": "FDndRkBVpFoNBHY6Jhx7PgNpysvZjt3P2MZ95vmkSfWa"
+        "swapAccount": "BkwbeSfcX1h4thMDd7obGkHrPevf3QwgzJ4pCEqG18Lu",
+        "swapAuthority": "Fekck54VF2MdesR74trJteZbiKj1TD5AVQisXr8E7fjG"
       },
-      "decimals": 9,
+      "decimals": 8,
       "underlyingTokens": [
-        "AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX",
-        "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+        "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv"
       ]
     }
   },
@@ -4202,20 +4286,20 @@
   {
     "pool": {
       "bump": 255,
-      "index": 29,
-      "key": "E2gajrH3ztUMEiGZeqWCqaXMsWNzW6yidAb6Jiu9GKJS",
-      "lpMint": "SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
-      "mintA": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
-      "mintB": "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv",
+      "index": 96,
+      "key": "BazNzpACSeqU6EMSyQtsvAiBPWoaivLRegq7nTDcVN1c",
+      "lpMint": "xFTTLsMdN28XHtYTTTVWYz5zwXWBm5r1WTuZ7Cc7SyA",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "mintA": "Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9",
+      "mintB": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
       "permissionlessImport": false,
-      "swap": "BkwbeSfcX1h4thMDd7obGkHrPevf3QwgzJ4pCEqG18Lu",
-      "tokenAFees": "BtWyCxodyYWEXED61iSZoD4cng7E7rCRuuHJj52CRcBv",
-      "tokenBFees": "A94zn3axQ1PyMsrFzSH6KHKkmTMkKHPwJxsczVjShu9u",
+      "swap": "Bodz3SK3pzzskFdjwG5TXoavTzNLJbMV8VDQHvxkhTa1",
+      "tokenAFees": "DcxpECPsz44nfFxmAAsMYrmgbEDvbak6PRNasHZ6kP8N",
+      "tokenBFees": "8CCewNBDAnUidv13D3jGdQtJbZ884AyCtC9sUyKLBysW",
       "tokenDecimals": 8
     },
     "state": {
-      "adminAccount": "Dz7V5tp7ce6826LvTVsKGi4c6AEaANyuVuViJPkctrHq",
+      "adminAccount": "BazNzpACSeqU6EMSyQtsvAiBPWoaivLRegq7nTDcVN1c",
       "fees": {
         "adminTrade": {
           "denominatorStr": "10000",
@@ -4244,42 +4328,42 @@
       },
       "futureAdminAccount": "11111111111111111111111111111111",
       "futureAdminDeadline": 0,
-      "initialAmpFactor": "96",
+      "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": false,
-      "nonce": 248,
-      "poolTokenMint": "SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs",
+      "nonce": 254,
+      "poolTokenMint": "xFTTLsMdN28XHtYTTTVWYz5zwXWBm5r1WTuZ7Cc7SyA",
       "startRampTimestamp": 0,
       "stopRampTimestamp": 0,
-      "targetAmpFactor": "96",
+      "targetAmpFactor": "32",
       "tokenA": {
-        "adminFeeAccount": "QxTVo5qavyWk2Q72Mc53kMdmoLqDrCQdJCP8ENj9kd1",
-        "mint": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
-        "reserve": "35yX27bmurdebhfAb8EPmjLETDiUaEUCn9zHaDPbakH2"
+        "adminFeeAccount": "DcxpECPsz44nfFxmAAsMYrmgbEDvbak6PRNasHZ6kP8N",
+        "mint": "Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9",
+        "reserve": "HHnpxMvDcXaeHXTSnWw9y8gMeUMnnCzxWfACgx839nCt"
       },
       "tokenB": {
-        "adminFeeAccount": "3dchdDDZ7XisK5C2u77bdPYJqg3G9etetTDrCoShyxw5",
-        "mint": "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv",
-        "reserve": "2CxECn1ZJFoESyUnQysQU8rRgT3iJ5GRs2Mdd6gZjx5g"
+        "adminFeeAccount": "8CCewNBDAnUidv13D3jGdQtJbZ884AyCtC9sUyKLBysW",
+        "mint": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
+        "reserve": "Hk8UFqdvVdvJRZjKJV59PkrDrpLnbCCBMgDjVwx53cwi"
       }
     },
     "summary": {
       "addresses": {
-        "admin": "Dz7V5tp7ce6826LvTVsKGi4c6AEaANyuVuViJPkctrHq",
-        "lpTokenMint": "SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs",
-        "mergePool": "2n8i18VBnm77bnUJL3zsobyMnqsB3KvxHYapr3mG3FFF",
-        "quarry": "4pp9vu4oVr61KmyW1byfXg613jhfsDAA6FCuLhw9ycMp",
+        "admin": "BazNzpACSeqU6EMSyQtsvAiBPWoaivLRegq7nTDcVN1c",
+        "lpTokenMint": "xFTTLsMdN28XHtYTTTVWYz5zwXWBm5r1WTuZ7Cc7SyA",
+        "mergePool": "7NMGaRSepSBpQjFWn9pagh4JCpVLPhTLzN9JgEmrSJA9",
+        "quarry": "FdHVdkarMfbpPhiAhHtKK6PgH8ibN8SnGSqWhQkTyD2c",
         "reserves": [
-          "35yX27bmurdebhfAb8EPmjLETDiUaEUCn9zHaDPbakH2",
-          "2CxECn1ZJFoESyUnQysQU8rRgT3iJ5GRs2Mdd6gZjx5g"
+          "HHnpxMvDcXaeHXTSnWw9y8gMeUMnnCzxWfACgx839nCt",
+          "Hk8UFqdvVdvJRZjKJV59PkrDrpLnbCCBMgDjVwx53cwi"
         ],
-        "swapAccount": "BkwbeSfcX1h4thMDd7obGkHrPevf3QwgzJ4pCEqG18Lu",
-        "swapAuthority": "Fekck54VF2MdesR74trJteZbiKj1TD5AVQisXr8E7fjG"
+        "swapAccount": "Bodz3SK3pzzskFdjwG5TXoavTzNLJbMV8VDQHvxkhTa1",
+        "swapAuthority": "EqG6R7n6dZeRU1fDeCh5RrCAVNERHbwHz5QWjXwMfzoy"
       },
       "decimals": 8,
       "underlyingTokens": [
-        "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
-        "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv"
+        "Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9",
+        "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
       ]
     }
   },
@@ -4369,21 +4453,21 @@
   },
   {
     "pool": {
-      "bump": 255,
-      "index": 96,
-      "key": "BazNzpACSeqU6EMSyQtsvAiBPWoaivLRegq7nTDcVN1c",
-      "lpMint": "xFTTLsMdN28XHtYTTTVWYz5zwXWBm5r1WTuZ7Cc7SyA",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
-      "mintA": "Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9",
-      "mintB": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
+      "bump": 253,
+      "index": 7,
+      "key": "EmQPm3GhtohMAEji2fLNChYCzQQLTeby4ezRgRSWrkuk",
+      "lpMint": "ALPX6x8FkkdQyn9YuoVZjPAapL4nUC7vjJ3AtwStmj9P",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "mintA": "8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69",
+      "mintB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
       "permissionlessImport": false,
-      "swap": "Bodz3SK3pzzskFdjwG5TXoavTzNLJbMV8VDQHvxkhTa1",
-      "tokenAFees": "DcxpECPsz44nfFxmAAsMYrmgbEDvbak6PRNasHZ6kP8N",
-      "tokenBFees": "8CCewNBDAnUidv13D3jGdQtJbZ884AyCtC9sUyKLBysW",
-      "tokenDecimals": 8
+      "swap": "BSC8REUo9LpiiWUuqMuLXs2D2yJsJfGd4HdiF3wCLxk5",
+      "tokenAFees": "CEyUANqRyrsnxGFotH8QvfYibCU5PBWGGciWd9BqyLAN",
+      "tokenBFees": "GMFegvR5GGMtddaainUXQgwctFdEWuzcWq7iPHQmXpLp",
+      "tokenDecimals": 9
     },
     "state": {
-      "adminAccount": "BazNzpACSeqU6EMSyQtsvAiBPWoaivLRegq7nTDcVN1c",
+      "adminAccount": "3FsBrsZH8KVmyuhdaKij8ZgD7nRARS15bBByoXszX7WR",
       "fees": {
         "adminTrade": {
           "denominatorStr": "10000",
@@ -4412,42 +4496,42 @@
       },
       "futureAdminAccount": "11111111111111111111111111111111",
       "futureAdminDeadline": 0,
-      "initialAmpFactor": "32",
+      "initialAmpFactor": "96",
       "isInitialized": true,
       "isPaused": false,
       "nonce": 254,
-      "poolTokenMint": "xFTTLsMdN28XHtYTTTVWYz5zwXWBm5r1WTuZ7Cc7SyA",
+      "poolTokenMint": "ALPX6x8FkkdQyn9YuoVZjPAapL4nUC7vjJ3AtwStmj9P",
       "startRampTimestamp": 0,
       "stopRampTimestamp": 0,
-      "targetAmpFactor": "32",
+      "targetAmpFactor": "96",
       "tokenA": {
-        "adminFeeAccount": "DcxpECPsz44nfFxmAAsMYrmgbEDvbak6PRNasHZ6kP8N",
-        "mint": "Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9",
-        "reserve": "HHnpxMvDcXaeHXTSnWw9y8gMeUMnnCzxWfACgx839nCt"
+        "adminFeeAccount": "46rUpgkJQ3QRqQcX4qG2cMu7e8MCvnn7B7WhEzkPRNMA",
+        "mint": "8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69",
+        "reserve": "AZjEH1zWVx1UJ6udMyRijGTzPteuLnaY18yNNmprJEsh"
       },
       "tokenB": {
-        "adminFeeAccount": "8CCewNBDAnUidv13D3jGdQtJbZ884AyCtC9sUyKLBysW",
-        "mint": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
-        "reserve": "Hk8UFqdvVdvJRZjKJV59PkrDrpLnbCCBMgDjVwx53cwi"
+        "adminFeeAccount": "6huxYNMnpHjhYXGTmNquX1jtfsqZHYN5wg31wZpiNesa",
+        "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+        "reserve": "Caf8ypkSVR8xYnXNhjvfvdGCC7mrM3C11rz8Xi6NA6aK"
       }
     },
     "summary": {
       "addresses": {
-        "admin": "BazNzpACSeqU6EMSyQtsvAiBPWoaivLRegq7nTDcVN1c",
-        "lpTokenMint": "xFTTLsMdN28XHtYTTTVWYz5zwXWBm5r1WTuZ7Cc7SyA",
-        "mergePool": "7NMGaRSepSBpQjFWn9pagh4JCpVLPhTLzN9JgEmrSJA9",
-        "quarry": "FdHVdkarMfbpPhiAhHtKK6PgH8ibN8SnGSqWhQkTyD2c",
+        "admin": "3FsBrsZH8KVmyuhdaKij8ZgD7nRARS15bBByoXszX7WR",
+        "lpTokenMint": "ALPX6x8FkkdQyn9YuoVZjPAapL4nUC7vjJ3AtwStmj9P",
+        "mergePool": "F5bL7tdNFqF7RqwGFM5qJZAd8zDihYZcoGn1GJ2uzT9S",
+        "quarry": "FTxEbVX18g592J2EjxVg1BcHfCES7pgcnFo2VPcPAKLT",
         "reserves": [
-          "HHnpxMvDcXaeHXTSnWw9y8gMeUMnnCzxWfACgx839nCt",
-          "Hk8UFqdvVdvJRZjKJV59PkrDrpLnbCCBMgDjVwx53cwi"
+          "AZjEH1zWVx1UJ6udMyRijGTzPteuLnaY18yNNmprJEsh",
+          "Caf8ypkSVR8xYnXNhjvfvdGCC7mrM3C11rz8Xi6NA6aK"
         ],
-        "swapAccount": "Bodz3SK3pzzskFdjwG5TXoavTzNLJbMV8VDQHvxkhTa1",
-        "swapAuthority": "EqG6R7n6dZeRU1fDeCh5RrCAVNERHbwHz5QWjXwMfzoy"
+        "swapAccount": "BSC8REUo9LpiiWUuqMuLXs2D2yJsJfGd4HdiF3wCLxk5",
+        "swapAuthority": "GoGTHycKo5ti1Lwyk1ZVa2Y6yka2z6Q6cLNEUQ2e1g1w"
       },
-      "decimals": 8,
+      "decimals": 9,
       "underlyingTokens": [
-        "Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9",
-        "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
+        "8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69",
+        "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
       ]
     }
   },
@@ -4537,101 +4621,17 @@
   },
   {
     "pool": {
-      "bump": 253,
-      "index": 7,
-      "key": "EmQPm3GhtohMAEji2fLNChYCzQQLTeby4ezRgRSWrkuk",
-      "lpMint": "ALPX6x8FkkdQyn9YuoVZjPAapL4nUC7vjJ3AtwStmj9P",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
-      "mintA": "8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69",
-      "mintB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-      "permissionlessImport": false,
-      "swap": "BSC8REUo9LpiiWUuqMuLXs2D2yJsJfGd4HdiF3wCLxk5",
-      "tokenAFees": "CEyUANqRyrsnxGFotH8QvfYibCU5PBWGGciWd9BqyLAN",
-      "tokenBFees": "GMFegvR5GGMtddaainUXQgwctFdEWuzcWq7iPHQmXpLp",
-      "tokenDecimals": 9
-    },
-    "state": {
-      "adminAccount": "3FsBrsZH8KVmyuhdaKij8ZgD7nRARS15bBByoXszX7WR",
-      "fees": {
-        "adminTrade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "adminWithdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "trade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "4"
-        },
-        "withdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        }
-      },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
-      "initialAmpFactor": "96",
-      "isInitialized": true,
-      "isPaused": false,
-      "nonce": 254,
-      "poolTokenMint": "ALPX6x8FkkdQyn9YuoVZjPAapL4nUC7vjJ3AtwStmj9P",
-      "startRampTimestamp": 0,
-      "stopRampTimestamp": 0,
-      "targetAmpFactor": "96",
-      "tokenA": {
-        "adminFeeAccount": "46rUpgkJQ3QRqQcX4qG2cMu7e8MCvnn7B7WhEzkPRNMA",
-        "mint": "8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69",
-        "reserve": "AZjEH1zWVx1UJ6udMyRijGTzPteuLnaY18yNNmprJEsh"
-      },
-      "tokenB": {
-        "adminFeeAccount": "6huxYNMnpHjhYXGTmNquX1jtfsqZHYN5wg31wZpiNesa",
-        "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-        "reserve": "Caf8ypkSVR8xYnXNhjvfvdGCC7mrM3C11rz8Xi6NA6aK"
-      }
-    },
-    "summary": {
-      "addresses": {
-        "admin": "3FsBrsZH8KVmyuhdaKij8ZgD7nRARS15bBByoXszX7WR",
-        "lpTokenMint": "ALPX6x8FkkdQyn9YuoVZjPAapL4nUC7vjJ3AtwStmj9P",
-        "mergePool": "F5bL7tdNFqF7RqwGFM5qJZAd8zDihYZcoGn1GJ2uzT9S",
-        "quarry": "FTxEbVX18g592J2EjxVg1BcHfCES7pgcnFo2VPcPAKLT",
-        "reserves": [
-          "AZjEH1zWVx1UJ6udMyRijGTzPteuLnaY18yNNmprJEsh",
-          "Caf8ypkSVR8xYnXNhjvfvdGCC7mrM3C11rz8Xi6NA6aK"
-        ],
-        "swapAccount": "BSC8REUo9LpiiWUuqMuLXs2D2yJsJfGd4HdiF3wCLxk5",
-        "swapAuthority": "GoGTHycKo5ti1Lwyk1ZVa2Y6yka2z6Q6cLNEUQ2e1g1w"
-      },
-      "decimals": 9,
-      "underlyingTokens": [
-        "8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69",
-        "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
-      ]
-    }
-  },
-  {
-    "pool": {
       "bump": 255,
-      "index": 4,
-      "key": "YjkXQ6dYeZ9rVmFDvmZSbMJTZDVX881ambsYMmEhwQY",
+      "index": 29,
+      "key": "CtzJ1u2j3eeeyb5F3Z2otPdMEhFQXvjzfpZPVFdaip46",
       "lpMint": "ALPb4SssuKFScyUFnTcXLtF3NAkwFuFpQFric5yo4Qpo",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "3os2M3bX9qta154PRbU9rzaPUYAKAqVpaMMS8u2hoUQu",
       "mintB": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
       "permissionlessImport": false,
       "swap": "BSCc2UgHMGZcr4gdTBZcDvf7HcjVdfBDrW7gMnaqSDkx",
-      "tokenAFees": "3znpKzaBHybUfyo96z9jf1D38Ciadzwrrku6iDhsdkKA",
-      "tokenBFees": "7qN4wY2ZqQQJY5PvafJFQTtzWnCvVEcD8vDpJL9P3Rfg",
+      "tokenAFees": "E5Zifo5Wo86gnQg4gRD9yGaBkjxtRqcj6xNe2PRqqg4z",
+      "tokenBFees": "EEg1njurHEfbTWhNPMxTENj1PCd1Za259sb8Hkbyj3xa",
       "tokenDecimals": 9
     },
     "state": {
@@ -4706,16 +4706,16 @@
   {
     "pool": {
       "bump": 255,
-      "index": 29,
-      "key": "CtzJ1u2j3eeeyb5F3Z2otPdMEhFQXvjzfpZPVFdaip46",
+      "index": 4,
+      "key": "YjkXQ6dYeZ9rVmFDvmZSbMJTZDVX881ambsYMmEhwQY",
       "lpMint": "ALPb4SssuKFScyUFnTcXLtF3NAkwFuFpQFric5yo4Qpo",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "3os2M3bX9qta154PRbU9rzaPUYAKAqVpaMMS8u2hoUQu",
       "mintB": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
       "permissionlessImport": false,
       "swap": "BSCc2UgHMGZcr4gdTBZcDvf7HcjVdfBDrW7gMnaqSDkx",
-      "tokenAFees": "E5Zifo5Wo86gnQg4gRD9yGaBkjxtRqcj6xNe2PRqqg4z",
-      "tokenBFees": "EEg1njurHEfbTWhNPMxTENj1PCd1Za259sb8Hkbyj3xa",
+      "tokenAFees": "3znpKzaBHybUfyo96z9jf1D38Ciadzwrrku6iDhsdkKA",
+      "tokenBFees": "7qN4wY2ZqQQJY5PvafJFQTtzWnCvVEcD8vDpJL9P3Rfg",
       "tokenDecimals": 9
     },
     "state": {
@@ -5293,17 +5293,17 @@
   },
   {
     "pool": {
-      "bump": 250,
-      "index": 50,
-      "key": "DwJ292FpLMWKuKTuGb338j4AbpcpJNoyF9imcRizNBex",
+      "bump": 253,
+      "index": 78,
+      "key": "EPXqRkDFU3555uGg7UjEwCppEbAtP173M8hBVyCv8Ew8",
       "lpMint": "WLP9zHZ3FcsPAcM891AQBn4ZWyS3wYgddiLPbSyzmDm",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
       "mintB": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
       "permissionlessImport": false,
       "swap": "BTCkjETHaKDoRJtD2PKwzhseFnwPVsxGFu6BD8h5Riwq",
-      "tokenAFees": "BmuDN1TvKNYybPLZ2PHLuvzcSbJ5WmTtfM6axS5ksRg2",
-      "tokenBFees": "ELbHBdXG1DAGhrDqMs4uLtXMNDa1ZMNuvvQ3ip5vtc8w",
+      "tokenAFees": "CV3HHVcfRqNdoodUBHyCaWzpFfwhAQsSsxSHKbScGtF5",
+      "tokenBFees": "GbnwxeLhanyDwdU9PGWaVVLXTo7CXVATiwS4NE9ic7yL",
       "tokenDecimals": 8
     },
     "state": {
@@ -5377,17 +5377,17 @@
   },
   {
     "pool": {
-      "bump": 253,
-      "index": 78,
-      "key": "EPXqRkDFU3555uGg7UjEwCppEbAtP173M8hBVyCv8Ew8",
+      "bump": 250,
+      "index": 50,
+      "key": "DwJ292FpLMWKuKTuGb338j4AbpcpJNoyF9imcRizNBex",
       "lpMint": "WLP9zHZ3FcsPAcM891AQBn4ZWyS3wYgddiLPbSyzmDm",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
       "mintB": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
       "permissionlessImport": false,
       "swap": "BTCkjETHaKDoRJtD2PKwzhseFnwPVsxGFu6BD8h5Riwq",
-      "tokenAFees": "CV3HHVcfRqNdoodUBHyCaWzpFfwhAQsSsxSHKbScGtF5",
-      "tokenBFees": "GbnwxeLhanyDwdU9PGWaVVLXTo7CXVATiwS4NE9ic7yL",
+      "tokenAFees": "BmuDN1TvKNYybPLZ2PHLuvzcSbJ5WmTtfM6axS5ksRg2",
+      "tokenBFees": "ELbHBdXG1DAGhrDqMs4uLtXMNDa1ZMNuvvQ3ip5vtc8w",
       "tokenDecimals": 8
     },
     "state": {
@@ -5630,16 +5630,16 @@
   {
     "pool": {
       "bump": 255,
-      "index": 69,
-      "key": "3faCHWF4frSkcMBwEsagFwrCcwSDdGk9R5ARXyipcEt5",
+      "index": 81,
+      "key": "DJ6mLd7ePBSu3vqCgiEdabf9HfBYA3dUaZq1hdhBUoiQ",
       "lpMint": "WLPR8Sy6Fbnf2sZHVg8Z7uW1QnRThnjhb244kf4ddCS",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
       "mintB": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
       "permissionlessImport": false,
       "swap": "BUSDgu5JdqP1rndBvXvanbEufS94FNh1w5FJcAj6vawb",
-      "tokenAFees": "7KCb5VCg9Amc24DiFBKaqYuVKZJVyFqstvYpKuASsAcB",
-      "tokenBFees": "6frEk6q3nmtRyConjCrTjZosMCRpM2bKsKEezRUTKS8v",
+      "tokenAFees": "46pPDrLS48GS7evjtuw2c5XTysyKedcmRqBfJL3Muv8V",
+      "tokenBFees": "5sDTnqPQnJm1fLqJG16XzeunEGYJoa172BNb7Av4Rinr",
       "tokenDecimals": 8
     },
     "state": {
@@ -5714,16 +5714,16 @@
   {
     "pool": {
       "bump": 255,
-      "index": 81,
-      "key": "DJ6mLd7ePBSu3vqCgiEdabf9HfBYA3dUaZq1hdhBUoiQ",
+      "index": 69,
+      "key": "3faCHWF4frSkcMBwEsagFwrCcwSDdGk9R5ARXyipcEt5",
       "lpMint": "WLPR8Sy6Fbnf2sZHVg8Z7uW1QnRThnjhb244kf4ddCS",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
       "mintB": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
       "permissionlessImport": false,
       "swap": "BUSDgu5JdqP1rndBvXvanbEufS94FNh1w5FJcAj6vawb",
-      "tokenAFees": "46pPDrLS48GS7evjtuw2c5XTysyKedcmRqBfJL3Muv8V",
-      "tokenBFees": "5sDTnqPQnJm1fLqJG16XzeunEGYJoa172BNb7Av4Rinr",
+      "tokenAFees": "7KCb5VCg9Amc24DiFBKaqYuVKZJVyFqstvYpKuASsAcB",
+      "tokenBFees": "6frEk6q3nmtRyConjCrTjZosMCRpM2bKsKEezRUTKS8v",
       "tokenDecimals": 8
     },
     "state": {
@@ -5965,17 +5965,17 @@
   },
   {
     "pool": {
-      "bump": 255,
-      "index": 122,
-      "key": "2f3H2YLpBWofYq5FE4TNAAVE6SpF3GepqbkqtpWhmn3k",
+      "bump": 254,
+      "index": 117,
+      "key": "HKbhafCiAVaMwV5NzwDkQhp95t7qug7vB7DPehBcszcB",
       "lpMint": "VLPa8SifUUNL6JvzUuLrjgRibkx7iGr5eVpX6MRR4Qx",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "So11111111111111111111111111111111111111112",
       "mintB": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
-      "permissionlessImport": false,
+      "permissionlessImport": true,
       "swap": "C2ypsDADXcCRz8HbV2zX1AXPSja7a1P3xZtRC91xGhJh",
-      "tokenAFees": "6LPZHHhSFdL3hGfyvoczDrekmKhfgYAu8qEH58sZPTzB",
-      "tokenBFees": "55SefZ8PBxgFuwpgcteCMZKntfLeaNgtHVP61Q1NXdVh",
+      "tokenAFees": "8UkzM4qGgzXGtJhB23Y4Sec5m8mJeXTKqNGaP8EED4wU",
+      "tokenBFees": "7UBPswYWUrLvGtYEGBHtayrTge7A9n41XF8K83puzqeB",
       "tokenDecimals": 9
     },
     "state": {
@@ -6049,17 +6049,17 @@
   },
   {
     "pool": {
-      "bump": 254,
-      "index": 117,
-      "key": "HKbhafCiAVaMwV5NzwDkQhp95t7qug7vB7DPehBcszcB",
+      "bump": 255,
+      "index": 122,
+      "key": "2f3H2YLpBWofYq5FE4TNAAVE6SpF3GepqbkqtpWhmn3k",
       "lpMint": "VLPa8SifUUNL6JvzUuLrjgRibkx7iGr5eVpX6MRR4Qx",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "So11111111111111111111111111111111111111112",
       "mintB": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
-      "permissionlessImport": true,
+      "permissionlessImport": false,
       "swap": "C2ypsDADXcCRz8HbV2zX1AXPSja7a1P3xZtRC91xGhJh",
-      "tokenAFees": "8UkzM4qGgzXGtJhB23Y4Sec5m8mJeXTKqNGaP8EED4wU",
-      "tokenBFees": "7UBPswYWUrLvGtYEGBHtayrTge7A9n41XF8K83puzqeB",
+      "tokenAFees": "6LPZHHhSFdL3hGfyvoczDrekmKhfgYAu8qEH58sZPTzB",
+      "tokenBFees": "55SefZ8PBxgFuwpgcteCMZKntfLeaNgtHVP61Q1NXdVh",
       "tokenDecimals": 9
     },
     "state": {
@@ -6301,90 +6301,6 @@
   },
   {
     "pool": {
-      "bump": 255,
-      "index": 31,
-      "key": "4a8uewMhD5ZzhtfKLJfL7SkJ3wUAoKNNQnVzmZJ2UPWH",
-      "lpMint": "CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
-      "mintA": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-      "mintB": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-      "permissionlessImport": false,
-      "swap": "CASNrsSdASV1eyEca4mnEwhMqjANkyRLnF5kEGoorBX2",
-      "tokenAFees": "6gGA2BqJqABm7pXYLp1QS8fLm9jqn88PgbFor7P3ZiQj",
-      "tokenBFees": "8jga6BnwF9aNmv7FZ9dzVNZZZjBTLJMoJHRzqk77rQD5",
-      "tokenDecimals": 6
-    },
-    "state": {
-      "adminAccount": "5t5pZFis39UkoJFirDV8E6t1p8ByrM6tB4AUsE8qqmNK",
-      "fees": {
-        "adminTrade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "adminWithdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "trade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "4"
-        },
-        "withdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        }
-      },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
-      "initialAmpFactor": "01f4",
-      "isInitialized": true,
-      "isPaused": true,
-      "nonce": 254,
-      "poolTokenMint": "CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv",
-      "startRampTimestamp": 0,
-      "stopRampTimestamp": 0,
-      "targetAmpFactor": "01f4",
-      "tokenA": {
-        "adminFeeAccount": "85JZT9Zonb4w87vamd87c9oMXFyUpdvJWXHYsAwE3kZx",
-        "mint": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-        "reserve": "7EifTDGz2nEU7DiE2UuuBX9Efkbdfad47mgr7Bqrqo8Y"
-      },
-      "tokenB": {
-        "adminFeeAccount": "8K7ZcsQWiq1H4qprW6qXrERAHAfzoVoKCk3W5cX5QuSt",
-        "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "reserve": "FoL4JKwgaRUnf5c8wZDYdSam98NepnZ6oJDNFqPLuRvr"
-      }
-    },
-    "summary": {
-      "addresses": {
-        "admin": "5t5pZFis39UkoJFirDV8E6t1p8ByrM6tB4AUsE8qqmNK",
-        "lpTokenMint": "CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv",
-        "mergePool": "2ZuDp78p74j5WLnSiRHU8KEVaqdrkKXgDwRWbgNc7Acj",
-        "quarry": "3esh4Uq1WMpdYSgBmK92C9eLVRU5MzcNPm2PJyG72Fqo",
-        "reserves": [
-          "7EifTDGz2nEU7DiE2UuuBX9Efkbdfad47mgr7Bqrqo8Y",
-          "FoL4JKwgaRUnf5c8wZDYdSam98NepnZ6oJDNFqPLuRvr"
-        ],
-        "swapAccount": "CASNrsSdASV1eyEca4mnEwhMqjANkyRLnF5kEGoorBX2",
-        "swapAuthority": "4ofEvMGQ87LFQ9aNw6pCDocFytWBH8BYqL7MwDKfQt1U"
-      },
-      "decimals": 6,
-      "underlyingTokens": [
-        "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-        "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-      ]
-    }
-  },
-  {
-    "pool": {
       "bump": 253,
       "index": 67,
       "key": "5t5pZFis39UkoJFirDV8E6t1p8ByrM6tB4AUsE8qqmNK",
@@ -6469,21 +6385,21 @@
   },
   {
     "pool": {
-      "bump": 254,
-      "index": 26,
-      "key": "3cVPXybwY8NVSxt41fBsUfftsksWH8XjQKxGGFJGXsB8",
-      "lpMint": "NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
-      "mintA": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+      "bump": 255,
+      "index": 31,
+      "key": "4a8uewMhD5ZzhtfKLJfL7SkJ3wUAoKNNQnVzmZJ2UPWH",
+      "lpMint": "CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "mintA": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
       "mintB": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "permissionlessImport": false,
-      "swap": "Cob4usZcpHEY7Qt4ZCwj6WVg9S44zvzYV2v9qYF65dTf",
-      "tokenAFees": "BPB54YRbScsU6vv9HqgEKH7RUknmch1Mnsvwk8odBESn",
-      "tokenBFees": "3oEWjFCezPU93tMnMgqAvCLaFH941acTj8uaKQuZwEd8",
+      "swap": "CASNrsSdASV1eyEca4mnEwhMqjANkyRLnF5kEGoorBX2",
+      "tokenAFees": "6gGA2BqJqABm7pXYLp1QS8fLm9jqn88PgbFor7P3ZiQj",
+      "tokenBFees": "8jga6BnwF9aNmv7FZ9dzVNZZZjBTLJMoJHRzqk77rQD5",
       "tokenDecimals": 6
     },
     "state": {
-      "adminAccount": "3cVPXybwY8NVSxt41fBsUfftsksWH8XjQKxGGFJGXsB8",
+      "adminAccount": "5t5pZFis39UkoJFirDV8E6t1p8ByrM6tB4AUsE8qqmNK",
       "fees": {
         "adminTrade": {
           "denominatorStr": "10000",
@@ -6512,41 +6428,41 @@
       },
       "futureAdminAccount": "11111111111111111111111111111111",
       "futureAdminDeadline": 0,
-      "initialAmpFactor": "19",
+      "initialAmpFactor": "01f4",
       "isInitialized": true,
-      "isPaused": false,
-      "nonce": 255,
-      "poolTokenMint": "NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP",
+      "isPaused": true,
+      "nonce": 254,
+      "poolTokenMint": "CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv",
       "startRampTimestamp": 0,
       "stopRampTimestamp": 0,
-      "targetAmpFactor": "19",
+      "targetAmpFactor": "01f4",
       "tokenA": {
-        "adminFeeAccount": "BPB54YRbScsU6vv9HqgEKH7RUknmch1Mnsvwk8odBESn",
-        "mint": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
-        "reserve": "NhFM9UXE48PyNAyeyPYA3iXztqKVJwA4bTdLj4ysM8w"
+        "adminFeeAccount": "85JZT9Zonb4w87vamd87c9oMXFyUpdvJWXHYsAwE3kZx",
+        "mint": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+        "reserve": "7EifTDGz2nEU7DiE2UuuBX9Efkbdfad47mgr7Bqrqo8Y"
       },
       "tokenB": {
-        "adminFeeAccount": "3oEWjFCezPU93tMnMgqAvCLaFH941acTj8uaKQuZwEd8",
+        "adminFeeAccount": "8K7ZcsQWiq1H4qprW6qXrERAHAfzoVoKCk3W5cX5QuSt",
         "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "reserve": "6TuFuynuBoeskxyR2cz4wxyidk8dpDK7kAWw3UkjQGx"
+        "reserve": "FoL4JKwgaRUnf5c8wZDYdSam98NepnZ6oJDNFqPLuRvr"
       }
     },
     "summary": {
       "addresses": {
-        "admin": "3cVPXybwY8NVSxt41fBsUfftsksWH8XjQKxGGFJGXsB8",
-        "lpTokenMint": "NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP",
-        "mergePool": "9jRRxPgNCsT8zczVrBU3s87KaPLgNtvvsjqbP9xqixu9",
-        "quarry": "GzoTtZx6LHqrS8Drws8f6vb66UgQb8JRe2rm4Lj9WTtA",
+        "admin": "5t5pZFis39UkoJFirDV8E6t1p8ByrM6tB4AUsE8qqmNK",
+        "lpTokenMint": "CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv",
+        "mergePool": "2ZuDp78p74j5WLnSiRHU8KEVaqdrkKXgDwRWbgNc7Acj",
+        "quarry": "3esh4Uq1WMpdYSgBmK92C9eLVRU5MzcNPm2PJyG72Fqo",
         "reserves": [
-          "NhFM9UXE48PyNAyeyPYA3iXztqKVJwA4bTdLj4ysM8w",
-          "6TuFuynuBoeskxyR2cz4wxyidk8dpDK7kAWw3UkjQGx"
+          "7EifTDGz2nEU7DiE2UuuBX9Efkbdfad47mgr7Bqrqo8Y",
+          "FoL4JKwgaRUnf5c8wZDYdSam98NepnZ6oJDNFqPLuRvr"
         ],
-        "swapAccount": "Cob4usZcpHEY7Qt4ZCwj6WVg9S44zvzYV2v9qYF65dTf",
-        "swapAuthority": "4gQzERgW7HdgfsKKbtbnDcshX75cMHYjEV5Qz2gtafwd"
+        "swapAccount": "CASNrsSdASV1eyEca4mnEwhMqjANkyRLnF5kEGoorBX2",
+        "swapAuthority": "4ofEvMGQ87LFQ9aNw6pCDocFytWBH8BYqL7MwDKfQt1U"
       },
       "decimals": 6,
       "underlyingTokens": [
-        "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+        "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
         "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
       ]
     }
@@ -6637,21 +6553,21 @@
   },
   {
     "pool": {
-      "bump": 252,
-      "index": 127,
-      "key": "6KdoeBEXP9wxLJjQfEGSkQ5Z4MwpA3mhT1PerFnyQS7r",
-      "lpMint": "CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8",
+      "bump": 254,
+      "index": 26,
+      "key": "3cVPXybwY8NVSxt41fBsUfftsksWH8XjQKxGGFJGXsB8",
+      "lpMint": "NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP",
       "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
-      "mintA": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
-      "mintB": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+      "mintA": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+      "mintB": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "permissionlessImport": false,
-      "swap": "CSP7xvUx4mHXFHB7nGKRiGLkvkEcvo3HTTgVWJEwFTnQ",
-      "tokenAFees": "3A3wTuzLumQJgH3PBi7ovzYjmnnfz4QaZgQk6cq9bCAm",
-      "tokenBFees": "2zFdedwRtEwfftbocgtkVTFh9ze5xwx5sneon7CqUFkE",
+      "swap": "Cob4usZcpHEY7Qt4ZCwj6WVg9S44zvzYV2v9qYF65dTf",
+      "tokenAFees": "BPB54YRbScsU6vv9HqgEKH7RUknmch1Mnsvwk8odBESn",
+      "tokenBFees": "3oEWjFCezPU93tMnMgqAvCLaFH941acTj8uaKQuZwEd8",
       "tokenDecimals": 6
     },
     "state": {
-      "adminAccount": "6KdoeBEXP9wxLJjQfEGSkQ5Z4MwpA3mhT1PerFnyQS7r",
+      "adminAccount": "3cVPXybwY8NVSxt41fBsUfftsksWH8XjQKxGGFJGXsB8",
       "fees": {
         "adminTrade": {
           "denominatorStr": "10000",
@@ -6680,42 +6596,42 @@
       },
       "futureAdminAccount": "11111111111111111111111111111111",
       "futureAdminDeadline": 0,
-      "initialAmpFactor": "32",
+      "initialAmpFactor": "19",
       "isInitialized": true,
-      "isPaused": true,
+      "isPaused": false,
       "nonce": 255,
-      "poolTokenMint": "CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8",
+      "poolTokenMint": "NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP",
       "startRampTimestamp": 0,
       "stopRampTimestamp": 0,
-      "targetAmpFactor": "32",
+      "targetAmpFactor": "19",
       "tokenA": {
-        "adminFeeAccount": "3A3wTuzLumQJgH3PBi7ovzYjmnnfz4QaZgQk6cq9bCAm",
-        "mint": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
-        "reserve": "JAjt8kZkTsxKA3VKnmszKHQwzuNSAXXhN3Y4NZ2kEoLU"
+        "adminFeeAccount": "BPB54YRbScsU6vv9HqgEKH7RUknmch1Mnsvwk8odBESn",
+        "mint": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+        "reserve": "NhFM9UXE48PyNAyeyPYA3iXztqKVJwA4bTdLj4ysM8w"
       },
       "tokenB": {
-        "adminFeeAccount": "2zFdedwRtEwfftbocgtkVTFh9ze5xwx5sneon7CqUFkE",
-        "mint": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-        "reserve": "F2NtJ1kcLLvQZ6RMH5sApf12BpGpAeGwio3WWPRZWUDu"
+        "adminFeeAccount": "3oEWjFCezPU93tMnMgqAvCLaFH941acTj8uaKQuZwEd8",
+        "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "reserve": "6TuFuynuBoeskxyR2cz4wxyidk8dpDK7kAWw3UkjQGx"
       }
     },
     "summary": {
       "addresses": {
-        "admin": "6KdoeBEXP9wxLJjQfEGSkQ5Z4MwpA3mhT1PerFnyQS7r",
-        "lpTokenMint": "CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8",
-        "mergePool": "wiWmtemiToCxRcmvpi2MKwb2f6bCMZZDRkoyK1RqHyk",
-        "quarry": "HEFCUdoJRcsjD1VPacn4oYsoPne2TfdYaQNczq7Aj3iX",
+        "admin": "3cVPXybwY8NVSxt41fBsUfftsksWH8XjQKxGGFJGXsB8",
+        "lpTokenMint": "NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP",
+        "mergePool": "9jRRxPgNCsT8zczVrBU3s87KaPLgNtvvsjqbP9xqixu9",
+        "quarry": "GzoTtZx6LHqrS8Drws8f6vb66UgQb8JRe2rm4Lj9WTtA",
         "reserves": [
-          "JAjt8kZkTsxKA3VKnmszKHQwzuNSAXXhN3Y4NZ2kEoLU",
-          "F2NtJ1kcLLvQZ6RMH5sApf12BpGpAeGwio3WWPRZWUDu"
+          "NhFM9UXE48PyNAyeyPYA3iXztqKVJwA4bTdLj4ysM8w",
+          "6TuFuynuBoeskxyR2cz4wxyidk8dpDK7kAWw3UkjQGx"
         ],
-        "swapAccount": "CSP7xvUx4mHXFHB7nGKRiGLkvkEcvo3HTTgVWJEwFTnQ",
-        "swapAuthority": "7K88AAbfSVHEZY87Ur3PrDhBYpwhKfTGxSWzMdh7XxUj"
+        "swapAccount": "Cob4usZcpHEY7Qt4ZCwj6WVg9S44zvzYV2v9qYF65dTf",
+        "swapAuthority": "4gQzERgW7HdgfsKKbtbnDcshX75cMHYjEV5Qz2gtafwd"
       },
       "decimals": 6,
       "underlyingTokens": [
-        "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
-        "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+        "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+        "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
       ]
     }
   },
@@ -6805,17 +6721,101 @@
   },
   {
     "pool": {
-      "bump": 254,
-      "index": 107,
-      "key": "5u4P684HDgmDb87sHySrvH9cQ9uc7KhKzme9KU1PVatQ",
-      "lpMint": "CLP2aB2bCXZEaoQjUNQdn64dCSzCVxKE3Kjgo3PcAYeY",
+      "bump": 252,
+      "index": 127,
+      "key": "6KdoeBEXP9wxLJjQfEGSkQ5Z4MwpA3mhT1PerFnyQS7r",
+      "lpMint": "CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8",
       "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "mintA": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+      "mintB": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+      "permissionlessImport": false,
+      "swap": "CSP7xvUx4mHXFHB7nGKRiGLkvkEcvo3HTTgVWJEwFTnQ",
+      "tokenAFees": "3A3wTuzLumQJgH3PBi7ovzYjmnnfz4QaZgQk6cq9bCAm",
+      "tokenBFees": "2zFdedwRtEwfftbocgtkVTFh9ze5xwx5sneon7CqUFkE",
+      "tokenDecimals": 6
+    },
+    "state": {
+      "adminAccount": "6KdoeBEXP9wxLJjQfEGSkQ5Z4MwpA3mhT1PerFnyQS7r",
+      "fees": {
+        "adminTrade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "adminWithdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "trade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "4"
+        },
+        "withdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        }
+      },
+      "futureAdminAccount": "11111111111111111111111111111111",
+      "futureAdminDeadline": 0,
+      "initialAmpFactor": "32",
+      "isInitialized": true,
+      "isPaused": true,
+      "nonce": 255,
+      "poolTokenMint": "CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8",
+      "startRampTimestamp": 0,
+      "stopRampTimestamp": 0,
+      "targetAmpFactor": "32",
+      "tokenA": {
+        "adminFeeAccount": "3A3wTuzLumQJgH3PBi7ovzYjmnnfz4QaZgQk6cq9bCAm",
+        "mint": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+        "reserve": "JAjt8kZkTsxKA3VKnmszKHQwzuNSAXXhN3Y4NZ2kEoLU"
+      },
+      "tokenB": {
+        "adminFeeAccount": "2zFdedwRtEwfftbocgtkVTFh9ze5xwx5sneon7CqUFkE",
+        "mint": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+        "reserve": "F2NtJ1kcLLvQZ6RMH5sApf12BpGpAeGwio3WWPRZWUDu"
+      }
+    },
+    "summary": {
+      "addresses": {
+        "admin": "6KdoeBEXP9wxLJjQfEGSkQ5Z4MwpA3mhT1PerFnyQS7r",
+        "lpTokenMint": "CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8",
+        "mergePool": "wiWmtemiToCxRcmvpi2MKwb2f6bCMZZDRkoyK1RqHyk",
+        "quarry": "HEFCUdoJRcsjD1VPacn4oYsoPne2TfdYaQNczq7Aj3iX",
+        "reserves": [
+          "JAjt8kZkTsxKA3VKnmszKHQwzuNSAXXhN3Y4NZ2kEoLU",
+          "F2NtJ1kcLLvQZ6RMH5sApf12BpGpAeGwio3WWPRZWUDu"
+        ],
+        "swapAccount": "CSP7xvUx4mHXFHB7nGKRiGLkvkEcvo3HTTgVWJEwFTnQ",
+        "swapAuthority": "7K88AAbfSVHEZY87Ur3PrDhBYpwhKfTGxSWzMdh7XxUj"
+      },
+      "decimals": 6,
+      "underlyingTokens": [
+        "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+        "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+      ]
+    }
+  },
+  {
+    "pool": {
+      "bump": 250,
+      "index": 51,
+      "key": "FHWBxWnmDJKJCKAGPWW625vvi6xvWZR34YzDnD3vVSfr",
+      "lpMint": "CLP2aB2bCXZEaoQjUNQdn64dCSzCVxKE3Kjgo3PcAYeY",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
       "mintB": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
       "permissionlessImport": false,
       "swap": "CSPC23oTm5WqmJpAR8Eo6KyQhwq8YipgHSuDcABgoSv",
-      "tokenAFees": "CenzXHqaaGkEDsgqmSyadyhMnqKQxLiqD4ENP3zxBpFc",
-      "tokenBFees": "Hr2zC8vBzRK1EMVZMXKaryMAs8PSoqhVfsXVMRjwDCmu",
+      "tokenAFees": "3y3DvKYguQidNubfhGhWsRuYUe5Ltn7Whv7VsU5G9x7S",
+      "tokenBFees": "BxEp68dJAAiDZjj6vCX7tDdg44bCWTpFidbyEGuWVnKP",
       "tokenDecimals": 6
     },
     "state": {
@@ -6889,17 +6889,17 @@
   },
   {
     "pool": {
-      "bump": 250,
-      "index": 51,
-      "key": "FHWBxWnmDJKJCKAGPWW625vvi6xvWZR34YzDnD3vVSfr",
+      "bump": 254,
+      "index": 107,
+      "key": "5u4P684HDgmDb87sHySrvH9cQ9uc7KhKzme9KU1PVatQ",
       "lpMint": "CLP2aB2bCXZEaoQjUNQdn64dCSzCVxKE3Kjgo3PcAYeY",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
       "mintB": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
       "permissionlessImport": false,
       "swap": "CSPC23oTm5WqmJpAR8Eo6KyQhwq8YipgHSuDcABgoSv",
-      "tokenAFees": "3y3DvKYguQidNubfhGhWsRuYUe5Ltn7Whv7VsU5G9x7S",
-      "tokenBFees": "BxEp68dJAAiDZjj6vCX7tDdg44bCWTpFidbyEGuWVnKP",
+      "tokenAFees": "CenzXHqaaGkEDsgqmSyadyhMnqKQxLiqD4ENP3zxBpFc",
+      "tokenBFees": "Hr2zC8vBzRK1EMVZMXKaryMAs8PSoqhVfsXVMRjwDCmu",
       "tokenDecimals": 6
     },
     "state": {
@@ -7141,90 +7141,6 @@
   },
   {
     "pool": {
-      "bump": 255,
-      "index": 60,
-      "key": "7eTXJLrim4wB7jLRnQZrYtWFa4GJJtMLa2bex5VH4Ruy",
-      "lpMint": "BSCNZ4GLnpZYv4BLk5edymk4qty8a6ZpiMbfvtv9gAzL",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
-      "mintA": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
-      "mintB": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
-      "permissionlessImport": false,
-      "swap": "CZgvH45CRmoaNJ7395Ao5CQZXkGznvqU7cErD6n7FaRg",
-      "tokenAFees": "ys1VsmThTPYpejC8rYmkoh4m33dzqAeDRQn4ScvMKk3",
-      "tokenBFees": "7HgEjxuKW22y6e6AAQcghBW4LqQPrco3huFHTxSJR7uN",
-      "tokenDecimals": 8
-    },
-    "state": {
-      "adminAccount": "7eTXJLrim4wB7jLRnQZrYtWFa4GJJtMLa2bex5VH4Ruy",
-      "fees": {
-        "adminTrade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "adminWithdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "trade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "4"
-        },
-        "withdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        }
-      },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
-      "initialAmpFactor": "32",
-      "isInitialized": true,
-      "isPaused": false,
-      "nonce": 254,
-      "poolTokenMint": "BSCNZ4GLnpZYv4BLk5edymk4qty8a6ZpiMbfvtv9gAzL",
-      "startRampTimestamp": 0,
-      "stopRampTimestamp": 0,
-      "targetAmpFactor": "32",
-      "tokenA": {
-        "adminFeeAccount": "ys1VsmThTPYpejC8rYmkoh4m33dzqAeDRQn4ScvMKk3",
-        "mint": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
-        "reserve": "4ZjU6MKvtqVQKCiowhvZ5yUsPxXX5SCzd5eFsPeXyey5"
-      },
-      "tokenB": {
-        "adminFeeAccount": "7HgEjxuKW22y6e6AAQcghBW4LqQPrco3huFHTxSJR7uN",
-        "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
-        "reserve": "BsyWeshjDbCvjDojry3vKDCesmFRM37WtwcR4Kfgzqr"
-      }
-    },
-    "summary": {
-      "addresses": {
-        "admin": "7eTXJLrim4wB7jLRnQZrYtWFa4GJJtMLa2bex5VH4Ruy",
-        "lpTokenMint": "BSCNZ4GLnpZYv4BLk5edymk4qty8a6ZpiMbfvtv9gAzL",
-        "mergePool": "3oDpy5JTwSETMMDgsnwYKqzjSUMWeqXyKGBorF3FvMwQ",
-        "quarry": "4RU52YmyNaxg1zPnzALtv3aeXJJZEy5uaRXaTC7bBSgA",
-        "reserves": [
-          "4ZjU6MKvtqVQKCiowhvZ5yUsPxXX5SCzd5eFsPeXyey5",
-          "BsyWeshjDbCvjDojry3vKDCesmFRM37WtwcR4Kfgzqr"
-        ],
-        "swapAccount": "CZgvH45CRmoaNJ7395Ao5CQZXkGznvqU7cErD6n7FaRg",
-        "swapAuthority": "H73Bq4wPdkMyM1o1RCgFTrmCCTzkK7W9FrfyWWLZ8QCj"
-      },
-      "decimals": 8,
-      "underlyingTokens": [
-        "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
-        "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
-      ]
-    }
-  },
-  {
-    "pool": {
       "bump": 254,
       "index": 73,
       "key": "Cb4ATbvbDNRYbHv8ax4hY8cfobPjLby2HWq2wmN3TGCr",
@@ -7310,20 +7226,20 @@
   {
     "pool": {
       "bump": 255,
-      "index": 68,
-      "key": "iy51K4TnFDhz3Pf9GgKLt3XBkwLMZr5oEConYYu2fgw",
-      "lpMint": "UXDjCH2xGyyLWa92stSUDftWPKGFFPEvqvk28gQA8bW",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
-      "mintA": "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
-      "mintB": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+      "index": 60,
+      "key": "7eTXJLrim4wB7jLRnQZrYtWFa4GJJtMLa2bex5VH4Ruy",
+      "lpMint": "BSCNZ4GLnpZYv4BLk5edymk4qty8a6ZpiMbfvtv9gAzL",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "mintA": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
+      "mintB": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
       "permissionlessImport": false,
-      "swap": "D1RyGbGF7iFupgaknywa5ThmdkdMwCJR7cQXfzTnNpFv",
-      "tokenAFees": "2YnywCN3t6WSASNNMUTF4msB5v9kvmn2MrgxAB9fogvo",
-      "tokenBFees": "8v6S2WJQFxRkHh41uL5HW3aHff5Cz3pCwcHdaTE9ApZY",
-      "tokenDecimals": 6
+      "swap": "CZgvH45CRmoaNJ7395Ao5CQZXkGznvqU7cErD6n7FaRg",
+      "tokenAFees": "ys1VsmThTPYpejC8rYmkoh4m33dzqAeDRQn4ScvMKk3",
+      "tokenBFees": "7HgEjxuKW22y6e6AAQcghBW4LqQPrco3huFHTxSJR7uN",
+      "tokenDecimals": 8
     },
     "state": {
-      "adminAccount": "CsaYY6FYv5XsEktaa688MsPTHEXvP5K3mGZeEVMzzZGR",
+      "adminAccount": "7eTXJLrim4wB7jLRnQZrYtWFa4GJJtMLa2bex5VH4Ruy",
       "fees": {
         "adminTrade": {
           "denominatorStr": "10000",
@@ -7352,42 +7268,42 @@
       },
       "futureAdminAccount": "11111111111111111111111111111111",
       "futureAdminDeadline": 0,
-      "initialAmpFactor": "64",
+      "initialAmpFactor": "32",
       "isInitialized": true,
-      "isPaused": true,
-      "nonce": 253,
-      "poolTokenMint": "UXDjCH2xGyyLWa92stSUDftWPKGFFPEvqvk28gQA8bW",
+      "isPaused": false,
+      "nonce": 254,
+      "poolTokenMint": "BSCNZ4GLnpZYv4BLk5edymk4qty8a6ZpiMbfvtv9gAzL",
       "startRampTimestamp": 0,
       "stopRampTimestamp": 0,
-      "targetAmpFactor": "64",
+      "targetAmpFactor": "32",
       "tokenA": {
-        "adminFeeAccount": "GW7yiTPPjBWBwmKyyxzjV2sfnmyy8PLTkN6GQKRubHd",
-        "mint": "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
-        "reserve": "AzN6vs3nTunrapnJTZwD3EVALcLddfKC8hYexcWAtG9F"
+        "adminFeeAccount": "ys1VsmThTPYpejC8rYmkoh4m33dzqAeDRQn4ScvMKk3",
+        "mint": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
+        "reserve": "4ZjU6MKvtqVQKCiowhvZ5yUsPxXX5SCzd5eFsPeXyey5"
       },
       "tokenB": {
-        "adminFeeAccount": "HE4GLJsbrXzP8uX6RAQwpyRZDgoKJ2BUXV9RJPf6ktCX",
-        "mint": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-        "reserve": "AKD1Xb4SMBMJYurhrx26mGagKeLBQAHKxdo22n33pUX5"
+        "adminFeeAccount": "7HgEjxuKW22y6e6AAQcghBW4LqQPrco3huFHTxSJR7uN",
+        "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+        "reserve": "BsyWeshjDbCvjDojry3vKDCesmFRM37WtwcR4Kfgzqr"
       }
     },
     "summary": {
       "addresses": {
-        "admin": "CsaYY6FYv5XsEktaa688MsPTHEXvP5K3mGZeEVMzzZGR",
-        "lpTokenMint": "UXDjCH2xGyyLWa92stSUDftWPKGFFPEvqvk28gQA8bW",
-        "mergePool": "9g3f1SXaY2CBV19YdKeFK7mRdHfHv9nCDdWjhVxqDDE1",
-        "quarry": "Fp3eynmHDXTkCtosY9g7fhhfG3HFsCepyKP2UgaZBFAG",
+        "admin": "7eTXJLrim4wB7jLRnQZrYtWFa4GJJtMLa2bex5VH4Ruy",
+        "lpTokenMint": "BSCNZ4GLnpZYv4BLk5edymk4qty8a6ZpiMbfvtv9gAzL",
+        "mergePool": "3oDpy5JTwSETMMDgsnwYKqzjSUMWeqXyKGBorF3FvMwQ",
+        "quarry": "4RU52YmyNaxg1zPnzALtv3aeXJJZEy5uaRXaTC7bBSgA",
         "reserves": [
-          "AzN6vs3nTunrapnJTZwD3EVALcLddfKC8hYexcWAtG9F",
-          "AKD1Xb4SMBMJYurhrx26mGagKeLBQAHKxdo22n33pUX5"
+          "4ZjU6MKvtqVQKCiowhvZ5yUsPxXX5SCzd5eFsPeXyey5",
+          "BsyWeshjDbCvjDojry3vKDCesmFRM37WtwcR4Kfgzqr"
         ],
-        "swapAccount": "D1RyGbGF7iFupgaknywa5ThmdkdMwCJR7cQXfzTnNpFv",
-        "swapAuthority": "551oYh1ChowZfq2PiU7uxJugM4ywqf1JCPuTk9qEjiU5"
+        "swapAccount": "CZgvH45CRmoaNJ7395Ao5CQZXkGznvqU7cErD6n7FaRg",
+        "swapAuthority": "H73Bq4wPdkMyM1o1RCgFTrmCCTzkK7W9FrfyWWLZ8QCj"
       },
-      "decimals": 6,
+      "decimals": 8,
       "underlyingTokens": [
-        "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
-        "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+        "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
+        "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
       ]
     }
   },
@@ -7478,20 +7394,20 @@
   {
     "pool": {
       "bump": 255,
-      "index": 75,
-      "key": "p2r1Utrsy933tRW3GfNx6gzoE8mp9gZoXVxWD5T4tEy",
-      "lpMint": "aeDebgky5BssqgLo426rXoQTmGrAn1JjEXp6aXFNLic",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
-      "mintA": "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
-      "mintB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+      "index": 68,
+      "key": "iy51K4TnFDhz3Pf9GgKLt3XBkwLMZr5oEConYYu2fgw",
+      "lpMint": "UXDjCH2xGyyLWa92stSUDftWPKGFFPEvqvk28gQA8bW",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "mintA": "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
+      "mintB": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
       "permissionlessImport": false,
-      "swap": "DA1mL7dfBow33EH5yjUuZE6SH2KeUK5zEXzsyhE5r5j5",
-      "tokenAFees": "A68vGJmAqGSj8yb8X7ZFM8cY2YHMWi2nuSt3SGZW6V9m",
-      "tokenBFees": "6KjxLscj82eyKiUPoLJqys5ko2p3AFRhSuiuK67ZLW8C",
-      "tokenDecimals": 9
+      "swap": "D1RyGbGF7iFupgaknywa5ThmdkdMwCJR7cQXfzTnNpFv",
+      "tokenAFees": "2YnywCN3t6WSASNNMUTF4msB5v9kvmn2MrgxAB9fogvo",
+      "tokenBFees": "8v6S2WJQFxRkHh41uL5HW3aHff5Cz3pCwcHdaTE9ApZY",
+      "tokenDecimals": 6
     },
     "state": {
-      "adminAccount": "p2r1Utrsy933tRW3GfNx6gzoE8mp9gZoXVxWD5T4tEy",
+      "adminAccount": "CsaYY6FYv5XsEktaa688MsPTHEXvP5K3mGZeEVMzzZGR",
       "fees": {
         "adminTrade": {
           "denominatorStr": "10000",
@@ -7520,42 +7436,42 @@
       },
       "futureAdminAccount": "11111111111111111111111111111111",
       "futureAdminDeadline": 0,
-      "initialAmpFactor": "c8",
+      "initialAmpFactor": "64",
       "isInitialized": true,
-      "isPaused": false,
-      "nonce": 254,
-      "poolTokenMint": "aeDebgky5BssqgLo426rXoQTmGrAn1JjEXp6aXFNLic",
+      "isPaused": true,
+      "nonce": 253,
+      "poolTokenMint": "UXDjCH2xGyyLWa92stSUDftWPKGFFPEvqvk28gQA8bW",
       "startRampTimestamp": 0,
       "stopRampTimestamp": 0,
-      "targetAmpFactor": "c8",
+      "targetAmpFactor": "64",
       "tokenA": {
-        "adminFeeAccount": "A68vGJmAqGSj8yb8X7ZFM8cY2YHMWi2nuSt3SGZW6V9m",
-        "mint": "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
-        "reserve": "B4UtLRZND3D83CitRCBUyeiNr7H8m7YFRqBmiPmXjhW4"
+        "adminFeeAccount": "GW7yiTPPjBWBwmKyyxzjV2sfnmyy8PLTkN6GQKRubHd",
+        "mint": "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
+        "reserve": "AzN6vs3nTunrapnJTZwD3EVALcLddfKC8hYexcWAtG9F"
       },
       "tokenB": {
-        "adminFeeAccount": "6KjxLscj82eyKiUPoLJqys5ko2p3AFRhSuiuK67ZLW8C",
-        "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-        "reserve": "AAmpYbuixWiSqDaJBCqYEs1pb5SrbdPr9mgXrB58Q2e"
+        "adminFeeAccount": "HE4GLJsbrXzP8uX6RAQwpyRZDgoKJ2BUXV9RJPf6ktCX",
+        "mint": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+        "reserve": "AKD1Xb4SMBMJYurhrx26mGagKeLBQAHKxdo22n33pUX5"
       }
     },
     "summary": {
       "addresses": {
-        "admin": "p2r1Utrsy933tRW3GfNx6gzoE8mp9gZoXVxWD5T4tEy",
-        "lpTokenMint": "aeDebgky5BssqgLo426rXoQTmGrAn1JjEXp6aXFNLic",
-        "mergePool": "5v5xLneaeuVAxGCuAEmwBdjvDDPrxRmw6R8xjA9urDyr",
-        "quarry": "GBkRWmWtDtHwnjhhDXGuHTDbVNQAs14nbUkwNpWXE2xp",
+        "admin": "CsaYY6FYv5XsEktaa688MsPTHEXvP5K3mGZeEVMzzZGR",
+        "lpTokenMint": "UXDjCH2xGyyLWa92stSUDftWPKGFFPEvqvk28gQA8bW",
+        "mergePool": "9g3f1SXaY2CBV19YdKeFK7mRdHfHv9nCDdWjhVxqDDE1",
+        "quarry": "Fp3eynmHDXTkCtosY9g7fhhfG3HFsCepyKP2UgaZBFAG",
         "reserves": [
-          "B4UtLRZND3D83CitRCBUyeiNr7H8m7YFRqBmiPmXjhW4",
-          "AAmpYbuixWiSqDaJBCqYEs1pb5SrbdPr9mgXrB58Q2e"
+          "AzN6vs3nTunrapnJTZwD3EVALcLddfKC8hYexcWAtG9F",
+          "AKD1Xb4SMBMJYurhrx26mGagKeLBQAHKxdo22n33pUX5"
         ],
-        "swapAccount": "DA1mL7dfBow33EH5yjUuZE6SH2KeUK5zEXzsyhE5r5j5",
-        "swapAuthority": "99Y7Y3DwALuxnbe9YkHJNK5ReLswTq1dwaEs4yRPv7ad"
+        "swapAccount": "D1RyGbGF7iFupgaknywa5ThmdkdMwCJR7cQXfzTnNpFv",
+        "swapAuthority": "551oYh1ChowZfq2PiU7uxJugM4ywqf1JCPuTk9qEjiU5"
       },
-      "decimals": 9,
+      "decimals": 6,
       "underlyingTokens": [
-        "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
-        "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
+        "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
       ]
     }
   },
@@ -7646,20 +7562,20 @@
   {
     "pool": {
       "bump": 255,
-      "index": 68,
-      "key": "7VMiDyaTBE4iFwTSnhN2PmERFUeifnXFjcEsd14GhAkD",
-      "lpMint": "monKYjV2bHTjbJVWCCcwhxE8C96sdTKR2HUNUHCjh4z",
+      "index": 75,
+      "key": "p2r1Utrsy933tRW3GfNx6gzoE8mp9gZoXVxWD5T4tEy",
+      "lpMint": "aeDebgky5BssqgLo426rXoQTmGrAn1JjEXp6aXFNLic",
       "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
-      "mintA": "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
-      "mintB": "So11111111111111111111111111111111111111112",
+      "mintA": "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
+      "mintB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
       "permissionlessImport": false,
-      "swap": "daob129AwBGn9Y5r91uLoWZeYiGzbPmksauMhFZKTze",
-      "tokenAFees": "7WJLeP9hhnvFvzEnDvpoqn8oPWh1CaJjAH8LMjTSiDey",
-      "tokenBFees": "Aoar5seBKCnnxLxCAoUg95u8ZQAnEnyrd8F9VJg86LvD",
+      "swap": "DA1mL7dfBow33EH5yjUuZE6SH2KeUK5zEXzsyhE5r5j5",
+      "tokenAFees": "A68vGJmAqGSj8yb8X7ZFM8cY2YHMWi2nuSt3SGZW6V9m",
+      "tokenBFees": "6KjxLscj82eyKiUPoLJqys5ko2p3AFRhSuiuK67ZLW8C",
       "tokenDecimals": 9
     },
     "state": {
-      "adminAccount": "7VMiDyaTBE4iFwTSnhN2PmERFUeifnXFjcEsd14GhAkD",
+      "adminAccount": "p2r1Utrsy933tRW3GfNx6gzoE8mp9gZoXVxWD5T4tEy",
       "fees": {
         "adminTrade": {
           "denominatorStr": "10000",
@@ -7688,42 +7604,42 @@
       },
       "futureAdminAccount": "11111111111111111111111111111111",
       "futureAdminDeadline": 0,
-      "initialAmpFactor": "1e",
+      "initialAmpFactor": "c8",
       "isInitialized": true,
       "isPaused": false,
-      "nonce": 255,
-      "poolTokenMint": "monKYjV2bHTjbJVWCCcwhxE8C96sdTKR2HUNUHCjh4z",
+      "nonce": 254,
+      "poolTokenMint": "aeDebgky5BssqgLo426rXoQTmGrAn1JjEXp6aXFNLic",
       "startRampTimestamp": 0,
       "stopRampTimestamp": 0,
-      "targetAmpFactor": "1e",
+      "targetAmpFactor": "c8",
       "tokenA": {
-        "adminFeeAccount": "7WJLeP9hhnvFvzEnDvpoqn8oPWh1CaJjAH8LMjTSiDey",
-        "mint": "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
-        "reserve": "6VW5GQNyj4LStgmxEHLr5zUfW92vQnmbw8jTnCH7a38F"
+        "adminFeeAccount": "A68vGJmAqGSj8yb8X7ZFM8cY2YHMWi2nuSt3SGZW6V9m",
+        "mint": "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
+        "reserve": "B4UtLRZND3D83CitRCBUyeiNr7H8m7YFRqBmiPmXjhW4"
       },
       "tokenB": {
-        "adminFeeAccount": "Aoar5seBKCnnxLxCAoUg95u8ZQAnEnyrd8F9VJg86LvD",
-        "mint": "So11111111111111111111111111111111111111112",
-        "reserve": "4VPCCUifPeBA1c7HWK358CHn2nyjm8pdTRk6Ps3KmnMQ"
+        "adminFeeAccount": "6KjxLscj82eyKiUPoLJqys5ko2p3AFRhSuiuK67ZLW8C",
+        "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+        "reserve": "AAmpYbuixWiSqDaJBCqYEs1pb5SrbdPr9mgXrB58Q2e"
       }
     },
     "summary": {
       "addresses": {
-        "admin": "7VMiDyaTBE4iFwTSnhN2PmERFUeifnXFjcEsd14GhAkD",
-        "lpTokenMint": "monKYjV2bHTjbJVWCCcwhxE8C96sdTKR2HUNUHCjh4z",
-        "mergePool": "5fLGkhxYj9gzqWh5tUA8L8EcaTddJxe4AVbo4JXBFgt3",
-        "quarry": "6rX9t63n4fWGr5AAJ2hEsuGH47UEee8dthZcJMrmbai2",
+        "admin": "p2r1Utrsy933tRW3GfNx6gzoE8mp9gZoXVxWD5T4tEy",
+        "lpTokenMint": "aeDebgky5BssqgLo426rXoQTmGrAn1JjEXp6aXFNLic",
+        "mergePool": "5v5xLneaeuVAxGCuAEmwBdjvDDPrxRmw6R8xjA9urDyr",
+        "quarry": "GBkRWmWtDtHwnjhhDXGuHTDbVNQAs14nbUkwNpWXE2xp",
         "reserves": [
-          "6VW5GQNyj4LStgmxEHLr5zUfW92vQnmbw8jTnCH7a38F",
-          "4VPCCUifPeBA1c7HWK358CHn2nyjm8pdTRk6Ps3KmnMQ"
+          "B4UtLRZND3D83CitRCBUyeiNr7H8m7YFRqBmiPmXjhW4",
+          "AAmpYbuixWiSqDaJBCqYEs1pb5SrbdPr9mgXrB58Q2e"
         ],
-        "swapAccount": "daob129AwBGn9Y5r91uLoWZeYiGzbPmksauMhFZKTze",
-        "swapAuthority": "41CKnj1gy1AXQ1nf2dB9Ubst3QGHxjWkFLd78KLpGYsr"
+        "swapAccount": "DA1mL7dfBow33EH5yjUuZE6SH2KeUK5zEXzsyhE5r5j5",
+        "swapAuthority": "99Y7Y3DwALuxnbe9YkHJNK5ReLswTq1dwaEs4yRPv7ad"
       },
       "decimals": 9,
       "underlyingTokens": [
-        "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
-        "So11111111111111111111111111111111111111112"
+        "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
+        "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
       ]
     }
   },
@@ -7808,6 +7724,174 @@
       "underlyingTokens": [
         "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
         "So11111111111111111111111111111111111111112"
+      ]
+    }
+  },
+  {
+    "pool": {
+      "bump": 255,
+      "index": 68,
+      "key": "7VMiDyaTBE4iFwTSnhN2PmERFUeifnXFjcEsd14GhAkD",
+      "lpMint": "monKYjV2bHTjbJVWCCcwhxE8C96sdTKR2HUNUHCjh4z",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "mintA": "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
+      "mintB": "So11111111111111111111111111111111111111112",
+      "permissionlessImport": false,
+      "swap": "daob129AwBGn9Y5r91uLoWZeYiGzbPmksauMhFZKTze",
+      "tokenAFees": "7WJLeP9hhnvFvzEnDvpoqn8oPWh1CaJjAH8LMjTSiDey",
+      "tokenBFees": "Aoar5seBKCnnxLxCAoUg95u8ZQAnEnyrd8F9VJg86LvD",
+      "tokenDecimals": 9
+    },
+    "state": {
+      "adminAccount": "7VMiDyaTBE4iFwTSnhN2PmERFUeifnXFjcEsd14GhAkD",
+      "fees": {
+        "adminTrade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "adminWithdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "trade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "4"
+        },
+        "withdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        }
+      },
+      "futureAdminAccount": "11111111111111111111111111111111",
+      "futureAdminDeadline": 0,
+      "initialAmpFactor": "1e",
+      "isInitialized": true,
+      "isPaused": false,
+      "nonce": 255,
+      "poolTokenMint": "monKYjV2bHTjbJVWCCcwhxE8C96sdTKR2HUNUHCjh4z",
+      "startRampTimestamp": 0,
+      "stopRampTimestamp": 0,
+      "targetAmpFactor": "1e",
+      "tokenA": {
+        "adminFeeAccount": "7WJLeP9hhnvFvzEnDvpoqn8oPWh1CaJjAH8LMjTSiDey",
+        "mint": "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
+        "reserve": "6VW5GQNyj4LStgmxEHLr5zUfW92vQnmbw8jTnCH7a38F"
+      },
+      "tokenB": {
+        "adminFeeAccount": "Aoar5seBKCnnxLxCAoUg95u8ZQAnEnyrd8F9VJg86LvD",
+        "mint": "So11111111111111111111111111111111111111112",
+        "reserve": "4VPCCUifPeBA1c7HWK358CHn2nyjm8pdTRk6Ps3KmnMQ"
+      }
+    },
+    "summary": {
+      "addresses": {
+        "admin": "7VMiDyaTBE4iFwTSnhN2PmERFUeifnXFjcEsd14GhAkD",
+        "lpTokenMint": "monKYjV2bHTjbJVWCCcwhxE8C96sdTKR2HUNUHCjh4z",
+        "mergePool": "5fLGkhxYj9gzqWh5tUA8L8EcaTddJxe4AVbo4JXBFgt3",
+        "quarry": "6rX9t63n4fWGr5AAJ2hEsuGH47UEee8dthZcJMrmbai2",
+        "reserves": [
+          "6VW5GQNyj4LStgmxEHLr5zUfW92vQnmbw8jTnCH7a38F",
+          "4VPCCUifPeBA1c7HWK358CHn2nyjm8pdTRk6Ps3KmnMQ"
+        ],
+        "swapAccount": "daob129AwBGn9Y5r91uLoWZeYiGzbPmksauMhFZKTze",
+        "swapAuthority": "41CKnj1gy1AXQ1nf2dB9Ubst3QGHxjWkFLd78KLpGYsr"
+      },
+      "decimals": 9,
+      "underlyingTokens": [
+        "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
+        "So11111111111111111111111111111111111111112"
+      ]
+    }
+  },
+  {
+    "pool": {
+      "bump": 255,
+      "index": 76,
+      "key": "HPeSJf749XeFAHg9pkQEwwaLWmzK8BYjZf8qUKf3JyA2",
+      "lpMint": "FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "mintA": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+      "mintB": "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
+      "permissionlessImport": false,
+      "swap": "DEDaBEWzMCXohXYXoLzB4jK1xqMsd3SS9izXp2xvg9pe",
+      "tokenAFees": "6mBA3h3PEw6NfaDBdB6w2QYt1NbFpQTJbfCjDrbjH8Bo",
+      "tokenBFees": "6MSZujPWKbDt46bDZo48j7fqFa4xShwSgKWTNUAjLkXZ",
+      "tokenDecimals": 8
+    },
+    "state": {
+      "adminAccount": "HPeSJf749XeFAHg9pkQEwwaLWmzK8BYjZf8qUKf3JyA2",
+      "fees": {
+        "adminTrade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "adminWithdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "trade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "4"
+        },
+        "withdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        }
+      },
+      "futureAdminAccount": "11111111111111111111111111111111",
+      "futureAdminDeadline": 0,
+      "initialAmpFactor": "19",
+      "isInitialized": true,
+      "isPaused": false,
+      "nonce": 255,
+      "poolTokenMint": "FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP",
+      "startRampTimestamp": 0,
+      "stopRampTimestamp": 0,
+      "targetAmpFactor": "19",
+      "tokenA": {
+        "adminFeeAccount": "6mBA3h3PEw6NfaDBdB6w2QYt1NbFpQTJbfCjDrbjH8Bo",
+        "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+        "reserve": "GC5zHpW5GuVdw3C7covC6viyGdLS8ZAaVGDKMeru7p78"
+      },
+      "tokenB": {
+        "adminFeeAccount": "6MSZujPWKbDt46bDZo48j7fqFa4xShwSgKWTNUAjLkXZ",
+        "mint": "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
+        "reserve": "F8juxtAFueW19vxkdDArUkjVWAv9QV6yy1wCXUWQiXvh"
+      }
+    },
+    "summary": {
+      "addresses": {
+        "admin": "HPeSJf749XeFAHg9pkQEwwaLWmzK8BYjZf8qUKf3JyA2",
+        "lpTokenMint": "FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP",
+        "mergePool": "6uUzdYpVJ7jXTjQK8AAas8kmJrwhP91SmGfhqU45ekSY",
+        "quarry": "9oPMBb3uUEmF5ow2sYdwmQ9jRCs3zmy2z43gDfpk6D97",
+        "reserves": [
+          "GC5zHpW5GuVdw3C7covC6viyGdLS8ZAaVGDKMeru7p78",
+          "F8juxtAFueW19vxkdDArUkjVWAv9QV6yy1wCXUWQiXvh"
+        ],
+        "swapAccount": "DEDaBEWzMCXohXYXoLzB4jK1xqMsd3SS9izXp2xvg9pe",
+        "swapAuthority": "DNHbHTg5wnnHo2BwmwdcKyz4817QNqyRbb2EKXat2Ham"
+      },
+      "decimals": 8,
+      "underlyingTokens": [
+        "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+        "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee"
       ]
     }
   },
@@ -7898,20 +7982,20 @@
   {
     "pool": {
       "bump": 255,
-      "index": 76,
-      "key": "HPeSJf749XeFAHg9pkQEwwaLWmzK8BYjZf8qUKf3JyA2",
-      "lpMint": "FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
-      "mintA": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
-      "mintB": "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
+      "index": 46,
+      "key": "34hMvpVYhYvWM6wSffNB4h1mTXkjTRXkbNDFTbkjLyUD",
+      "lpMint": "MAiP3Zmjhc6NYiCb2xK2893ifvTTDHciCS57Kga39pC",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "mintA": "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
+      "mintB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
       "permissionlessImport": false,
-      "swap": "DEDaBEWzMCXohXYXoLzB4jK1xqMsd3SS9izXp2xvg9pe",
-      "tokenAFees": "6mBA3h3PEw6NfaDBdB6w2QYt1NbFpQTJbfCjDrbjH8Bo",
-      "tokenBFees": "6MSZujPWKbDt46bDZo48j7fqFa4xShwSgKWTNUAjLkXZ",
-      "tokenDecimals": 8
+      "swap": "DFWzVTzNBrQZLjoQ4yQwkj9HuoXmfkuZP9V5vbymZe23",
+      "tokenAFees": "2tR1oPw113ZYpjFXfAGDqS8AYUd3LwYRoYCojJWHL1P2",
+      "tokenBFees": "2Ufi3AsrUeiJHfW1H56ifNzzaVXPovzoEvG9xPipL6MV",
+      "tokenDecimals": 9
     },
     "state": {
-      "adminAccount": "HPeSJf749XeFAHg9pkQEwwaLWmzK8BYjZf8qUKf3JyA2",
+      "adminAccount": "8owDcuov6jGpKcp4c5VGBL59AoJRdApxwLWBvt1Rg71",
       "fees": {
         "adminTrade": {
           "denominatorStr": "10000",
@@ -7940,42 +8024,42 @@
       },
       "futureAdminAccount": "11111111111111111111111111111111",
       "futureAdminDeadline": 0,
-      "initialAmpFactor": "19",
+      "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": false,
-      "nonce": 255,
-      "poolTokenMint": "FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP",
+      "nonce": 253,
+      "poolTokenMint": "MAiP3Zmjhc6NYiCb2xK2893ifvTTDHciCS57Kga39pC",
       "startRampTimestamp": 0,
       "stopRampTimestamp": 0,
-      "targetAmpFactor": "19",
+      "targetAmpFactor": "32",
       "tokenA": {
-        "adminFeeAccount": "6mBA3h3PEw6NfaDBdB6w2QYt1NbFpQTJbfCjDrbjH8Bo",
-        "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
-        "reserve": "GC5zHpW5GuVdw3C7covC6viyGdLS8ZAaVGDKMeru7p78"
+        "adminFeeAccount": "A7hVrbXjFBqV2p6Jgs5vF8uDm6NKn8rWwgfRC7eeWxNU",
+        "mint": "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
+        "reserve": "DhgiEgiNdqZdRdo195UUHnoEJUtefK8buko8nU97XJUZ"
       },
       "tokenB": {
-        "adminFeeAccount": "6MSZujPWKbDt46bDZo48j7fqFa4xShwSgKWTNUAjLkXZ",
-        "mint": "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
-        "reserve": "F8juxtAFueW19vxkdDArUkjVWAv9QV6yy1wCXUWQiXvh"
+        "adminFeeAccount": "F2GEQZUUBRMUd4foSYX171r86jUvo3Zhpx7sgZqkjLZz",
+        "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+        "reserve": "2K2kkXsouBHtWVjtcgkyiXd8eP3oVBvq1bTJzcVdLLr2"
       }
     },
     "summary": {
       "addresses": {
-        "admin": "HPeSJf749XeFAHg9pkQEwwaLWmzK8BYjZf8qUKf3JyA2",
-        "lpTokenMint": "FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP",
-        "mergePool": "6uUzdYpVJ7jXTjQK8AAas8kmJrwhP91SmGfhqU45ekSY",
-        "quarry": "9oPMBb3uUEmF5ow2sYdwmQ9jRCs3zmy2z43gDfpk6D97",
+        "admin": "8owDcuov6jGpKcp4c5VGBL59AoJRdApxwLWBvt1Rg71",
+        "lpTokenMint": "MAiP3Zmjhc6NYiCb2xK2893ifvTTDHciCS57Kga39pC",
+        "mergePool": "HyVWvFPX2zBSEqJ1xLLfLTWqEWkPtxtXXitYzC4PWJmi",
+        "quarry": "GfhJbBiT4Yfv3FvnGY42EBGReCJpbLgQZbaZ8KuPydK5",
         "reserves": [
-          "GC5zHpW5GuVdw3C7covC6viyGdLS8ZAaVGDKMeru7p78",
-          "F8juxtAFueW19vxkdDArUkjVWAv9QV6yy1wCXUWQiXvh"
+          "DhgiEgiNdqZdRdo195UUHnoEJUtefK8buko8nU97XJUZ",
+          "2K2kkXsouBHtWVjtcgkyiXd8eP3oVBvq1bTJzcVdLLr2"
         ],
-        "swapAccount": "DEDaBEWzMCXohXYXoLzB4jK1xqMsd3SS9izXp2xvg9pe",
-        "swapAuthority": "DNHbHTg5wnnHo2BwmwdcKyz4817QNqyRbb2EKXat2Ham"
+        "swapAccount": "DFWzVTzNBrQZLjoQ4yQwkj9HuoXmfkuZP9V5vbymZe23",
+        "swapAuthority": "41gN5ZP7inB3rgqQikVxWcfofyYsxH4zWQBRWyJrdZCy"
       },
-      "decimals": 8,
+      "decimals": 9,
       "underlyingTokens": [
-        "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
-        "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee"
+        "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
+        "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
       ]
     }
   },
@@ -8060,174 +8144,6 @@
       "underlyingTokens": [
         "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
         "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
-      ]
-    }
-  },
-  {
-    "pool": {
-      "bump": 255,
-      "index": 46,
-      "key": "34hMvpVYhYvWM6wSffNB4h1mTXkjTRXkbNDFTbkjLyUD",
-      "lpMint": "MAiP3Zmjhc6NYiCb2xK2893ifvTTDHciCS57Kga39pC",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
-      "mintA": "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
-      "mintB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-      "permissionlessImport": false,
-      "swap": "DFWzVTzNBrQZLjoQ4yQwkj9HuoXmfkuZP9V5vbymZe23",
-      "tokenAFees": "2tR1oPw113ZYpjFXfAGDqS8AYUd3LwYRoYCojJWHL1P2",
-      "tokenBFees": "2Ufi3AsrUeiJHfW1H56ifNzzaVXPovzoEvG9xPipL6MV",
-      "tokenDecimals": 9
-    },
-    "state": {
-      "adminAccount": "8owDcuov6jGpKcp4c5VGBL59AoJRdApxwLWBvt1Rg71",
-      "fees": {
-        "adminTrade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "adminWithdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "trade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "4"
-        },
-        "withdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        }
-      },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
-      "initialAmpFactor": "32",
-      "isInitialized": true,
-      "isPaused": false,
-      "nonce": 253,
-      "poolTokenMint": "MAiP3Zmjhc6NYiCb2xK2893ifvTTDHciCS57Kga39pC",
-      "startRampTimestamp": 0,
-      "stopRampTimestamp": 0,
-      "targetAmpFactor": "32",
-      "tokenA": {
-        "adminFeeAccount": "A7hVrbXjFBqV2p6Jgs5vF8uDm6NKn8rWwgfRC7eeWxNU",
-        "mint": "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
-        "reserve": "DhgiEgiNdqZdRdo195UUHnoEJUtefK8buko8nU97XJUZ"
-      },
-      "tokenB": {
-        "adminFeeAccount": "F2GEQZUUBRMUd4foSYX171r86jUvo3Zhpx7sgZqkjLZz",
-        "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-        "reserve": "2K2kkXsouBHtWVjtcgkyiXd8eP3oVBvq1bTJzcVdLLr2"
-      }
-    },
-    "summary": {
-      "addresses": {
-        "admin": "8owDcuov6jGpKcp4c5VGBL59AoJRdApxwLWBvt1Rg71",
-        "lpTokenMint": "MAiP3Zmjhc6NYiCb2xK2893ifvTTDHciCS57Kga39pC",
-        "mergePool": "HyVWvFPX2zBSEqJ1xLLfLTWqEWkPtxtXXitYzC4PWJmi",
-        "quarry": "GfhJbBiT4Yfv3FvnGY42EBGReCJpbLgQZbaZ8KuPydK5",
-        "reserves": [
-          "DhgiEgiNdqZdRdo195UUHnoEJUtefK8buko8nU97XJUZ",
-          "2K2kkXsouBHtWVjtcgkyiXd8eP3oVBvq1bTJzcVdLLr2"
-        ],
-        "swapAccount": "DFWzVTzNBrQZLjoQ4yQwkj9HuoXmfkuZP9V5vbymZe23",
-        "swapAuthority": "41gN5ZP7inB3rgqQikVxWcfofyYsxH4zWQBRWyJrdZCy"
-      },
-      "decimals": 9,
-      "underlyingTokens": [
-        "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
-        "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
-      ]
-    }
-  },
-  {
-    "pool": {
-      "bump": 255,
-      "index": 103,
-      "key": "DG4HvjNx2FaE4QDx5VTXwVXdnffJpg8nDYrknjFVkQkd",
-      "lpMint": "FP9C3p1r19tVyUDLgN98wcu4Rdzsu5hAcqFwY3MzbLpE",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
-      "mintA": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
-      "mintB": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
-      "permissionlessImport": false,
-      "swap": "Dg3mAgpwDfVNnbGWcsxL8sUcSkEbjSJQhKAWNigG44Ju",
-      "tokenAFees": "EzzhPP4AYACdAvjmiPwwkjACzNzJBYVtvoF8ZkrRoVg",
-      "tokenBFees": "BXF2ucBNZcHtSuoAcTY3rGV4PLeEijPpkKiHHoL7TZ3J",
-      "tokenDecimals": 9
-    },
-    "state": {
-      "adminAccount": "EC5p8xBMMqmUvsxPBXgZT769GaJHAykN1rnNeRtP7hVP",
-      "fees": {
-        "adminTrade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "adminWithdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "trade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "4"
-        },
-        "withdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        }
-      },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
-      "initialAmpFactor": "19",
-      "isInitialized": true,
-      "isPaused": false,
-      "nonce": 255,
-      "poolTokenMint": "FP9C3p1r19tVyUDLgN98wcu4Rdzsu5hAcqFwY3MzbLpE",
-      "startRampTimestamp": 0,
-      "stopRampTimestamp": 0,
-      "targetAmpFactor": "19",
-      "tokenA": {
-        "adminFeeAccount": "qijQGWaLHBzAKXA9zPZPhtsjM14cxvJ4JazeE8Ru85E",
-        "mint": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
-        "reserve": "EATxwd8YA2wV93VJcKMmH2Kn2Y9XfJVUB9hHVu3udwEy"
-      },
-      "tokenB": {
-        "adminFeeAccount": "3Xn5iHCUbks7HKnsgUFk8DfozYQJFyQ6V1VZ7VJsNVDA",
-        "mint": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
-        "reserve": "GiGvrRi7NMHfHKanG2B8xyCEqe8jaafWins8bhrLVEaa"
-      }
-    },
-    "summary": {
-      "addresses": {
-        "admin": "EC5p8xBMMqmUvsxPBXgZT769GaJHAykN1rnNeRtP7hVP",
-        "lpTokenMint": "FP9C3p1r19tVyUDLgN98wcu4Rdzsu5hAcqFwY3MzbLpE",
-        "mergePool": "C6aA7tCwfmWC5gb1wFfxvUVBhmo42TTfaYENf6RNe3nX",
-        "quarry": "399RMzmnwFpxDgsKLU2fPdnMue84fLpwZntBaqw7SRJz",
-        "reserves": [
-          "EATxwd8YA2wV93VJcKMmH2Kn2Y9XfJVUB9hHVu3udwEy",
-          "GiGvrRi7NMHfHKanG2B8xyCEqe8jaafWins8bhrLVEaa"
-        ],
-        "swapAccount": "Dg3mAgpwDfVNnbGWcsxL8sUcSkEbjSJQhKAWNigG44Ju",
-        "swapAuthority": "2ENUpqrjguuLRfovPAjSVZvVz5t31xowzmNBp1wDFKcz"
-      },
-      "decimals": 9,
-      "underlyingTokens": [
-        "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
-        "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
       ]
     }
   },
@@ -8318,16 +8234,100 @@
   {
     "pool": {
       "bump": 255,
-      "index": 40,
-      "key": "92H7ecfzcHGqoDzpg68baUFeE4NADmCGQonQxKkuu1r",
-      "lpMint": "HBTCNvkwjMsEtwe2PeXUuMcu8C4Hobw6HDP2m6vpWHGo",
+      "index": 103,
+      "key": "DG4HvjNx2FaE4QDx5VTXwVXdnffJpg8nDYrknjFVkQkd",
+      "lpMint": "FP9C3p1r19tVyUDLgN98wcu4Rdzsu5hAcqFwY3MzbLpE",
       "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "mintA": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+      "mintB": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+      "permissionlessImport": false,
+      "swap": "Dg3mAgpwDfVNnbGWcsxL8sUcSkEbjSJQhKAWNigG44Ju",
+      "tokenAFees": "EzzhPP4AYACdAvjmiPwwkjACzNzJBYVtvoF8ZkrRoVg",
+      "tokenBFees": "BXF2ucBNZcHtSuoAcTY3rGV4PLeEijPpkKiHHoL7TZ3J",
+      "tokenDecimals": 9
+    },
+    "state": {
+      "adminAccount": "EC5p8xBMMqmUvsxPBXgZT769GaJHAykN1rnNeRtP7hVP",
+      "fees": {
+        "adminTrade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "adminWithdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "trade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "4"
+        },
+        "withdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        }
+      },
+      "futureAdminAccount": "11111111111111111111111111111111",
+      "futureAdminDeadline": 0,
+      "initialAmpFactor": "19",
+      "isInitialized": true,
+      "isPaused": false,
+      "nonce": 255,
+      "poolTokenMint": "FP9C3p1r19tVyUDLgN98wcu4Rdzsu5hAcqFwY3MzbLpE",
+      "startRampTimestamp": 0,
+      "stopRampTimestamp": 0,
+      "targetAmpFactor": "19",
+      "tokenA": {
+        "adminFeeAccount": "qijQGWaLHBzAKXA9zPZPhtsjM14cxvJ4JazeE8Ru85E",
+        "mint": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+        "reserve": "EATxwd8YA2wV93VJcKMmH2Kn2Y9XfJVUB9hHVu3udwEy"
+      },
+      "tokenB": {
+        "adminFeeAccount": "3Xn5iHCUbks7HKnsgUFk8DfozYQJFyQ6V1VZ7VJsNVDA",
+        "mint": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+        "reserve": "GiGvrRi7NMHfHKanG2B8xyCEqe8jaafWins8bhrLVEaa"
+      }
+    },
+    "summary": {
+      "addresses": {
+        "admin": "EC5p8xBMMqmUvsxPBXgZT769GaJHAykN1rnNeRtP7hVP",
+        "lpTokenMint": "FP9C3p1r19tVyUDLgN98wcu4Rdzsu5hAcqFwY3MzbLpE",
+        "mergePool": "C6aA7tCwfmWC5gb1wFfxvUVBhmo42TTfaYENf6RNe3nX",
+        "quarry": "399RMzmnwFpxDgsKLU2fPdnMue84fLpwZntBaqw7SRJz",
+        "reserves": [
+          "EATxwd8YA2wV93VJcKMmH2Kn2Y9XfJVUB9hHVu3udwEy",
+          "GiGvrRi7NMHfHKanG2B8xyCEqe8jaafWins8bhrLVEaa"
+        ],
+        "swapAccount": "Dg3mAgpwDfVNnbGWcsxL8sUcSkEbjSJQhKAWNigG44Ju",
+        "swapAuthority": "2ENUpqrjguuLRfovPAjSVZvVz5t31xowzmNBp1wDFKcz"
+      },
+      "decimals": 9,
+      "underlyingTokens": [
+        "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+        "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
+      ]
+    }
+  },
+  {
+    "pool": {
+      "bump": 255,
+      "index": 86,
+      "key": "3Gi42JNd6FCARPomHqjQhDmEZE7rQg1BcnWKEqBSvi2Q",
+      "lpMint": "HBTCNvkwjMsEtwe2PeXUuMcu8C4Hobw6HDP2m6vpWHGo",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref",
       "mintB": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
       "permissionlessImport": false,
       "swap": "DJUn4vhv4YQHhDRfxmLtu7f8sGnZpgnKG5GHzA7wFPB9",
-      "tokenAFees": "FmAFsnakh4SncY4FhLFa7CdAycpUA6pMqa8ifePPpWUf",
-      "tokenBFees": "Gtv8pLuiNrYkfZnpwdPkhteETXfjo28gu8PLbKTU4JBg",
+      "tokenAFees": "G6Ur6axvwSE3mCUYPzCeH49MengrDG2ibrD8NrLJtZrD",
+      "tokenBFees": "xLGzeXNPgUatMod9bqu927gYXJJue2YC9c9iNFx1fd8",
       "tokenDecimals": 9
     },
     "state": {
@@ -8402,16 +8402,16 @@
   {
     "pool": {
       "bump": 255,
-      "index": 86,
-      "key": "3Gi42JNd6FCARPomHqjQhDmEZE7rQg1BcnWKEqBSvi2Q",
+      "index": 40,
+      "key": "92H7ecfzcHGqoDzpg68baUFeE4NADmCGQonQxKkuu1r",
       "lpMint": "HBTCNvkwjMsEtwe2PeXUuMcu8C4Hobw6HDP2m6vpWHGo",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref",
       "mintB": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
       "permissionlessImport": false,
       "swap": "DJUn4vhv4YQHhDRfxmLtu7f8sGnZpgnKG5GHzA7wFPB9",
-      "tokenAFees": "G6Ur6axvwSE3mCUYPzCeH49MengrDG2ibrD8NrLJtZrD",
-      "tokenBFees": "xLGzeXNPgUatMod9bqu927gYXJJue2YC9c9iNFx1fd8",
+      "tokenAFees": "FmAFsnakh4SncY4FhLFa7CdAycpUA6pMqa8ifePPpWUf",
+      "tokenBFees": "Gtv8pLuiNrYkfZnpwdPkhteETXfjo28gu8PLbKTU4JBg",
       "tokenDecimals": 9
     },
     "state": {
@@ -8654,16 +8654,16 @@
   {
     "pool": {
       "bump": 255,
-      "index": 43,
-      "key": "6JGwTTnby67E6d4J1tATMPbWL8gaweZ5USdRnwBFncsU",
+      "index": 27,
+      "key": "8cdnPMjDsQPLCtg5ry3Bb72VUmhDa3LTFUtDoFVY73hy",
       "lpMint": "KWAMdUrCdQ2j1t9S1HD29Z4RxXymXkwSh2c94598amY",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z",
       "mintB": "LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB",
       "permissionlessImport": false,
       "swap": "DouVMTbFTjafGAvXjUUZ2hZZbcGFsYXhH5x7GejyQmjT",
-      "tokenAFees": "93atppqNN81mBaJSmPdypCtxFDYcDLCvwLD8m3T8ozm5",
-      "tokenBFees": "zDitKkv2s1Ao7jYL9R8C8KRnM7ogg5Uex9N6PhTBWfX",
+      "tokenAFees": "6syQtWWchQyWVxmm4aFWGYjhePT3GapZU3g2P6rdDeQV",
+      "tokenBFees": "BykDcrejZUBjkyYnrcCjvZv14rkiusJLTuSFSmLGL2pB",
       "tokenDecimals": 9
     },
     "state": {
@@ -8738,16 +8738,16 @@
   {
     "pool": {
       "bump": 255,
-      "index": 27,
-      "key": "8cdnPMjDsQPLCtg5ry3Bb72VUmhDa3LTFUtDoFVY73hy",
+      "index": 43,
+      "key": "6JGwTTnby67E6d4J1tATMPbWL8gaweZ5USdRnwBFncsU",
       "lpMint": "KWAMdUrCdQ2j1t9S1HD29Z4RxXymXkwSh2c94598amY",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z",
       "mintB": "LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB",
       "permissionlessImport": false,
       "swap": "DouVMTbFTjafGAvXjUUZ2hZZbcGFsYXhH5x7GejyQmjT",
-      "tokenAFees": "6syQtWWchQyWVxmm4aFWGYjhePT3GapZU3g2P6rdDeQV",
-      "tokenBFees": "BykDcrejZUBjkyYnrcCjvZv14rkiusJLTuSFSmLGL2pB",
+      "tokenAFees": "93atppqNN81mBaJSmPdypCtxFDYcDLCvwLD8m3T8ozm5",
+      "tokenBFees": "zDitKkv2s1Ao7jYL9R8C8KRnM7ogg5Uex9N6PhTBWfX",
       "tokenDecimals": 9
     },
     "state": {
@@ -8905,17 +8905,17 @@
   },
   {
     "pool": {
-      "bump": 254,
-      "index": 19,
-      "key": "3Lh5LVhFVqtre7wEQFnYJG3wtr76MacVHpD82X57Uz5D",
+      "bump": 252,
+      "index": 115,
+      "key": "A24DdFH22BCV5JQ7QzugD6VjR9fm6gior1P8tYGXrLk5",
       "lpMint": "zSo2NgZQ5fv2bQ393CfCo6szdbeAc5RciwFkwBS659W",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "So11111111111111111111111111111111111111112",
       "mintB": "So111DzVTTNpDq81EbeyKZMi4SkhU9yekqB8xmMpqzA",
-      "permissionlessImport": false,
+      "permissionlessImport": true,
       "swap": "ercAoEmXjQzEvAFbdjAo81KtMxRGn9AW1ju882upmPH",
-      "tokenAFees": "74QdgRNZ3UtQM6wtZ3HouY6RSn31sY19hG5tWRnxUdWD",
-      "tokenBFees": "HiBC1sYJ1Jt6psaLr7m2kof29gpigtxCqf2MS1puH8g8",
+      "tokenAFees": "DViotfHDbbgLjNrKYN1JQdZKQCEvGYBdr2DMLN4RZnKj",
+      "tokenBFees": "6qe47SXgZF2iRAjnYzXxLMAqQpFBTYGkhwg7bfgpsUUC",
       "tokenDecimals": 9
     },
     "state": {
@@ -8989,17 +8989,17 @@
   },
   {
     "pool": {
-      "bump": 252,
-      "index": 115,
-      "key": "A24DdFH22BCV5JQ7QzugD6VjR9fm6gior1P8tYGXrLk5",
+      "bump": 254,
+      "index": 19,
+      "key": "3Lh5LVhFVqtre7wEQFnYJG3wtr76MacVHpD82X57Uz5D",
       "lpMint": "zSo2NgZQ5fv2bQ393CfCo6szdbeAc5RciwFkwBS659W",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "So11111111111111111111111111111111111111112",
       "mintB": "So111DzVTTNpDq81EbeyKZMi4SkhU9yekqB8xmMpqzA",
-      "permissionlessImport": true,
+      "permissionlessImport": false,
       "swap": "ercAoEmXjQzEvAFbdjAo81KtMxRGn9AW1ju882upmPH",
-      "tokenAFees": "DViotfHDbbgLjNrKYN1JQdZKQCEvGYBdr2DMLN4RZnKj",
-      "tokenBFees": "6qe47SXgZF2iRAjnYzXxLMAqQpFBTYGkhwg7bfgpsUUC",
+      "tokenAFees": "74QdgRNZ3UtQM6wtZ3HouY6RSn31sY19hG5tWRnxUdWD",
+      "tokenBFees": "HiBC1sYJ1Jt6psaLr7m2kof29gpigtxCqf2MS1puH8g8",
       "tokenDecimals": 9
     },
     "state": {
@@ -9241,17 +9241,17 @@
   },
   {
     "pool": {
-      "bump": 252,
-      "index": 22,
-      "key": "HrV9KdQjKrwjRu4xDz5Td1Ra3VYNXmQtnYzX4W7mnPE",
+      "bump": 255,
+      "index": 34,
+      "key": "AqD6LzqqdX6YJDdfKTLPUhddNC8HRW3Esdn35UK4qMsM",
       "lpMint": "ALPaX3bS8zPKsVN6eS7Ln7dvEbDAfDtXsLz5pe2JRddq",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
       "mintB": "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi",
       "permissionlessImport": false,
       "swap": "FEiWZLDDFthHtFHhavYwdmF8RThgTNt8vzBqAwV4hTar",
-      "tokenAFees": "7pRkYR5g4W9eCvX8YR6FCiNsQWZnTqDvE72frabS8MXV",
-      "tokenBFees": "BobumWmnAAsgWuBrfD42JsYRZjiQEXqb26FdZx9eoWiX",
+      "tokenAFees": "3GqC6iqnZEP6pVsEsCcTgrpcFbjwuJZYExU5Tk4fv7rN",
+      "tokenBFees": "CQgePXshqxWW2fZEpd31nLvyAWTDNtvhmsMYv6kn8wpB",
       "tokenDecimals": 9
     },
     "state": {
@@ -9325,17 +9325,17 @@
   },
   {
     "pool": {
-      "bump": 255,
-      "index": 34,
-      "key": "AqD6LzqqdX6YJDdfKTLPUhddNC8HRW3Esdn35UK4qMsM",
+      "bump": 252,
+      "index": 22,
+      "key": "HrV9KdQjKrwjRu4xDz5Td1Ra3VYNXmQtnYzX4W7mnPE",
       "lpMint": "ALPaX3bS8zPKsVN6eS7Ln7dvEbDAfDtXsLz5pe2JRddq",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
       "mintB": "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi",
       "permissionlessImport": false,
       "swap": "FEiWZLDDFthHtFHhavYwdmF8RThgTNt8vzBqAwV4hTar",
-      "tokenAFees": "3GqC6iqnZEP6pVsEsCcTgrpcFbjwuJZYExU5Tk4fv7rN",
-      "tokenBFees": "CQgePXshqxWW2fZEpd31nLvyAWTDNtvhmsMYv6kn8wpB",
+      "tokenAFees": "7pRkYR5g4W9eCvX8YR6FCiNsQWZnTqDvE72frabS8MXV",
+      "tokenBFees": "BobumWmnAAsgWuBrfD42JsYRZjiQEXqb26FdZx9eoWiX",
       "tokenDecimals": 9
     },
     "state": {
@@ -9577,17 +9577,17 @@
   },
   {
     "pool": {
-      "bump": 254,
-      "index": 111,
-      "key": "3f3ERfr8rxZWoP1DbiMVUEvT1DMQJcn27SsrHfuaGWfK",
+      "bump": 255,
+      "index": 47,
+      "key": "5h7oo7WKzEvX7dwm7L1GEFqfdWBjjEyKzJCjkt9RM83D",
       "lpMint": "FUDpBiyRjvh2igGk6xH3UDeBuZC8k6jtJGMLvuh8n7gJ",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "mintB": "Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv",
-      "permissionlessImport": true,
+      "permissionlessImport": false,
       "swap": "FLUY35bdRBEtuiBaRNgxvhnZsdnCjSfTjZtKbCpgnJuF",
-      "tokenAFees": "F6LK9xmbXXXYGp9fEutQ9pwNfCinQLeqq64tBn9orTLU",
-      "tokenBFees": "Hmm8UTCd1BspuLADp6AonNM5StXQmU7XQxRdpzpRfKTt",
+      "tokenAFees": "8DUjqRiUfGWqGctZ5iaHoZGjivyTNaJYxTuNwB7cWhRr",
+      "tokenBFees": "BRgCTgAVVCqJZgzLL3XUsXf6RFuA7HiBCPSJejeePVQT",
       "tokenDecimals": 6
     },
     "state": {
@@ -9661,17 +9661,17 @@
   },
   {
     "pool": {
-      "bump": 255,
-      "index": 47,
-      "key": "5h7oo7WKzEvX7dwm7L1GEFqfdWBjjEyKzJCjkt9RM83D",
+      "bump": 254,
+      "index": 111,
+      "key": "3f3ERfr8rxZWoP1DbiMVUEvT1DMQJcn27SsrHfuaGWfK",
       "lpMint": "FUDpBiyRjvh2igGk6xH3UDeBuZC8k6jtJGMLvuh8n7gJ",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "mintB": "Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv",
-      "permissionlessImport": false,
+      "permissionlessImport": true,
       "swap": "FLUY35bdRBEtuiBaRNgxvhnZsdnCjSfTjZtKbCpgnJuF",
-      "tokenAFees": "8DUjqRiUfGWqGctZ5iaHoZGjivyTNaJYxTuNwB7cWhRr",
-      "tokenBFees": "BRgCTgAVVCqJZgzLL3XUsXf6RFuA7HiBCPSJejeePVQT",
+      "tokenAFees": "F6LK9xmbXXXYGp9fEutQ9pwNfCinQLeqq64tBn9orTLU",
+      "tokenBFees": "Hmm8UTCd1BspuLADp6AonNM5StXQmU7XQxRdpzpRfKTt",
       "tokenDecimals": 6
     },
     "state": {
@@ -10586,16 +10586,16 @@
   {
     "pool": {
       "bump": 255,
-      "index": 35,
-      "key": "L2z2PPUK7TYx9rek9w33xYQNN1mVoBj19dG825khFYX",
+      "index": 20,
+      "key": "GGdMo6Cxjhttt91hmpYCxc9Bduad2ccDY7KrmBUbMpgP",
       "lpMint": "ALP8mkba7FHrpn18hGMRURF1aRNS7P2y1SRzqE6ra3Zo",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u",
       "mintB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
       "permissionlessImport": false,
       "swap": "FTMDfFPjYWvSsDXMGR8Mdt4fLjDtSDwfz7GAqe5V6qwq",
-      "tokenAFees": "CkKCRaT9Da5QrFcQ69oQ6edGZZA2pT2GgW9Hhw7y6AZW",
-      "tokenBFees": "6tRsquyLGNMX33JQJuWFnKbjaHW5XhuX9WSVvEuALkUo",
+      "tokenAFees": "C3YoucrCvkSpCxiHZr6jYhGq5GDh9qLdvv2DrxBAVBVW",
+      "tokenBFees": "3XocEah4G5SmjLgHcGqgP4KB5zVuvVVGLcA5g6w1qrs6",
       "tokenDecimals": 9
     },
     "state": {
@@ -10670,16 +10670,16 @@
   {
     "pool": {
       "bump": 255,
-      "index": 20,
-      "key": "GGdMo6Cxjhttt91hmpYCxc9Bduad2ccDY7KrmBUbMpgP",
+      "index": 35,
+      "key": "L2z2PPUK7TYx9rek9w33xYQNN1mVoBj19dG825khFYX",
       "lpMint": "ALP8mkba7FHrpn18hGMRURF1aRNS7P2y1SRzqE6ra3Zo",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u",
       "mintB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
       "permissionlessImport": false,
       "swap": "FTMDfFPjYWvSsDXMGR8Mdt4fLjDtSDwfz7GAqe5V6qwq",
-      "tokenAFees": "C3YoucrCvkSpCxiHZr6jYhGq5GDh9qLdvv2DrxBAVBVW",
-      "tokenBFees": "3XocEah4G5SmjLgHcGqgP4KB5zVuvVVGLcA5g6w1qrs6",
+      "tokenAFees": "CkKCRaT9Da5QrFcQ69oQ6edGZZA2pT2GgW9Hhw7y6AZW",
+      "tokenBFees": "6tRsquyLGNMX33JQJuWFnKbjaHW5XhuX9WSVvEuALkUo",
       "tokenDecimals": 9
     },
     "state": {
@@ -11425,17 +11425,17 @@
   },
   {
     "pool": {
-      "bump": 255,
-      "index": 22,
-      "key": "FTAc9jevVeED7boiRJKWErCLV9ZqekEDPAPgPvotbSXq",
+      "bump": 252,
+      "index": 93,
+      "key": "HnhUVPEZJN4uPEozuhWHZzJ3N1TPNE6GA7k7fBusWhxp",
       "lpMint": "HLPPmd7NzTTNiqKR6rAZYgrH9VhU47kxftecQSk2oD6J",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
       "mintB": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
       "permissionlessImport": false,
       "swap": "HBTCrEkrCftRrXHZgSHQxRJTxG7TZ1DkC3Lq6UZiVg8E",
-      "tokenAFees": "6meUxJVjXp7UuVtX9jMZVMsqgmvy52PJS6t1P8aiBypX",
-      "tokenBFees": "BgkC6okBiNua5EhLYNQxz13EUT528QvCMPzkzZpdN6zu",
+      "tokenAFees": "HFEGCnijsehtSwK9sEvTRqyscTwYGRS3kURz8bdkuvV",
+      "tokenBFees": "5cDvNLTWtxz9NUwjU41rfPuCWZzEXcJdRmCiM7mLEVVp",
       "tokenDecimals": 9
     },
     "state": {
@@ -11509,17 +11509,17 @@
   },
   {
     "pool": {
-      "bump": 252,
-      "index": 93,
-      "key": "HnhUVPEZJN4uPEozuhWHZzJ3N1TPNE6GA7k7fBusWhxp",
+      "bump": 255,
+      "index": 22,
+      "key": "FTAc9jevVeED7boiRJKWErCLV9ZqekEDPAPgPvotbSXq",
       "lpMint": "HLPPmd7NzTTNiqKR6rAZYgrH9VhU47kxftecQSk2oD6J",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
       "mintB": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
       "permissionlessImport": false,
       "swap": "HBTCrEkrCftRrXHZgSHQxRJTxG7TZ1DkC3Lq6UZiVg8E",
-      "tokenAFees": "HFEGCnijsehtSwK9sEvTRqyscTwYGRS3kURz8bdkuvV",
-      "tokenBFees": "5cDvNLTWtxz9NUwjU41rfPuCWZzEXcJdRmCiM7mLEVVp",
+      "tokenAFees": "6meUxJVjXp7UuVtX9jMZVMsqgmvy52PJS6t1P8aiBypX",
+      "tokenBFees": "BgkC6okBiNua5EhLYNQxz13EUT528QvCMPzkzZpdN6zu",
       "tokenDecimals": 9
     },
     "state": {
@@ -12265,90 +12265,6 @@
   },
   {
     "pool": {
-      "bump": 254,
-      "index": 128,
-      "key": "4mQ1Dqg77nYkwFuAKFp3gS7MwaQL1FmqXHFMivjMSSvn",
-      "lpMint": "HUSzWddUQbavKn24cjozm65eps8rq9yhNn5edtTLWfdz",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
-      "mintA": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
-      "mintB": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
-      "permissionlessImport": false,
-      "swap": "HuonfMR5ivyhX5BZBw2Lr3XuNPSTVrSmZMWgBZrMQJU2",
-      "tokenAFees": "HQyvqoN4hHGS8dfkHwyFQcQ42uZHGNfkpx7gY6NtYedy",
-      "tokenBFees": "FXN5eoQXgDAefw5Wab6jNjcAnTNZPzzAA9FwgimWb8Dr",
-      "tokenDecimals": 8
-    },
-    "state": {
-      "adminAccount": "4mQ1Dqg77nYkwFuAKFp3gS7MwaQL1FmqXHFMivjMSSvn",
-      "fees": {
-        "adminTrade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "adminWithdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "trade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "4"
-        },
-        "withdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        }
-      },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
-      "initialAmpFactor": "32",
-      "isInitialized": true,
-      "isPaused": false,
-      "nonce": 255,
-      "poolTokenMint": "HUSzWddUQbavKn24cjozm65eps8rq9yhNn5edtTLWfdz",
-      "startRampTimestamp": 0,
-      "stopRampTimestamp": 0,
-      "targetAmpFactor": "32",
-      "tokenA": {
-        "adminFeeAccount": "HQyvqoN4hHGS8dfkHwyFQcQ42uZHGNfkpx7gY6NtYedy",
-        "mint": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
-        "reserve": "E7L8CZxreEeNwM1V8DLxa8AZQKu6oday6RvXxRo27CHi"
-      },
-      "tokenB": {
-        "adminFeeAccount": "FXN5eoQXgDAefw5Wab6jNjcAnTNZPzzAA9FwgimWb8Dr",
-        "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
-        "reserve": "48UJw19Ra8y5Kv989DsXPrfUHeUWUbHvXZmdPBbGuHdz"
-      }
-    },
-    "summary": {
-      "addresses": {
-        "admin": "4mQ1Dqg77nYkwFuAKFp3gS7MwaQL1FmqXHFMivjMSSvn",
-        "lpTokenMint": "HUSzWddUQbavKn24cjozm65eps8rq9yhNn5edtTLWfdz",
-        "mergePool": "7BWX1WyhzaghTD3GZeUWaqP38yoAMtQ6owacEDF2bx7S",
-        "quarry": "41CPKcrV6XAJ7943hN7X9znsSaiN1DEGJNEncSA3hAPw",
-        "reserves": [
-          "E7L8CZxreEeNwM1V8DLxa8AZQKu6oday6RvXxRo27CHi",
-          "48UJw19Ra8y5Kv989DsXPrfUHeUWUbHvXZmdPBbGuHdz"
-        ],
-        "swapAccount": "HuonfMR5ivyhX5BZBw2Lr3XuNPSTVrSmZMWgBZrMQJU2",
-        "swapAuthority": "Ah5zHaE8fA8GJCopa9jaCmxG8AVUtf7ae7V8znSFURAd"
-      },
-      "decimals": 8,
-      "underlyingTokens": [
-        "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
-        "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
-      ]
-    }
-  },
-  {
-    "pool": {
       "bump": 255,
       "index": 80,
       "key": "EJejTQuhZFwpU2DwUqBrvA2xNQJaVA5zCHLfSdDebBGv",
@@ -12433,21 +12349,21 @@
   },
   {
     "pool": {
-      "bump": 255,
-      "index": 110,
-      "key": "BuaGV3P6Tb8Mg7Wx78kga6zQFgc1Vt4MQv58WDTD2ydV",
-      "lpMint": "NERQa8KLAt2DRAXzo3D2WbKVRkbGENr61gJmHg3Gxot",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
-      "mintA": "PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY",
-      "mintB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-      "permissionlessImport": true,
-      "swap": "iLiUBQ7Z7im6Ew3b4ewwPcehzWgEQRJ1iQz7g6D62NW",
-      "tokenAFees": "Ag9QvRDFHMeDHgwApqrpsgpJYqDoNofJMR97ZsPsrmzQ",
-      "tokenBFees": "FNKABfFJUtaP4xzPWr9A4SxzCcdfCFp3oTdiXXD4Csvv",
-      "tokenDecimals": 9
+      "bump": 254,
+      "index": 128,
+      "key": "4mQ1Dqg77nYkwFuAKFp3gS7MwaQL1FmqXHFMivjMSSvn",
+      "lpMint": "HUSzWddUQbavKn24cjozm65eps8rq9yhNn5edtTLWfdz",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "mintA": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
+      "mintB": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+      "permissionlessImport": false,
+      "swap": "HuonfMR5ivyhX5BZBw2Lr3XuNPSTVrSmZMWgBZrMQJU2",
+      "tokenAFees": "HQyvqoN4hHGS8dfkHwyFQcQ42uZHGNfkpx7gY6NtYedy",
+      "tokenBFees": "FXN5eoQXgDAefw5Wab6jNjcAnTNZPzzAA9FwgimWb8Dr",
+      "tokenDecimals": 8
     },
     "state": {
-      "adminAccount": "DLb4cSaeNvobwbEPY4JKNtNhqrXtuYYcTA92A16mmhfr",
+      "adminAccount": "4mQ1Dqg77nYkwFuAKFp3gS7MwaQL1FmqXHFMivjMSSvn",
       "fees": {
         "adminTrade": {
           "denominatorStr": "10000",
@@ -12476,42 +12392,42 @@
       },
       "futureAdminAccount": "11111111111111111111111111111111",
       "futureAdminDeadline": 0,
-      "initialAmpFactor": "19",
+      "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": false,
-      "nonce": 254,
-      "poolTokenMint": "NERQa8KLAt2DRAXzo3D2WbKVRkbGENr61gJmHg3Gxot",
+      "nonce": 255,
+      "poolTokenMint": "HUSzWddUQbavKn24cjozm65eps8rq9yhNn5edtTLWfdz",
       "startRampTimestamp": 0,
       "stopRampTimestamp": 0,
-      "targetAmpFactor": "19",
+      "targetAmpFactor": "32",
       "tokenA": {
-        "adminFeeAccount": "5YMdo8BgYHH18Jg9ZFNYwvJnVKy5BL2NbmyX1ZMBrwiA",
-        "mint": "PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY",
-        "reserve": "GpugBvKWM3TVhYcZjemSdtehBWgfvuGr6uAm9iPjXT6v"
+        "adminFeeAccount": "HQyvqoN4hHGS8dfkHwyFQcQ42uZHGNfkpx7gY6NtYedy",
+        "mint": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
+        "reserve": "E7L8CZxreEeNwM1V8DLxa8AZQKu6oday6RvXxRo27CHi"
       },
       "tokenB": {
-        "adminFeeAccount": "AGZK9NNNUPrhrD8UCSddd8ETw2kYSUyFjQRucuACoAaF",
-        "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-        "reserve": "92fMXJ3xy8tEyMUWLHKRLyhPw2nECBo77GtDiBBbYrjX"
+        "adminFeeAccount": "FXN5eoQXgDAefw5Wab6jNjcAnTNZPzzAA9FwgimWb8Dr",
+        "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+        "reserve": "48UJw19Ra8y5Kv989DsXPrfUHeUWUbHvXZmdPBbGuHdz"
       }
     },
     "summary": {
       "addresses": {
-        "admin": "DLb4cSaeNvobwbEPY4JKNtNhqrXtuYYcTA92A16mmhfr",
-        "lpTokenMint": "NERQa8KLAt2DRAXzo3D2WbKVRkbGENr61gJmHg3Gxot",
-        "mergePool": "3eaefpzmT2ciUV4EnGZvUuWESdaF9PH7zDYCJQA2fGaK",
-        "quarry": "28Bvg71ZD3btNx2DEz8x9R4TSE7M7ckBBpW5QJjUfX9r",
+        "admin": "4mQ1Dqg77nYkwFuAKFp3gS7MwaQL1FmqXHFMivjMSSvn",
+        "lpTokenMint": "HUSzWddUQbavKn24cjozm65eps8rq9yhNn5edtTLWfdz",
+        "mergePool": "7BWX1WyhzaghTD3GZeUWaqP38yoAMtQ6owacEDF2bx7S",
+        "quarry": "41CPKcrV6XAJ7943hN7X9znsSaiN1DEGJNEncSA3hAPw",
         "reserves": [
-          "GpugBvKWM3TVhYcZjemSdtehBWgfvuGr6uAm9iPjXT6v",
-          "92fMXJ3xy8tEyMUWLHKRLyhPw2nECBo77GtDiBBbYrjX"
+          "E7L8CZxreEeNwM1V8DLxa8AZQKu6oday6RvXxRo27CHi",
+          "48UJw19Ra8y5Kv989DsXPrfUHeUWUbHvXZmdPBbGuHdz"
         ],
-        "swapAccount": "iLiUBQ7Z7im6Ew3b4ewwPcehzWgEQRJ1iQz7g6D62NW",
-        "swapAuthority": "9miYzKwZPcvEiuHaNowbh9Yxd5mdk9b3qXUjQR6qyPLd"
+        "swapAccount": "HuonfMR5ivyhX5BZBw2Lr3XuNPSTVrSmZMWgBZrMQJU2",
+        "swapAuthority": "Ah5zHaE8fA8GJCopa9jaCmxG8AVUtf7ae7V8znSFURAd"
       },
-      "decimals": 9,
+      "decimals": 8,
       "underlyingTokens": [
-        "PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY",
-        "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
+        "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
       ]
     }
   },
@@ -12602,20 +12518,20 @@
   {
     "pool": {
       "bump": 255,
-      "index": 125,
-      "key": "GD6qXZvw7rDTfGh8gFt4tyK8Dt5ajVW7SvkYHvLqFFbh",
-      "lpMint": "xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
-      "mintA": "8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK",
-      "mintB": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
-      "permissionlessImport": false,
-      "swap": "ionytDfEj1mXodptgrsKEZro7DGsfpzANUfarJdm6Qb",
-      "tokenAFees": "GebKhCDdPkZaJrV7nA4MzrPLi42bciaByQYCQ7XDDqQz",
-      "tokenBFees": "DGVW2DGpSTvcoHRGpXGmi7hqGB747VmAhco695dVwG4J",
+      "index": 110,
+      "key": "BuaGV3P6Tb8Mg7Wx78kga6zQFgc1Vt4MQv58WDTD2ydV",
+      "lpMint": "NERQa8KLAt2DRAXzo3D2WbKVRkbGENr61gJmHg3Gxot",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "mintA": "PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY",
+      "mintB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+      "permissionlessImport": true,
+      "swap": "iLiUBQ7Z7im6Ew3b4ewwPcehzWgEQRJ1iQz7g6D62NW",
+      "tokenAFees": "Ag9QvRDFHMeDHgwApqrpsgpJYqDoNofJMR97ZsPsrmzQ",
+      "tokenBFees": "FNKABfFJUtaP4xzPWr9A4SxzCcdfCFp3oTdiXXD4Csvv",
       "tokenDecimals": 9
     },
     "state": {
-      "adminAccount": "GD6qXZvw7rDTfGh8gFt4tyK8Dt5ajVW7SvkYHvLqFFbh",
+      "adminAccount": "DLb4cSaeNvobwbEPY4JKNtNhqrXtuYYcTA92A16mmhfr",
       "fees": {
         "adminTrade": {
           "denominatorStr": "10000",
@@ -12644,42 +12560,42 @@
       },
       "futureAdminAccount": "11111111111111111111111111111111",
       "futureAdminDeadline": 0,
-      "initialAmpFactor": "32",
+      "initialAmpFactor": "19",
       "isInitialized": true,
       "isPaused": false,
-      "nonce": 255,
-      "poolTokenMint": "xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY",
+      "nonce": 254,
+      "poolTokenMint": "NERQa8KLAt2DRAXzo3D2WbKVRkbGENr61gJmHg3Gxot",
       "startRampTimestamp": 0,
       "stopRampTimestamp": 0,
-      "targetAmpFactor": "32",
+      "targetAmpFactor": "19",
       "tokenA": {
-        "adminFeeAccount": "GebKhCDdPkZaJrV7nA4MzrPLi42bciaByQYCQ7XDDqQz",
-        "mint": "8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK",
-        "reserve": "3gkSjY95an9xNFSjCfsay6JZez7uv7yfW3Ad4ubc4fMK"
+        "adminFeeAccount": "5YMdo8BgYHH18Jg9ZFNYwvJnVKy5BL2NbmyX1ZMBrwiA",
+        "mint": "PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY",
+        "reserve": "GpugBvKWM3TVhYcZjemSdtehBWgfvuGr6uAm9iPjXT6v"
       },
       "tokenB": {
-        "adminFeeAccount": "DGVW2DGpSTvcoHRGpXGmi7hqGB747VmAhco695dVwG4J",
-        "mint": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
-        "reserve": "9wXqANaSuEqkKL9yHzCPEDGHwbkStVAqV5rB3QDs3Jr6"
+        "adminFeeAccount": "AGZK9NNNUPrhrD8UCSddd8ETw2kYSUyFjQRucuACoAaF",
+        "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+        "reserve": "92fMXJ3xy8tEyMUWLHKRLyhPw2nECBo77GtDiBBbYrjX"
       }
     },
     "summary": {
       "addresses": {
-        "admin": "GD6qXZvw7rDTfGh8gFt4tyK8Dt5ajVW7SvkYHvLqFFbh",
-        "lpTokenMint": "xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY",
-        "mergePool": "6LvuQBiRp74nxYLmcju2qRDbhhXPAwgLxW7AxAA1q3qB",
-        "quarry": "CipQjauQwCa2pBbavhtR67mKUHbd8ymrQsDwJHTxjPFB",
+        "admin": "DLb4cSaeNvobwbEPY4JKNtNhqrXtuYYcTA92A16mmhfr",
+        "lpTokenMint": "NERQa8KLAt2DRAXzo3D2WbKVRkbGENr61gJmHg3Gxot",
+        "mergePool": "3eaefpzmT2ciUV4EnGZvUuWESdaF9PH7zDYCJQA2fGaK",
+        "quarry": "28Bvg71ZD3btNx2DEz8x9R4TSE7M7ckBBpW5QJjUfX9r",
         "reserves": [
-          "3gkSjY95an9xNFSjCfsay6JZez7uv7yfW3Ad4ubc4fMK",
-          "9wXqANaSuEqkKL9yHzCPEDGHwbkStVAqV5rB3QDs3Jr6"
+          "GpugBvKWM3TVhYcZjemSdtehBWgfvuGr6uAm9iPjXT6v",
+          "92fMXJ3xy8tEyMUWLHKRLyhPw2nECBo77GtDiBBbYrjX"
         ],
-        "swapAccount": "ionytDfEj1mXodptgrsKEZro7DGsfpzANUfarJdm6Qb",
-        "swapAuthority": "Gdnw9zSTsNjvFcYdtpA5efcGbNCeNAqMev4gGEKbvnJ2"
+        "swapAccount": "iLiUBQ7Z7im6Ew3b4ewwPcehzWgEQRJ1iQz7g6D62NW",
+        "swapAuthority": "9miYzKwZPcvEiuHaNowbh9Yxd5mdk9b3qXUjQR6qyPLd"
       },
       "decimals": 9,
       "underlyingTokens": [
-        "8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK",
-        "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
+        "PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY",
+        "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
       ]
     }
   },
@@ -12770,20 +12686,20 @@
   {
     "pool": {
       "bump": 255,
-      "index": 82,
-      "key": "6G5mVcrdGX7oK3vaUWE2Eaw7xSdnezLW2LU7wBeyUWK7",
-      "lpMint": "LUN1p1dZwSBgTv1JSdn2apdUuLanHKtgNcnpDydVFTU",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
-      "mintA": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
-      "mintB": "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE",
+      "index": 125,
+      "key": "GD6qXZvw7rDTfGh8gFt4tyK8Dt5ajVW7SvkYHvLqFFbh",
+      "lpMint": "xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "mintA": "8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK",
+      "mintB": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
       "permissionlessImport": false,
-      "swap": "Joji2GxwqNyoXMUqi4z3P4KSSpx31nwcrxxtMSN6aey",
-      "tokenAFees": "8QqZBriQpUVNcwrQbPnBUMkQxh3aJuYqpBegGUzGqH4Q",
-      "tokenBFees": "6JJEkJdkjrGuuFsF5MAiZHXZrBZYzdTUaNykQprn9YBf",
-      "tokenDecimals": 6
+      "swap": "ionytDfEj1mXodptgrsKEZro7DGsfpzANUfarJdm6Qb",
+      "tokenAFees": "GebKhCDdPkZaJrV7nA4MzrPLi42bciaByQYCQ7XDDqQz",
+      "tokenBFees": "DGVW2DGpSTvcoHRGpXGmi7hqGB747VmAhco695dVwG4J",
+      "tokenDecimals": 9
     },
     "state": {
-      "adminAccount": "9mczvJLBLNzarKk9xhQFDK2sfd7A56VRP5dSGGnkR6mu",
+      "adminAccount": "GD6qXZvw7rDTfGh8gFt4tyK8Dt5ajVW7SvkYHvLqFFbh",
       "fees": {
         "adminTrade": {
           "denominatorStr": "10000",
@@ -12812,42 +12728,42 @@
       },
       "futureAdminAccount": "11111111111111111111111111111111",
       "futureAdminDeadline": 0,
-      "initialAmpFactor": "03e8",
+      "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": false,
       "nonce": 255,
-      "poolTokenMint": "LUN1p1dZwSBgTv1JSdn2apdUuLanHKtgNcnpDydVFTU",
+      "poolTokenMint": "xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY",
       "startRampTimestamp": 0,
       "stopRampTimestamp": 0,
-      "targetAmpFactor": "03e8",
+      "targetAmpFactor": "32",
       "tokenA": {
-        "adminFeeAccount": "6uHmCB2m2Pyr4AJ2CjZm7MWeCW9xpznSb1azkue5dYag",
-        "mint": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
-        "reserve": "GgRnQyCm22UkHQME96CqJFpsqV93QJQsWMURdsQSSAdk"
+        "adminFeeAccount": "GebKhCDdPkZaJrV7nA4MzrPLi42bciaByQYCQ7XDDqQz",
+        "mint": "8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK",
+        "reserve": "3gkSjY95an9xNFSjCfsay6JZez7uv7yfW3Ad4ubc4fMK"
       },
       "tokenB": {
-        "adminFeeAccount": "484oNyMJystWzsvUeHTPy6qTL3SJq8t8HK7W3vkGHPsC",
-        "mint": "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE",
-        "reserve": "GrWSq33By3uf7Vqqfrscy7oJMuqGgZojd2KSzsxioxQL"
+        "adminFeeAccount": "DGVW2DGpSTvcoHRGpXGmi7hqGB747VmAhco695dVwG4J",
+        "mint": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
+        "reserve": "9wXqANaSuEqkKL9yHzCPEDGHwbkStVAqV5rB3QDs3Jr6"
       }
     },
     "summary": {
       "addresses": {
-        "admin": "9mczvJLBLNzarKk9xhQFDK2sfd7A56VRP5dSGGnkR6mu",
-        "lpTokenMint": "LUN1p1dZwSBgTv1JSdn2apdUuLanHKtgNcnpDydVFTU",
-        "mergePool": "KSRHjknavcEwAeWNYPxjwoS4APsy5fUa69Umuc8689M",
-        "quarry": "7DyHgSJ2KvjjreNFefeWxkPe8oucwbdtSb8LkjkVTarx",
+        "admin": "GD6qXZvw7rDTfGh8gFt4tyK8Dt5ajVW7SvkYHvLqFFbh",
+        "lpTokenMint": "xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY",
+        "mergePool": "6LvuQBiRp74nxYLmcju2qRDbhhXPAwgLxW7AxAA1q3qB",
+        "quarry": "CipQjauQwCa2pBbavhtR67mKUHbd8ymrQsDwJHTxjPFB",
         "reserves": [
-          "GgRnQyCm22UkHQME96CqJFpsqV93QJQsWMURdsQSSAdk",
-          "GrWSq33By3uf7Vqqfrscy7oJMuqGgZojd2KSzsxioxQL"
+          "3gkSjY95an9xNFSjCfsay6JZez7uv7yfW3Ad4ubc4fMK",
+          "9wXqANaSuEqkKL9yHzCPEDGHwbkStVAqV5rB3QDs3Jr6"
         ],
-        "swapAccount": "Joji2GxwqNyoXMUqi4z3P4KSSpx31nwcrxxtMSN6aey",
-        "swapAuthority": "ubiHGBrW6aYpYdAM4f1WVJjmiC8SAKFcG4hZe1Cksa6"
+        "swapAccount": "ionytDfEj1mXodptgrsKEZro7DGsfpzANUfarJdm6Qb",
+        "swapAuthority": "Gdnw9zSTsNjvFcYdtpA5efcGbNCeNAqMev4gGEKbvnJ2"
       },
-      "decimals": 6,
+      "decimals": 9,
       "underlyingTokens": [
-        "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
-        "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"
+        "8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK",
+        "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
       ]
     }
   },
@@ -12937,17 +12853,101 @@
   },
   {
     "pool": {
-      "bump": 253,
-      "index": 44,
-      "key": "3EXaPffAJVAfvyo8mAvGs6YkLv5VTygQDK7kdNf8hLmZ",
-      "lpMint": "son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw",
+      "bump": 255,
+      "index": 82,
+      "key": "6G5mVcrdGX7oK3vaUWE2Eaw7xSdnezLW2LU7wBeyUWK7",
+      "lpMint": "LUN1p1dZwSBgTv1JSdn2apdUuLanHKtgNcnpDydVFTU",
       "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "mintA": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
+      "mintB": "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE",
+      "permissionlessImport": false,
+      "swap": "Joji2GxwqNyoXMUqi4z3P4KSSpx31nwcrxxtMSN6aey",
+      "tokenAFees": "8QqZBriQpUVNcwrQbPnBUMkQxh3aJuYqpBegGUzGqH4Q",
+      "tokenBFees": "6JJEkJdkjrGuuFsF5MAiZHXZrBZYzdTUaNykQprn9YBf",
+      "tokenDecimals": 6
+    },
+    "state": {
+      "adminAccount": "9mczvJLBLNzarKk9xhQFDK2sfd7A56VRP5dSGGnkR6mu",
+      "fees": {
+        "adminTrade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "adminWithdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "trade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "4"
+        },
+        "withdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        }
+      },
+      "futureAdminAccount": "11111111111111111111111111111111",
+      "futureAdminDeadline": 0,
+      "initialAmpFactor": "03e8",
+      "isInitialized": true,
+      "isPaused": false,
+      "nonce": 255,
+      "poolTokenMint": "LUN1p1dZwSBgTv1JSdn2apdUuLanHKtgNcnpDydVFTU",
+      "startRampTimestamp": 0,
+      "stopRampTimestamp": 0,
+      "targetAmpFactor": "03e8",
+      "tokenA": {
+        "adminFeeAccount": "6uHmCB2m2Pyr4AJ2CjZm7MWeCW9xpznSb1azkue5dYag",
+        "mint": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
+        "reserve": "GgRnQyCm22UkHQME96CqJFpsqV93QJQsWMURdsQSSAdk"
+      },
+      "tokenB": {
+        "adminFeeAccount": "484oNyMJystWzsvUeHTPy6qTL3SJq8t8HK7W3vkGHPsC",
+        "mint": "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE",
+        "reserve": "GrWSq33By3uf7Vqqfrscy7oJMuqGgZojd2KSzsxioxQL"
+      }
+    },
+    "summary": {
+      "addresses": {
+        "admin": "9mczvJLBLNzarKk9xhQFDK2sfd7A56VRP5dSGGnkR6mu",
+        "lpTokenMint": "LUN1p1dZwSBgTv1JSdn2apdUuLanHKtgNcnpDydVFTU",
+        "mergePool": "KSRHjknavcEwAeWNYPxjwoS4APsy5fUa69Umuc8689M",
+        "quarry": "7DyHgSJ2KvjjreNFefeWxkPe8oucwbdtSb8LkjkVTarx",
+        "reserves": [
+          "GgRnQyCm22UkHQME96CqJFpsqV93QJQsWMURdsQSSAdk",
+          "GrWSq33By3uf7Vqqfrscy7oJMuqGgZojd2KSzsxioxQL"
+        ],
+        "swapAccount": "Joji2GxwqNyoXMUqi4z3P4KSSpx31nwcrxxtMSN6aey",
+        "swapAuthority": "ubiHGBrW6aYpYdAM4f1WVJjmiC8SAKFcG4hZe1Cksa6"
+      },
+      "decimals": 6,
+      "underlyingTokens": [
+        "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
+        "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"
+      ]
+    }
+  },
+  {
+    "pool": {
+      "bump": 254,
+      "index": 49,
+      "key": "CV9GTHKP6o9DC2CmkP34inFTrt2bg43PkXcvTeJgsuvW",
+      "lpMint": "son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
       "mintB": "So11111111111111111111111111111111111111112",
       "permissionlessImport": false,
       "swap": "JSoLLrxK5bYdHwTEWYaGgmeycBCNXKDiBCTw5hXGBg7",
-      "tokenAFees": "L654oTbsHiU6suMLKmqrsCTDiurqgBmYPkbkHFTtFr6",
-      "tokenBFees": "7EADztM7KHFSXoZVshPGLSjBDm8jnoshM5gwqZqzBsbV",
+      "tokenAFees": "Avhfi1j2d5zApwwS4acsa9aXm5dH9GCDcb5dm2zogzBV",
+      "tokenBFees": "9d93kobesDAdABQPTT6GLq73N329sdJU5K3fjpdiwdxn",
       "tokenDecimals": 9
     },
     "state": {
@@ -13021,17 +13021,17 @@
   },
   {
     "pool": {
-      "bump": 254,
-      "index": 49,
-      "key": "CV9GTHKP6o9DC2CmkP34inFTrt2bg43PkXcvTeJgsuvW",
+      "bump": 253,
+      "index": 44,
+      "key": "3EXaPffAJVAfvyo8mAvGs6YkLv5VTygQDK7kdNf8hLmZ",
       "lpMint": "son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
       "mintB": "So11111111111111111111111111111111111111112",
       "permissionlessImport": false,
       "swap": "JSoLLrxK5bYdHwTEWYaGgmeycBCNXKDiBCTw5hXGBg7",
-      "tokenAFees": "Avhfi1j2d5zApwwS4acsa9aXm5dH9GCDcb5dm2zogzBV",
-      "tokenBFees": "9d93kobesDAdABQPTT6GLq73N329sdJU5K3fjpdiwdxn",
+      "tokenAFees": "L654oTbsHiU6suMLKmqrsCTDiurqgBmYPkbkHFTtFr6",
+      "tokenBFees": "7EADztM7KHFSXoZVshPGLSjBDm8jnoshM5gwqZqzBsbV",
       "tokenDecimals": 9
     },
     "state": {
@@ -13441,17 +13441,17 @@
   },
   {
     "pool": {
-      "bump": 253,
-      "index": 55,
-      "key": "3MNa6Kpoh1GN9c72haYfXdZmjps2LF4CUKf88VTQ7KqJ",
+      "bump": 255,
+      "index": 1,
+      "key": "6ybivegrcHWjN6ec3pMos33wEpGCoM4xTFvXTewQPm7q",
       "lpMint": "AVC7uVb6R9B34T8zWxQMEK8twvYk26U71gworsujxFNv",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr",
       "mintB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
       "permissionlessImport": false,
       "swap": "KEVpg4SYCVrqFxKijQH6hm4QxsRdoE51ud64bEEFUC9",
-      "tokenAFees": "nVhAcWUTqyrDJXzbECWKgkTPNEMQdV3Gf6k4L3gwAvV",
-      "tokenBFees": "4AKXBPijLMAN6xb59txJqHDDki3hytPJiL9DZT3r4Fc2",
+      "tokenAFees": "CNTMofwvbkcHKHKbmXBPZ6Vur81QzUPmkkt5a9KSnVvm",
+      "tokenBFees": "8WUjnjugE72SZp9xpNu9VBLiXk9qLxGcMV1eRUvxmVhN",
       "tokenDecimals": 9
     },
     "state": {
@@ -13525,17 +13525,17 @@
   },
   {
     "pool": {
-      "bump": 255,
-      "index": 1,
-      "key": "6ybivegrcHWjN6ec3pMos33wEpGCoM4xTFvXTewQPm7q",
+      "bump": 253,
+      "index": 55,
+      "key": "3MNa6Kpoh1GN9c72haYfXdZmjps2LF4CUKf88VTQ7KqJ",
       "lpMint": "AVC7uVb6R9B34T8zWxQMEK8twvYk26U71gworsujxFNv",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr",
       "mintB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
       "permissionlessImport": false,
       "swap": "KEVpg4SYCVrqFxKijQH6hm4QxsRdoE51ud64bEEFUC9",
-      "tokenAFees": "CNTMofwvbkcHKHKbmXBPZ6Vur81QzUPmkkt5a9KSnVvm",
-      "tokenBFees": "8WUjnjugE72SZp9xpNu9VBLiXk9qLxGcMV1eRUvxmVhN",
+      "tokenAFees": "nVhAcWUTqyrDJXzbECWKgkTPNEMQdV3Gf6k4L3gwAvV",
+      "tokenBFees": "4AKXBPijLMAN6xb59txJqHDDki3hytPJiL9DZT3r4Fc2",
       "tokenDecimals": 9
     },
     "state": {
@@ -14113,90 +14113,6 @@
   },
   {
     "pool": {
-      "bump": 253,
-      "index": 15,
-      "key": "2DhyRtAR9Fj8rYatqtVDfox63fw7g8NodRazYdjty89Q",
-      "lpMint": "FRXsjEv4jF3r72FgbCXu8uLbPoZGLmCmg3EN1S3cfC4x",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
-      "mintA": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
-      "mintB": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
-      "permissionlessImport": false,
-      "swap": "KZMu9QBEdL97EFgamLbN5DE1AoKBG4HdrKKJo4Vuon3",
-      "tokenAFees": "5Vco1hdNu6V1RkQinXUn9sGx4SQ7ui5UGBB6AoGeW21h",
-      "tokenBFees": "2nUMG7r4DG6XQLsoVJvDL6WwfFbsx5hjPJxNck5QRD8v",
-      "tokenDecimals": 8
-    },
-    "state": {
-      "adminAccount": "2DhyRtAR9Fj8rYatqtVDfox63fw7g8NodRazYdjty89Q",
-      "fees": {
-        "adminTrade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "adminWithdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "trade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "4"
-        },
-        "withdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        }
-      },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
-      "initialAmpFactor": "32",
-      "isInitialized": true,
-      "isPaused": false,
-      "nonce": 255,
-      "poolTokenMint": "FRXsjEv4jF3r72FgbCXu8uLbPoZGLmCmg3EN1S3cfC4x",
-      "startRampTimestamp": 0,
-      "stopRampTimestamp": 0,
-      "targetAmpFactor": "32",
-      "tokenA": {
-        "adminFeeAccount": "5Vco1hdNu6V1RkQinXUn9sGx4SQ7ui5UGBB6AoGeW21h",
-        "mint": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
-        "reserve": "DD4ACBWyVqdaKWh7v5btsgqQCCMwbKnuL2xd9pv7Gyuw"
-      },
-      "tokenB": {
-        "adminFeeAccount": "2nUMG7r4DG6XQLsoVJvDL6WwfFbsx5hjPJxNck5QRD8v",
-        "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
-        "reserve": "GcYqiJ1MAuYbNTNYXm1F1gQYTfTgkErACAhNU5dpVj9T"
-      }
-    },
-    "summary": {
-      "addresses": {
-        "admin": "2DhyRtAR9Fj8rYatqtVDfox63fw7g8NodRazYdjty89Q",
-        "lpTokenMint": "FRXsjEv4jF3r72FgbCXu8uLbPoZGLmCmg3EN1S3cfC4x",
-        "mergePool": "FLrQkEjNuUYwK76mZfGUEqpbUJ1a87Wh21wkCdGwdvTL",
-        "quarry": "CEtNcKPEirS6Ns2znGmvk1Z2UYQBt5GJabwhtrv28UEN",
-        "reserves": [
-          "DD4ACBWyVqdaKWh7v5btsgqQCCMwbKnuL2xd9pv7Gyuw",
-          "GcYqiJ1MAuYbNTNYXm1F1gQYTfTgkErACAhNU5dpVj9T"
-        ],
-        "swapAccount": "KZMu9QBEdL97EFgamLbN5DE1AoKBG4HdrKKJo4Vuon3",
-        "swapAuthority": "4DEzAUzQCmvd4LsxcQ8X2tjNH89wGby8g9UXqZB55Mwp"
-      },
-      "decimals": 8,
-      "underlyingTokens": [
-        "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
-        "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
-      ]
-    }
-  },
-  {
-    "pool": {
       "bump": 254,
       "index": 76,
       "key": "89zGiK4DwAdesGac3PUje6Zz9muEZMsGvegGYzkr5kbp",
@@ -14281,17 +14197,101 @@
   },
   {
     "pool": {
-      "bump": 255,
-      "index": 50,
-      "key": "ApyjTYZ1354YUPnjXM6KKRyrgpjMiYitbYAxFmFNJ28r",
+      "bump": 253,
+      "index": 15,
+      "key": "2DhyRtAR9Fj8rYatqtVDfox63fw7g8NodRazYdjty89Q",
+      "lpMint": "FRXsjEv4jF3r72FgbCXu8uLbPoZGLmCmg3EN1S3cfC4x",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "mintA": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+      "mintB": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+      "permissionlessImport": false,
+      "swap": "KZMu9QBEdL97EFgamLbN5DE1AoKBG4HdrKKJo4Vuon3",
+      "tokenAFees": "5Vco1hdNu6V1RkQinXUn9sGx4SQ7ui5UGBB6AoGeW21h",
+      "tokenBFees": "2nUMG7r4DG6XQLsoVJvDL6WwfFbsx5hjPJxNck5QRD8v",
+      "tokenDecimals": 8
+    },
+    "state": {
+      "adminAccount": "2DhyRtAR9Fj8rYatqtVDfox63fw7g8NodRazYdjty89Q",
+      "fees": {
+        "adminTrade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "adminWithdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "trade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "4"
+        },
+        "withdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        }
+      },
+      "futureAdminAccount": "11111111111111111111111111111111",
+      "futureAdminDeadline": 0,
+      "initialAmpFactor": "32",
+      "isInitialized": true,
+      "isPaused": false,
+      "nonce": 255,
+      "poolTokenMint": "FRXsjEv4jF3r72FgbCXu8uLbPoZGLmCmg3EN1S3cfC4x",
+      "startRampTimestamp": 0,
+      "stopRampTimestamp": 0,
+      "targetAmpFactor": "32",
+      "tokenA": {
+        "adminFeeAccount": "5Vco1hdNu6V1RkQinXUn9sGx4SQ7ui5UGBB6AoGeW21h",
+        "mint": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+        "reserve": "DD4ACBWyVqdaKWh7v5btsgqQCCMwbKnuL2xd9pv7Gyuw"
+      },
+      "tokenB": {
+        "adminFeeAccount": "2nUMG7r4DG6XQLsoVJvDL6WwfFbsx5hjPJxNck5QRD8v",
+        "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+        "reserve": "GcYqiJ1MAuYbNTNYXm1F1gQYTfTgkErACAhNU5dpVj9T"
+      }
+    },
+    "summary": {
+      "addresses": {
+        "admin": "2DhyRtAR9Fj8rYatqtVDfox63fw7g8NodRazYdjty89Q",
+        "lpTokenMint": "FRXsjEv4jF3r72FgbCXu8uLbPoZGLmCmg3EN1S3cfC4x",
+        "mergePool": "FLrQkEjNuUYwK76mZfGUEqpbUJ1a87Wh21wkCdGwdvTL",
+        "quarry": "CEtNcKPEirS6Ns2znGmvk1Z2UYQBt5GJabwhtrv28UEN",
+        "reserves": [
+          "DD4ACBWyVqdaKWh7v5btsgqQCCMwbKnuL2xd9pv7Gyuw",
+          "GcYqiJ1MAuYbNTNYXm1F1gQYTfTgkErACAhNU5dpVj9T"
+        ],
+        "swapAccount": "KZMu9QBEdL97EFgamLbN5DE1AoKBG4HdrKKJo4Vuon3",
+        "swapAuthority": "4DEzAUzQCmvd4LsxcQ8X2tjNH89wGby8g9UXqZB55Mwp"
+      },
+      "decimals": 8,
+      "underlyingTokens": [
+        "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+        "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+      ]
+    }
+  },
+  {
+    "pool": {
+      "bump": 252,
+      "index": 79,
+      "key": "CLQM1dKMHaLC6aLdrisGcQmGEAsbLuR93hFkPAsKU5ZT",
       "lpMint": "SoLEao8wTzSfqhuou8rcYsVoLjthVmiXuEjzdNPMnCz",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
       "mintB": "So11111111111111111111111111111111111111112",
       "permissionlessImport": false,
       "swap": "Lee1XZJfJ9Hm2K1qTyeCz1LXNc1YBZaKZszvNY4KCDw",
-      "tokenAFees": "HzZRDMiJSqS5oxzfu17c35DChnkx58LZtas16Pgmuunn",
-      "tokenBFees": "3oebZVvPqba2egfdcbNXa1uS13SfSebxMaNVE82FMk7R",
+      "tokenAFees": "AgnHsYW4svu3AVqSK5VTTEDT56oyzjpDsFaHmeWgwQ3H",
+      "tokenBFees": "AeFmCZ4PrKNYFaxnt3fAe4pm8frsPFGpdxGJz286AmaF",
       "tokenDecimals": 9
     },
     "state": {
@@ -14365,17 +14365,17 @@
   },
   {
     "pool": {
-      "bump": 252,
-      "index": 79,
-      "key": "CLQM1dKMHaLC6aLdrisGcQmGEAsbLuR93hFkPAsKU5ZT",
+      "bump": 255,
+      "index": 50,
+      "key": "ApyjTYZ1354YUPnjXM6KKRyrgpjMiYitbYAxFmFNJ28r",
       "lpMint": "SoLEao8wTzSfqhuou8rcYsVoLjthVmiXuEjzdNPMnCz",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
       "mintB": "So11111111111111111111111111111111111111112",
       "permissionlessImport": false,
       "swap": "Lee1XZJfJ9Hm2K1qTyeCz1LXNc1YBZaKZszvNY4KCDw",
-      "tokenAFees": "AgnHsYW4svu3AVqSK5VTTEDT56oyzjpDsFaHmeWgwQ3H",
-      "tokenBFees": "AeFmCZ4PrKNYFaxnt3fAe4pm8frsPFGpdxGJz286AmaF",
+      "tokenAFees": "HzZRDMiJSqS5oxzfu17c35DChnkx58LZtas16Pgmuunn",
+      "tokenBFees": "3oebZVvPqba2egfdcbNXa1uS13SfSebxMaNVE82FMk7R",
       "tokenDecimals": 9
     },
     "state": {
@@ -14954,16 +14954,16 @@
   {
     "pool": {
       "bump": 254,
-      "index": 16,
-      "key": "132NXdoWzC3TTFHnMehPwawkmpwuM2NUSFmozTqEtgq6",
+      "index": 94,
+      "key": "AHzjZuadHeUn5ABtDi3kcktkuijxGMEoUeFB7PC39d3N",
       "lpMint": "HUTcohdsuStHyqTx6RnCrvbgeMCY1QR8eRprBMFRQaRH",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
       "mintB": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
-      "permissionlessImport": false,
+      "permissionlessImport": true,
       "swap": "MAR3XM1n9xWPQ3HJjAcC85o8DopWFP5p2WxGTaZ3fPB",
-      "tokenAFees": "FzJCmpMRnXYAZq8Rd9MFaayPh76UVF7mG379RMPVh9bs",
-      "tokenBFees": "94UhiuctinnTVy4whebcyxhj3YgqfvUn8GduQFUFVKF9",
+      "tokenAFees": "79V5Azs1Rp3iqJCFTJ4Dp8X5sc8ZnJNmGYBLSUhMAkXD",
+      "tokenBFees": "2vb4XMHSB7UgPc7eP9S4XM2wgSCf2xyakTn81Fzh2PMv",
       "tokenDecimals": 6
     },
     "state": {
@@ -15038,16 +15038,16 @@
   {
     "pool": {
       "bump": 254,
-      "index": 94,
-      "key": "AHzjZuadHeUn5ABtDi3kcktkuijxGMEoUeFB7PC39d3N",
+      "index": 16,
+      "key": "132NXdoWzC3TTFHnMehPwawkmpwuM2NUSFmozTqEtgq6",
       "lpMint": "HUTcohdsuStHyqTx6RnCrvbgeMCY1QR8eRprBMFRQaRH",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
       "mintB": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
-      "permissionlessImport": true,
+      "permissionlessImport": false,
       "swap": "MAR3XM1n9xWPQ3HJjAcC85o8DopWFP5p2WxGTaZ3fPB",
-      "tokenAFees": "79V5Azs1Rp3iqJCFTJ4Dp8X5sc8ZnJNmGYBLSUhMAkXD",
-      "tokenBFees": "2vb4XMHSB7UgPc7eP9S4XM2wgSCf2xyakTn81Fzh2PMv",
+      "tokenAFees": "FzJCmpMRnXYAZq8Rd9MFaayPh76UVF7mG379RMPVh9bs",
+      "tokenBFees": "94UhiuctinnTVy4whebcyxhj3YgqfvUn8GduQFUFVKF9",
       "tokenDecimals": 6
     },
     "state": {
@@ -15625,17 +15625,17 @@
   },
   {
     "pool": {
-      "bump": 255,
-      "index": 62,
-      "key": "2bQA7drNQvaRqE3u7W6gypWCRZ2q8ru19JcFvNonuxMK",
+      "bump": 254,
+      "index": 48,
+      "key": "8miP3vq3BuAYBa6i7bKTEzjTRzhhXon9CbfXJv5QsCqH",
       "lpMint": "ALPfb7HJd4oenNBknjzCbVc2RooC5N1H6N391hbZ82ky",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
       "mintB": "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW",
       "permissionlessImport": false,
       "swap": "MiMuMS9C4vBqcrYeeQPph1E7oAW9aNKvW9k6Zw9XffM",
-      "tokenAFees": "3wAWSrX9t2jLeo6QABuEqjG277sy2YCWDPzmnLMSzNWv",
-      "tokenBFees": "8rwyJ1qmJr3cidNuWTNVHpZBBq7bsbMqHawCdEuhCaYn",
+      "tokenAFees": "CibroeQ5Y8ezKTb9LKDZ7SnwrjgVEVUTxbQkUgW6rFgZ",
+      "tokenBFees": "9DNEgGo4KxrJKb3ocaJxsHooyYmLsJtfoTQ6cuFZhMaA",
       "tokenDecimals": 9
     },
     "state": {
@@ -15709,17 +15709,17 @@
   },
   {
     "pool": {
-      "bump": 254,
-      "index": 48,
-      "key": "8miP3vq3BuAYBa6i7bKTEzjTRzhhXon9CbfXJv5QsCqH",
+      "bump": 255,
+      "index": 62,
+      "key": "2bQA7drNQvaRqE3u7W6gypWCRZ2q8ru19JcFvNonuxMK",
       "lpMint": "ALPfb7HJd4oenNBknjzCbVc2RooC5N1H6N391hbZ82ky",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
       "mintB": "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW",
       "permissionlessImport": false,
       "swap": "MiMuMS9C4vBqcrYeeQPph1E7oAW9aNKvW9k6Zw9XffM",
-      "tokenAFees": "CibroeQ5Y8ezKTb9LKDZ7SnwrjgVEVUTxbQkUgW6rFgZ",
-      "tokenBFees": "9DNEgGo4KxrJKb3ocaJxsHooyYmLsJtfoTQ6cuFZhMaA",
+      "tokenAFees": "3wAWSrX9t2jLeo6QABuEqjG277sy2YCWDPzmnLMSzNWv",
+      "tokenBFees": "8rwyJ1qmJr3cidNuWTNVHpZBBq7bsbMqHawCdEuhCaYn",
       "tokenDecimals": 9
     },
     "state": {
@@ -16130,16 +16130,16 @@
   {
     "pool": {
       "bump": 255,
-      "index": 17,
-      "key": "AHa1HnT1GHyhzRayydn7KW472Xdtzrf3uLykjPQt7jph",
+      "index": 10,
+      "key": "GxrTN2EFpAXtPhgUf4CJio2nvfUycWX3mNcXp1TC3Gzg",
       "lpMint": "cUSDDDBZRhpDW7eyUUPMuw6u1SiMnzu6i7movwf5jxk",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
       "mintB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
       "permissionlessImport": false,
       "swap": "moFiBS1R4Lf3E3zzmBPnw3NF4RhWPkhREFviuzUaCAU",
-      "tokenAFees": "3LGteiT1njS2Z6azesmBQqcQZkFrv3V31y8pjNBx8ceV",
-      "tokenBFees": "Cr7Px5yVkNJPpZkjoH4b6w9J9NqVZi2HtaamdW45RdTN",
+      "tokenAFees": "CUqZMfuGbFuk511eytYs23Kw2Vge5fvDeR4GHsUHPNkd",
+      "tokenBFees": "GuBiPcG1V9nXZEjKi6mrigZ18UTLnMB4Z9cCJJVmdea5",
       "tokenDecimals": 9
     },
     "state": {
@@ -16214,16 +16214,16 @@
   {
     "pool": {
       "bump": 255,
-      "index": 10,
-      "key": "GxrTN2EFpAXtPhgUf4CJio2nvfUycWX3mNcXp1TC3Gzg",
+      "index": 17,
+      "key": "AHa1HnT1GHyhzRayydn7KW472Xdtzrf3uLykjPQt7jph",
       "lpMint": "cUSDDDBZRhpDW7eyUUPMuw6u1SiMnzu6i7movwf5jxk",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
       "mintB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
       "permissionlessImport": false,
       "swap": "moFiBS1R4Lf3E3zzmBPnw3NF4RhWPkhREFviuzUaCAU",
-      "tokenAFees": "CUqZMfuGbFuk511eytYs23Kw2Vge5fvDeR4GHsUHPNkd",
-      "tokenBFees": "GuBiPcG1V9nXZEjKi6mrigZ18UTLnMB4Z9cCJJVmdea5",
+      "tokenAFees": "3LGteiT1njS2Z6azesmBQqcQZkFrv3V31y8pjNBx8ceV",
+      "tokenBFees": "Cr7Px5yVkNJPpZkjoH4b6w9J9NqVZi2HtaamdW45RdTN",
       "tokenDecimals": 9
     },
     "state": {
@@ -16633,17 +16633,17 @@
   },
   {
     "pool": {
-      "bump": 254,
-      "index": 64,
-      "key": "13gDSjF5jwfkAvQ3pQ3YNZTvo79NWVXcCmLXJWk7cL6F",
+      "bump": 253,
+      "index": 28,
+      "key": "4QqvmwApBYJ312Ga8D1aMBhSN3yTxc8upSuf5CQvLLqK",
       "lpMint": "uSdKg2Cs5bCtFSeNXs7aRVNzZJauX58eCkdsfssxTdW",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "2kycGCD8tJbrjJJqWN2Qz5ysN9iB4Bth3Uic4mSB7uak",
       "mintB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
       "permissionlessImport": false,
       "swap": "okgoAkj7GvBT1Q54j6Qvm6AZPritriGTjcEpkPhdWqf",
-      "tokenAFees": "4Yc7KHvZx58i6gnbSbStvufKKuEVHmrGeMGNdCQ5R1H8",
-      "tokenBFees": "En5CJmgeXCAmSrxUY3wMzVYcq4EwQLkzN47t1nzVZ7m9",
+      "tokenAFees": "EstWkFK5h7iAN2uvomDwauWb9bGdubjE3oWEmCpys6qw",
+      "tokenBFees": "C3L9rWAvEEW536FTbu89UyJR2dcqDCK1KCtmMu7XfCsU",
       "tokenDecimals": 9
     },
     "state": {
@@ -16717,17 +16717,17 @@
   },
   {
     "pool": {
-      "bump": 253,
-      "index": 28,
-      "key": "4QqvmwApBYJ312Ga8D1aMBhSN3yTxc8upSuf5CQvLLqK",
+      "bump": 254,
+      "index": 64,
+      "key": "13gDSjF5jwfkAvQ3pQ3YNZTvo79NWVXcCmLXJWk7cL6F",
       "lpMint": "uSdKg2Cs5bCtFSeNXs7aRVNzZJauX58eCkdsfssxTdW",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "2kycGCD8tJbrjJJqWN2Qz5ysN9iB4Bth3Uic4mSB7uak",
       "mintB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
       "permissionlessImport": false,
       "swap": "okgoAkj7GvBT1Q54j6Qvm6AZPritriGTjcEpkPhdWqf",
-      "tokenAFees": "EstWkFK5h7iAN2uvomDwauWb9bGdubjE3oWEmCpys6qw",
-      "tokenBFees": "C3L9rWAvEEW536FTbu89UyJR2dcqDCK1KCtmMu7XfCsU",
+      "tokenAFees": "4Yc7KHvZx58i6gnbSbStvufKKuEVHmrGeMGNdCQ5R1H8",
+      "tokenBFees": "En5CJmgeXCAmSrxUY3wMzVYcq4EwQLkzN47t1nzVZ7m9",
       "tokenDecimals": 9
     },
     "state": {
@@ -17137,90 +17137,6 @@
   },
   {
     "pool": {
-      "bump": 254,
-      "index": 70,
-      "key": "5C6bCKnf91jbqUgvbes7ZJDCBca29ANC6xcYcWLrnUcP",
-      "lpMint": "DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
-      "mintA": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
-      "mintB": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
-      "permissionlessImport": false,
-      "swap": "RajgMbScQbqqrdJfR2rxfHJiTiY5b6bJ2tTXiF4aPxy",
-      "tokenAFees": "4p1XHexGxhqB6jE7jZHN3MPvBVkHgMwz5iHBoZ7so3TN",
-      "tokenBFees": "FHC91Dckp3E78mVfiiBBUrAhqLJ6LP5XkrCKVkNswGwU",
-      "tokenDecimals": 8
-    },
-    "state": {
-      "adminAccount": "5C6bCKnf91jbqUgvbes7ZJDCBca29ANC6xcYcWLrnUcP",
-      "fees": {
-        "adminTrade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "adminWithdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "trade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "4"
-        },
-        "withdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        }
-      },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
-      "initialAmpFactor": "02ee",
-      "isInitialized": true,
-      "isPaused": false,
-      "nonce": 255,
-      "poolTokenMint": "DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3",
-      "startRampTimestamp": 0,
-      "stopRampTimestamp": 0,
-      "targetAmpFactor": "02ee",
-      "tokenA": {
-        "adminFeeAccount": "4p1XHexGxhqB6jE7jZHN3MPvBVkHgMwz5iHBoZ7so3TN",
-        "mint": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
-        "reserve": "725ZA3fhyBAKb5iopNRrcbSuQa3LXA1656Q3mBvYPxeg"
-      },
-      "tokenB": {
-        "adminFeeAccount": "FHC91Dckp3E78mVfiiBBUrAhqLJ6LP5XkrCKVkNswGwU",
-        "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
-        "reserve": "GLA6i1dSZpUfk2f9Nj8uiG7xyDdAR2reff8oEiZH3617"
-      }
-    },
-    "summary": {
-      "addresses": {
-        "admin": "5C6bCKnf91jbqUgvbes7ZJDCBca29ANC6xcYcWLrnUcP",
-        "lpTokenMint": "DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3",
-        "mergePool": "6Agcs8JZVyHNFXN1CSSrjxWCdQLvkhiL3fMRdX8mTwRB",
-        "quarry": "Gr1ijg84eQWG9zsf5PaBpjrNy4iEzP6hBpUgqxWkpb9y",
-        "reserves": [
-          "725ZA3fhyBAKb5iopNRrcbSuQa3LXA1656Q3mBvYPxeg",
-          "GLA6i1dSZpUfk2f9Nj8uiG7xyDdAR2reff8oEiZH3617"
-        ],
-        "swapAccount": "RajgMbScQbqqrdJfR2rxfHJiTiY5b6bJ2tTXiF4aPxy",
-        "swapAuthority": "7mupg3bhALz9TBNz8yWRroVpVqJMKDaJG1u1JasCebe8"
-      },
-      "decimals": 8,
-      "underlyingTokens": [
-        "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
-        "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
-      ]
-    }
-  },
-  {
-    "pool": {
       "bump": 252,
       "index": 72,
       "key": "DwwBvEzAoif5TrUsBMd8b3u63UfWSocRnfAPgDNoGn8H",
@@ -17305,17 +17221,101 @@
   },
   {
     "pool": {
-      "bump": 253,
-      "index": 121,
-      "key": "6NLaLGUorNoYQp4otT9ij3kx9FCeLRVnvQLrjG7s2o31",
-      "lpMint": "USTRHDiTkhjE1oDydHqNkPJNDeBKTTbz9crTmiYc2w9",
+      "bump": 254,
+      "index": 70,
+      "key": "5C6bCKnf91jbqUgvbes7ZJDCBca29ANC6xcYcWLrnUcP",
+      "lpMint": "DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3",
       "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "mintA": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
+      "mintB": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+      "permissionlessImport": false,
+      "swap": "RajgMbScQbqqrdJfR2rxfHJiTiY5b6bJ2tTXiF4aPxy",
+      "tokenAFees": "4p1XHexGxhqB6jE7jZHN3MPvBVkHgMwz5iHBoZ7so3TN",
+      "tokenBFees": "FHC91Dckp3E78mVfiiBBUrAhqLJ6LP5XkrCKVkNswGwU",
+      "tokenDecimals": 8
+    },
+    "state": {
+      "adminAccount": "5C6bCKnf91jbqUgvbes7ZJDCBca29ANC6xcYcWLrnUcP",
+      "fees": {
+        "adminTrade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "adminWithdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "trade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "4"
+        },
+        "withdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        }
+      },
+      "futureAdminAccount": "11111111111111111111111111111111",
+      "futureAdminDeadline": 0,
+      "initialAmpFactor": "02ee",
+      "isInitialized": true,
+      "isPaused": false,
+      "nonce": 255,
+      "poolTokenMint": "DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3",
+      "startRampTimestamp": 0,
+      "stopRampTimestamp": 0,
+      "targetAmpFactor": "02ee",
+      "tokenA": {
+        "adminFeeAccount": "4p1XHexGxhqB6jE7jZHN3MPvBVkHgMwz5iHBoZ7so3TN",
+        "mint": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
+        "reserve": "725ZA3fhyBAKb5iopNRrcbSuQa3LXA1656Q3mBvYPxeg"
+      },
+      "tokenB": {
+        "adminFeeAccount": "FHC91Dckp3E78mVfiiBBUrAhqLJ6LP5XkrCKVkNswGwU",
+        "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+        "reserve": "GLA6i1dSZpUfk2f9Nj8uiG7xyDdAR2reff8oEiZH3617"
+      }
+    },
+    "summary": {
+      "addresses": {
+        "admin": "5C6bCKnf91jbqUgvbes7ZJDCBca29ANC6xcYcWLrnUcP",
+        "lpTokenMint": "DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3",
+        "mergePool": "6Agcs8JZVyHNFXN1CSSrjxWCdQLvkhiL3fMRdX8mTwRB",
+        "quarry": "Gr1ijg84eQWG9zsf5PaBpjrNy4iEzP6hBpUgqxWkpb9y",
+        "reserves": [
+          "725ZA3fhyBAKb5iopNRrcbSuQa3LXA1656Q3mBvYPxeg",
+          "GLA6i1dSZpUfk2f9Nj8uiG7xyDdAR2reff8oEiZH3617"
+        ],
+        "swapAccount": "RajgMbScQbqqrdJfR2rxfHJiTiY5b6bJ2tTXiF4aPxy",
+        "swapAuthority": "7mupg3bhALz9TBNz8yWRroVpVqJMKDaJG1u1JasCebe8"
+      },
+      "decimals": 8,
+      "underlyingTokens": [
+        "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
+        "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+      ]
+    }
+  },
+  {
+    "pool": {
+      "bump": 254,
+      "index": 100,
+      "key": "Hpga6gPvXgivAqMTa72uzZVhcHp585SFFodQVqtyfz4F",
+      "lpMint": "USTRHDiTkhjE1oDydHqNkPJNDeBKTTbz9crTmiYc2w9",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
       "mintB": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
       "permissionlessImport": false,
       "swap": "RoBgmK8CvjdHvPrqdDyVw54VwjZv2TqJ493xnqJAQHx",
-      "tokenAFees": "Fw4YU5tUA8352ZGA3nonuesouVWnGWank7HU22uGsHLq",
-      "tokenBFees": "GTTF4zAU83t7c5HXVqD6YLBQumjVvLYDWsEAubPFF689",
+      "tokenAFees": "5RQ1xehqqPnkVyL6scVnzPp7f4XwshKtD3GuCLwimivs",
+      "tokenBFees": "Hyb9mqkm8SaBUtPTWkFGPM9DTZGfGwdP2fYSFDmVqgvW",
       "tokenDecimals": 6
     },
     "state": {
@@ -17389,17 +17389,17 @@
   },
   {
     "pool": {
-      "bump": 254,
-      "index": 100,
-      "key": "Hpga6gPvXgivAqMTa72uzZVhcHp585SFFodQVqtyfz4F",
+      "bump": 253,
+      "index": 121,
+      "key": "6NLaLGUorNoYQp4otT9ij3kx9FCeLRVnvQLrjG7s2o31",
       "lpMint": "USTRHDiTkhjE1oDydHqNkPJNDeBKTTbz9crTmiYc2w9",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
       "mintB": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
       "permissionlessImport": false,
       "swap": "RoBgmK8CvjdHvPrqdDyVw54VwjZv2TqJ493xnqJAQHx",
-      "tokenAFees": "5RQ1xehqqPnkVyL6scVnzPp7f4XwshKtD3GuCLwimivs",
-      "tokenBFees": "Hyb9mqkm8SaBUtPTWkFGPM9DTZGfGwdP2fYSFDmVqgvW",
+      "tokenAFees": "Fw4YU5tUA8352ZGA3nonuesouVWnGWank7HU22uGsHLq",
+      "tokenBFees": "GTTF4zAU83t7c5HXVqD6YLBQumjVvLYDWsEAubPFF689",
       "tokenDecimals": 6
     },
     "state": {
@@ -17809,90 +17809,6 @@
   },
   {
     "pool": {
-      "bump": 255,
-      "index": 57,
-      "key": "6eqHBuXjU1ip4bAh69fpK7FSnus6dRoc7ZyLwdGmFHS8",
-      "lpMint": "WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
-      "mintA": "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
-      "mintB": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
-      "permissionlessImport": false,
-      "swap": "SAMGk1Nd4haC8zQA63DG37pzuEZy8j4q13tSFtCbcRE",
-      "tokenAFees": "XHz8BySeNPKKXhuvHfwEWBysiu5utuMo1aMkkVDmWF5",
-      "tokenBFees": "BCVqpUsN9MrkfzvsyFoEgLaZoN1BGesXLBoeENCxgp5N",
-      "tokenDecimals": 8
-    },
-    "state": {
-      "adminAccount": "HCFQX9f1ufGzr8b26nPPSdGVpK6Va3EvYT5439dJ8PtX",
-      "fees": {
-        "adminTrade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "adminWithdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "trade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "4"
-        },
-        "withdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        }
-      },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
-      "initialAmpFactor": "012c",
-      "isInitialized": true,
-      "isPaused": false,
-      "nonce": 255,
-      "poolTokenMint": "WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg",
-      "startRampTimestamp": 0,
-      "stopRampTimestamp": 0,
-      "targetAmpFactor": "012c",
-      "tokenA": {
-        "adminFeeAccount": "CGXetWbscARUgTUdCbxGhDUpcFmSWCrQCmaAJAMPqM7p",
-        "mint": "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
-        "reserve": "9U9TnkHD3jXMAVZtynCVLgDruuqN4pTvLJTmVHCLWS8g"
-      },
-      "tokenB": {
-        "adminFeeAccount": "5aN764X5csDWp8B5Ew3MkP1PE9pdW4C7t5RMY9pnWqE2",
-        "mint": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
-        "reserve": "C6zoEbvqSknmi96QWq96UBiPCyNW3YSTvKhavR2BfifE"
-      }
-    },
-    "summary": {
-      "addresses": {
-        "admin": "HCFQX9f1ufGzr8b26nPPSdGVpK6Va3EvYT5439dJ8PtX",
-        "lpTokenMint": "WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg",
-        "mergePool": "FF72qCV3BXgVt15vmwUycSzm3pkn8YbTVBqG74kGme9R",
-        "quarry": "3PkM4UVVw3fuLiwfDb6gEsxiN94EcukxafYTJjqcsMyg",
-        "reserves": [
-          "9U9TnkHD3jXMAVZtynCVLgDruuqN4pTvLJTmVHCLWS8g",
-          "C6zoEbvqSknmi96QWq96UBiPCyNW3YSTvKhavR2BfifE"
-        ],
-        "swapAccount": "SAMGk1Nd4haC8zQA63DG37pzuEZy8j4q13tSFtCbcRE",
-        "swapAuthority": "8kJzWzrvsZgHCW9Q9JFqamgf58SbjMmTe8mbDotk4ooR"
-      },
-      "decimals": 8,
-      "underlyingTokens": [
-        "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
-        "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
-      ]
-    }
-  },
-  {
-    "pool": {
       "bump": 254,
       "index": 78,
       "key": "HCFQX9f1ufGzr8b26nPPSdGVpK6Va3EvYT5439dJ8PtX",
@@ -17977,21 +17893,21 @@
   },
   {
     "pool": {
-      "bump": 250,
-      "index": 87,
-      "key": "4vZYBYR9ovVaNCA4t1j4XDisZKoAAiK1p3TCWM9hjgC1",
-      "lpMint": "WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
-      "mintA": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
-      "mintB": "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7",
+      "bump": 255,
+      "index": 57,
+      "key": "6eqHBuXjU1ip4bAh69fpK7FSnus6dRoc7ZyLwdGmFHS8",
+      "lpMint": "WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "mintA": "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
+      "mintB": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
       "permissionlessImport": false,
-      "swap": "SAMyS8Jr2HJrkFwYVKbpUwsNStnQmvz3f8Tup8bWUWF",
-      "tokenAFees": "7AfSQaLnLVbJnfRVDYB87gh6KwRTwoS8phxjHcXPquDU",
-      "tokenBFees": "8WSx8zd2xdu2JFyfUMhPBxpmyZ2Fg5CpEnVGHVUcAbLu",
+      "swap": "SAMGk1Nd4haC8zQA63DG37pzuEZy8j4q13tSFtCbcRE",
+      "tokenAFees": "XHz8BySeNPKKXhuvHfwEWBysiu5utuMo1aMkkVDmWF5",
+      "tokenBFees": "BCVqpUsN9MrkfzvsyFoEgLaZoN1BGesXLBoeENCxgp5N",
       "tokenDecimals": 8
     },
     "state": {
-      "adminAccount": "4vZYBYR9ovVaNCA4t1j4XDisZKoAAiK1p3TCWM9hjgC1",
+      "adminAccount": "HCFQX9f1ufGzr8b26nPPSdGVpK6Va3EvYT5439dJ8PtX",
       "fees": {
         "adminTrade": {
           "denominatorStr": "10000",
@@ -18020,42 +17936,42 @@
       },
       "futureAdminAccount": "11111111111111111111111111111111",
       "futureAdminDeadline": 0,
-      "initialAmpFactor": "32",
+      "initialAmpFactor": "012c",
       "isInitialized": true,
       "isPaused": false,
-      "nonce": 253,
-      "poolTokenMint": "WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD",
+      "nonce": 255,
+      "poolTokenMint": "WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg",
       "startRampTimestamp": 0,
       "stopRampTimestamp": 0,
-      "targetAmpFactor": "32",
+      "targetAmpFactor": "012c",
       "tokenA": {
-        "adminFeeAccount": "7AfSQaLnLVbJnfRVDYB87gh6KwRTwoS8phxjHcXPquDU",
-        "mint": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
-        "reserve": "6jPzm5TFfquvgm25sTyN3MMGBfufRaFHMxobDWv6hMFW"
+        "adminFeeAccount": "CGXetWbscARUgTUdCbxGhDUpcFmSWCrQCmaAJAMPqM7p",
+        "mint": "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
+        "reserve": "9U9TnkHD3jXMAVZtynCVLgDruuqN4pTvLJTmVHCLWS8g"
       },
       "tokenB": {
-        "adminFeeAccount": "8WSx8zd2xdu2JFyfUMhPBxpmyZ2Fg5CpEnVGHVUcAbLu",
-        "mint": "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7",
-        "reserve": "Cj9ECoDmxsHTDzCY5ZA6RWrPbg9uFzEC1Qc2kso2vJG6"
+        "adminFeeAccount": "5aN764X5csDWp8B5Ew3MkP1PE9pdW4C7t5RMY9pnWqE2",
+        "mint": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
+        "reserve": "C6zoEbvqSknmi96QWq96UBiPCyNW3YSTvKhavR2BfifE"
       }
     },
     "summary": {
       "addresses": {
-        "admin": "4vZYBYR9ovVaNCA4t1j4XDisZKoAAiK1p3TCWM9hjgC1",
-        "lpTokenMint": "WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD",
-        "mergePool": "9qcXJBeMhfN7rYDp1wGhQKQTTWUPdD6z3tEWE52EiNN4",
-        "quarry": "CSzKyCBEh2yxQYKavrzH9U1uiuNpeUEo691VnHrDVU5v",
+        "admin": "HCFQX9f1ufGzr8b26nPPSdGVpK6Va3EvYT5439dJ8PtX",
+        "lpTokenMint": "WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg",
+        "mergePool": "FF72qCV3BXgVt15vmwUycSzm3pkn8YbTVBqG74kGme9R",
+        "quarry": "3PkM4UVVw3fuLiwfDb6gEsxiN94EcukxafYTJjqcsMyg",
         "reserves": [
-          "6jPzm5TFfquvgm25sTyN3MMGBfufRaFHMxobDWv6hMFW",
-          "Cj9ECoDmxsHTDzCY5ZA6RWrPbg9uFzEC1Qc2kso2vJG6"
+          "9U9TnkHD3jXMAVZtynCVLgDruuqN4pTvLJTmVHCLWS8g",
+          "C6zoEbvqSknmi96QWq96UBiPCyNW3YSTvKhavR2BfifE"
         ],
-        "swapAccount": "SAMyS8Jr2HJrkFwYVKbpUwsNStnQmvz3f8Tup8bWUWF",
-        "swapAuthority": "9tTrypFDQE3ChSPtwySjgomWDEi8XcTieGcYT3vXkgf1"
+        "swapAccount": "SAMGk1Nd4haC8zQA63DG37pzuEZy8j4q13tSFtCbcRE",
+        "swapAuthority": "8kJzWzrvsZgHCW9Q9JFqamgf58SbjMmTe8mbDotk4ooR"
       },
       "decimals": 8,
       "underlyingTokens": [
-        "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
-        "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7"
+        "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
+        "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
       ]
     }
   },
@@ -18145,17 +18061,101 @@
   },
   {
     "pool": {
-      "bump": 255,
-      "index": 3,
-      "key": "Af5NSDP2twSYUYqapmgXCEW6x72AzGNEomjaybn4WVYG",
+      "bump": 250,
+      "index": 87,
+      "key": "4vZYBYR9ovVaNCA4t1j4XDisZKoAAiK1p3TCWM9hjgC1",
+      "lpMint": "WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "mintA": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+      "mintB": "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7",
+      "permissionlessImport": false,
+      "swap": "SAMyS8Jr2HJrkFwYVKbpUwsNStnQmvz3f8Tup8bWUWF",
+      "tokenAFees": "7AfSQaLnLVbJnfRVDYB87gh6KwRTwoS8phxjHcXPquDU",
+      "tokenBFees": "8WSx8zd2xdu2JFyfUMhPBxpmyZ2Fg5CpEnVGHVUcAbLu",
+      "tokenDecimals": 8
+    },
+    "state": {
+      "adminAccount": "4vZYBYR9ovVaNCA4t1j4XDisZKoAAiK1p3TCWM9hjgC1",
+      "fees": {
+        "adminTrade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "adminWithdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "trade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "4"
+        },
+        "withdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        }
+      },
+      "futureAdminAccount": "11111111111111111111111111111111",
+      "futureAdminDeadline": 0,
+      "initialAmpFactor": "32",
+      "isInitialized": true,
+      "isPaused": false,
+      "nonce": 253,
+      "poolTokenMint": "WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD",
+      "startRampTimestamp": 0,
+      "stopRampTimestamp": 0,
+      "targetAmpFactor": "32",
+      "tokenA": {
+        "adminFeeAccount": "7AfSQaLnLVbJnfRVDYB87gh6KwRTwoS8phxjHcXPquDU",
+        "mint": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+        "reserve": "6jPzm5TFfquvgm25sTyN3MMGBfufRaFHMxobDWv6hMFW"
+      },
+      "tokenB": {
+        "adminFeeAccount": "8WSx8zd2xdu2JFyfUMhPBxpmyZ2Fg5CpEnVGHVUcAbLu",
+        "mint": "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7",
+        "reserve": "Cj9ECoDmxsHTDzCY5ZA6RWrPbg9uFzEC1Qc2kso2vJG6"
+      }
+    },
+    "summary": {
+      "addresses": {
+        "admin": "4vZYBYR9ovVaNCA4t1j4XDisZKoAAiK1p3TCWM9hjgC1",
+        "lpTokenMint": "WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD",
+        "mergePool": "9qcXJBeMhfN7rYDp1wGhQKQTTWUPdD6z3tEWE52EiNN4",
+        "quarry": "CSzKyCBEh2yxQYKavrzH9U1uiuNpeUEo691VnHrDVU5v",
+        "reserves": [
+          "6jPzm5TFfquvgm25sTyN3MMGBfufRaFHMxobDWv6hMFW",
+          "Cj9ECoDmxsHTDzCY5ZA6RWrPbg9uFzEC1Qc2kso2vJG6"
+        ],
+        "swapAccount": "SAMyS8Jr2HJrkFwYVKbpUwsNStnQmvz3f8Tup8bWUWF",
+        "swapAuthority": "9tTrypFDQE3ChSPtwySjgomWDEi8XcTieGcYT3vXkgf1"
+      },
+      "decimals": 8,
+      "underlyingTokens": [
+        "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+        "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7"
+      ]
+    }
+  },
+  {
+    "pool": {
+      "bump": 253,
+      "index": 89,
+      "key": "EekrmWg52sTq5m9kagHrhDkBwuUDs6orsg6yWGKKbCPh",
       "lpMint": "AVBDpg1UYpDYQLbzEnRY76R3u82PYHtDuc3NBdFS2k39",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw",
       "mintB": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
       "permissionlessImport": false,
       "swap": "SATqdxinH3vFiJBKv3JA6MuCXweEXr6UV1aRcvGjLD5",
-      "tokenAFees": "RtzSS4SK88PUSUmajnevo7gUs7zDnYU8qFBfLicaWpm",
-      "tokenBFees": "EPXkgmVmpNPnrT2hZgaQwxWpnDYynvUP3n8fhPSRf581",
+      "tokenAFees": "3MfEvtTKBwJ8qJoV9KqgZvTVU6dRMEPPj3YDVpXCfUJS",
+      "tokenBFees": "93SABwp1QZtSFdiu4RmeqUDobvSRuRSkFVVCQxPiaC5q",
       "tokenDecimals": 9
     },
     "state": {
@@ -18229,17 +18229,17 @@
   },
   {
     "pool": {
-      "bump": 253,
-      "index": 89,
-      "key": "EekrmWg52sTq5m9kagHrhDkBwuUDs6orsg6yWGKKbCPh",
+      "bump": 255,
+      "index": 3,
+      "key": "Af5NSDP2twSYUYqapmgXCEW6x72AzGNEomjaybn4WVYG",
       "lpMint": "AVBDpg1UYpDYQLbzEnRY76R3u82PYHtDuc3NBdFS2k39",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw",
       "mintB": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
       "permissionlessImport": false,
       "swap": "SATqdxinH3vFiJBKv3JA6MuCXweEXr6UV1aRcvGjLD5",
-      "tokenAFees": "3MfEvtTKBwJ8qJoV9KqgZvTVU6dRMEPPj3YDVpXCfUJS",
-      "tokenBFees": "93SABwp1QZtSFdiu4RmeqUDobvSRuRSkFVVCQxPiaC5q",
+      "tokenAFees": "RtzSS4SK88PUSUmajnevo7gUs7zDnYU8qFBfLicaWpm",
+      "tokenBFees": "EPXkgmVmpNPnrT2hZgaQwxWpnDYynvUP3n8fhPSRf581",
       "tokenDecimals": 9
     },
     "state": {
@@ -18481,17 +18481,17 @@
   },
   {
     "pool": {
-      "bump": 253,
-      "index": 39,
-      "key": "6wBsm3V8jaYohknfs2wdhuiBEHcRdyzppCrb6QMJt8Sd",
+      "bump": 254,
+      "index": 36,
+      "key": "CDJ3hLj4wUB3XuZWH4wj7bNJHinFVmNpEwrLpBvkPbQm",
       "lpMint": "FTXdV5wFFhceKjcd1JRrRQTT2uB7ruMerAqbj2rj1Mz7",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi",
       "mintB": "FTT9rBBrYwcHam4qLvkzzzhrsihYMbZ3k6wJbdoahxAt",
       "permissionlessImport": false,
       "swap": "SBFjafzbDXgDRsA5SUypY8FXjJ9sBdb4JbuQq2PHQDG",
-      "tokenAFees": "w3F7sdqZNgMGhcdoA4xY5ZXtjU9WZW8xUbGpyP768GJ",
-      "tokenBFees": "9QGAnZgkoJTTD2i3njtmzeW4yMVSSk4kUA53pQP2NbRY",
+      "tokenAFees": "BVpiybgGKndo3CQdBaBDHZ5N6LUdCTDK9h75XT7UoBUj",
+      "tokenBFees": "GZWrTsEZhA2KUULr1HD45msFTZvgHFdCdGWFekZaiZrJ",
       "tokenDecimals": 9
     },
     "state": {
@@ -18565,17 +18565,17 @@
   },
   {
     "pool": {
-      "bump": 254,
-      "index": 36,
-      "key": "CDJ3hLj4wUB3XuZWH4wj7bNJHinFVmNpEwrLpBvkPbQm",
+      "bump": 253,
+      "index": 39,
+      "key": "6wBsm3V8jaYohknfs2wdhuiBEHcRdyzppCrb6QMJt8Sd",
       "lpMint": "FTXdV5wFFhceKjcd1JRrRQTT2uB7ruMerAqbj2rj1Mz7",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi",
       "mintB": "FTT9rBBrYwcHam4qLvkzzzhrsihYMbZ3k6wJbdoahxAt",
       "permissionlessImport": false,
       "swap": "SBFjafzbDXgDRsA5SUypY8FXjJ9sBdb4JbuQq2PHQDG",
-      "tokenAFees": "BVpiybgGKndo3CQdBaBDHZ5N6LUdCTDK9h75XT7UoBUj",
-      "tokenBFees": "GZWrTsEZhA2KUULr1HD45msFTZvgHFdCdGWFekZaiZrJ",
+      "tokenAFees": "w3F7sdqZNgMGhcdoA4xY5ZXtjU9WZW8xUbGpyP768GJ",
+      "tokenBFees": "9QGAnZgkoJTTD2i3njtmzeW4yMVSSk4kUA53pQP2NbRY",
       "tokenDecimals": 9
     },
     "state": {
@@ -18985,90 +18985,6 @@
   },
   {
     "pool": {
-      "bump": 255,
-      "index": 32,
-      "key": "B2d71gXEPASWcVFYLhycytK6trWWXFXtyLh6u8UYawK1",
-      "lpMint": "UETZ5ChFqLiARubdzeSuxAN7s52dDKuwF6SUF63SpE1",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
-      "mintA": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
-      "mintB": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
-      "permissionlessImport": false,
-      "swap": "SHRJZYZxBfNz1SL5puXfaymPnndnJTY6MJrTrzpsYMc",
-      "tokenAFees": "GC8rVxwftc13CygpdJqVAzVpTu92iBSmXMeNGThCAT8r",
-      "tokenBFees": "7miYLLETe1cJfW3C7CHMCmDZcXDUMcV6vXKezKUX722X",
-      "tokenDecimals": 6
-    },
-    "state": {
-      "adminAccount": "B2d71gXEPASWcVFYLhycytK6trWWXFXtyLh6u8UYawK1",
-      "fees": {
-        "adminTrade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "adminWithdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "trade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "4"
-        },
-        "withdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        }
-      },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
-      "initialAmpFactor": "64",
-      "isInitialized": true,
-      "isPaused": false,
-      "nonce": 255,
-      "poolTokenMint": "UETZ5ChFqLiARubdzeSuxAN7s52dDKuwF6SUF63SpE1",
-      "startRampTimestamp": 0,
-      "stopRampTimestamp": 0,
-      "targetAmpFactor": "64",
-      "tokenA": {
-        "adminFeeAccount": "GC8rVxwftc13CygpdJqVAzVpTu92iBSmXMeNGThCAT8r",
-        "mint": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
-        "reserve": "BKJWe131yeNE594dMwrLyT25RPsytUgcTdMpph8rbuda"
-      },
-      "tokenB": {
-        "adminFeeAccount": "7miYLLETe1cJfW3C7CHMCmDZcXDUMcV6vXKezKUX722X",
-        "mint": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
-        "reserve": "EreMRai79gFEuXwrMnj6kpV4pvVAUqukjSuy87XQTT8K"
-      }
-    },
-    "summary": {
-      "addresses": {
-        "admin": "B2d71gXEPASWcVFYLhycytK6trWWXFXtyLh6u8UYawK1",
-        "lpTokenMint": "UETZ5ChFqLiARubdzeSuxAN7s52dDKuwF6SUF63SpE1",
-        "mergePool": "51p13kMUkr4dAgEs9XUqyk2FdnvbT75ME2CD5H2iRBNC",
-        "quarry": "26hLV1ucDAzaZa6bbQ3o5H8txM8yBAWYRmbb8prHCJdz",
-        "reserves": [
-          "BKJWe131yeNE594dMwrLyT25RPsytUgcTdMpph8rbuda",
-          "EreMRai79gFEuXwrMnj6kpV4pvVAUqukjSuy87XQTT8K"
-        ],
-        "swapAccount": "SHRJZYZxBfNz1SL5puXfaymPnndnJTY6MJrTrzpsYMc",
-        "swapAuthority": "28nE7d3QVFZ17D3e5FiGFZCVmADxCeQ5qUqBX5yjmLiN"
-      },
-      "decimals": 6,
-      "underlyingTokens": [
-        "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
-        "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM"
-      ]
-    }
-  },
-  {
-    "pool": {
       "bump": 253,
       "index": 113,
       "key": "F7GUNThdGdrW58fX8G1BZgPWY2mQsD3FkLQ4HR6yx56k",
@@ -19153,21 +19069,21 @@
   },
   {
     "pool": {
-      "bump": 253,
-      "index": 101,
-      "key": "6XJsoWaKwZ6nR2aR5Yt3GU7etWUWBXoVVvrYWrQtTrtS",
-      "lpMint": "NRVAGstoBkjTTuTwJrGv3789B4odyQf7Yj1psfKUkEn",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
-      "mintA": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
-      "mintB": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
-      "permissionlessImport": true,
-      "swap": "Sid7E679i9ABqptiAVhkmQ27YHN8vaYT4fppPwmxFsJ",
-      "tokenAFees": "uoKx14yxomFBRHwAedyBKd7MurvUQf8gi7wZu6fG4hA",
-      "tokenBFees": "54VfH6GnmaTcxsz9Q1F3uh6aRUvs4kWCBkNUmrjfXDzX",
+      "bump": 255,
+      "index": 32,
+      "key": "B2d71gXEPASWcVFYLhycytK6trWWXFXtyLh6u8UYawK1",
+      "lpMint": "UETZ5ChFqLiARubdzeSuxAN7s52dDKuwF6SUF63SpE1",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "mintA": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+      "mintB": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
+      "permissionlessImport": false,
+      "swap": "SHRJZYZxBfNz1SL5puXfaymPnndnJTY6MJrTrzpsYMc",
+      "tokenAFees": "GC8rVxwftc13CygpdJqVAzVpTu92iBSmXMeNGThCAT8r",
+      "tokenBFees": "7miYLLETe1cJfW3C7CHMCmDZcXDUMcV6vXKezKUX722X",
       "tokenDecimals": 6
     },
     "state": {
-      "adminAccount": "9fcdrC3SVxk3nNPHRtg2t4R3gEEshuLz9SP3ZeBReGf9",
+      "adminAccount": "B2d71gXEPASWcVFYLhycytK6trWWXFXtyLh6u8UYawK1",
       "fees": {
         "adminTrade": {
           "denominatorStr": "10000",
@@ -19196,42 +19112,42 @@
       },
       "futureAdminAccount": "11111111111111111111111111111111",
       "futureAdminDeadline": 0,
-      "initialAmpFactor": "0a",
+      "initialAmpFactor": "64",
       "isInitialized": true,
       "isPaused": false,
       "nonce": 255,
-      "poolTokenMint": "NRVAGstoBkjTTuTwJrGv3789B4odyQf7Yj1psfKUkEn",
+      "poolTokenMint": "UETZ5ChFqLiARubdzeSuxAN7s52dDKuwF6SUF63SpE1",
       "startRampTimestamp": 0,
       "stopRampTimestamp": 0,
-      "targetAmpFactor": "0a",
+      "targetAmpFactor": "64",
       "tokenA": {
-        "adminFeeAccount": "2zPwqMH4DSBrUNMGQC6bVUeaiYEmDuAvXk4iz4wBN9zG",
-        "mint": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
-        "reserve": "GP7KB8o1bv527HG8kTzzzf4wJ5aEGHvcMQvVhLziUfmT"
+        "adminFeeAccount": "GC8rVxwftc13CygpdJqVAzVpTu92iBSmXMeNGThCAT8r",
+        "mint": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+        "reserve": "BKJWe131yeNE594dMwrLyT25RPsytUgcTdMpph8rbuda"
       },
       "tokenB": {
-        "adminFeeAccount": "35LNuwMUqKFBhPDnBfzwZ8uUJ1shdMfMM1uhky2ykMAQ",
-        "mint": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
-        "reserve": "9gYxhAZ1M9wu5pxr8SBoa5NDm21gi3s9vMHaYTME77sa"
+        "adminFeeAccount": "7miYLLETe1cJfW3C7CHMCmDZcXDUMcV6vXKezKUX722X",
+        "mint": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
+        "reserve": "EreMRai79gFEuXwrMnj6kpV4pvVAUqukjSuy87XQTT8K"
       }
     },
     "summary": {
       "addresses": {
-        "admin": "9fcdrC3SVxk3nNPHRtg2t4R3gEEshuLz9SP3ZeBReGf9",
-        "lpTokenMint": "NRVAGstoBkjTTuTwJrGv3789B4odyQf7Yj1psfKUkEn",
-        "mergePool": "91KREWT8q2VT9AALiCkAifuQ5RyrXgE9akHUGoJELtiC",
-        "quarry": "8W2qWpq5gSzTbviZRkhVPtPUywvQymKgXHXuwL1ngEM6",
+        "admin": "B2d71gXEPASWcVFYLhycytK6trWWXFXtyLh6u8UYawK1",
+        "lpTokenMint": "UETZ5ChFqLiARubdzeSuxAN7s52dDKuwF6SUF63SpE1",
+        "mergePool": "51p13kMUkr4dAgEs9XUqyk2FdnvbT75ME2CD5H2iRBNC",
+        "quarry": "26hLV1ucDAzaZa6bbQ3o5H8txM8yBAWYRmbb8prHCJdz",
         "reserves": [
-          "GP7KB8o1bv527HG8kTzzzf4wJ5aEGHvcMQvVhLziUfmT",
-          "9gYxhAZ1M9wu5pxr8SBoa5NDm21gi3s9vMHaYTME77sa"
+          "BKJWe131yeNE594dMwrLyT25RPsytUgcTdMpph8rbuda",
+          "EreMRai79gFEuXwrMnj6kpV4pvVAUqukjSuy87XQTT8K"
         ],
-        "swapAccount": "Sid7E679i9ABqptiAVhkmQ27YHN8vaYT4fppPwmxFsJ",
-        "swapAuthority": "8GhxgLae6vY63wQ42AMzRs46qJwULTPts72NCJgH6JUT"
+        "swapAccount": "SHRJZYZxBfNz1SL5puXfaymPnndnJTY6MJrTrzpsYMc",
+        "swapAuthority": "28nE7d3QVFZ17D3e5FiGFZCVmADxCeQ5qUqBX5yjmLiN"
       },
       "decimals": 6,
       "underlyingTokens": [
-        "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
-        "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
+        "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+        "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM"
       ]
     }
   },
@@ -19321,17 +19237,101 @@
   },
   {
     "pool": {
-      "bump": 252,
-      "index": 56,
-      "key": "2xzaus6tEFmcK81tbQtvqy9DxpDvV2sEwSozneKhY6Sf",
+      "bump": 253,
+      "index": 101,
+      "key": "6XJsoWaKwZ6nR2aR5Yt3GU7etWUWBXoVVvrYWrQtTrtS",
+      "lpMint": "NRVAGstoBkjTTuTwJrGv3789B4odyQf7Yj1psfKUkEn",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "mintA": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+      "mintB": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+      "permissionlessImport": true,
+      "swap": "Sid7E679i9ABqptiAVhkmQ27YHN8vaYT4fppPwmxFsJ",
+      "tokenAFees": "uoKx14yxomFBRHwAedyBKd7MurvUQf8gi7wZu6fG4hA",
+      "tokenBFees": "54VfH6GnmaTcxsz9Q1F3uh6aRUvs4kWCBkNUmrjfXDzX",
+      "tokenDecimals": 6
+    },
+    "state": {
+      "adminAccount": "9fcdrC3SVxk3nNPHRtg2t4R3gEEshuLz9SP3ZeBReGf9",
+      "fees": {
+        "adminTrade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "adminWithdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "trade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "4"
+        },
+        "withdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        }
+      },
+      "futureAdminAccount": "11111111111111111111111111111111",
+      "futureAdminDeadline": 0,
+      "initialAmpFactor": "0a",
+      "isInitialized": true,
+      "isPaused": false,
+      "nonce": 255,
+      "poolTokenMint": "NRVAGstoBkjTTuTwJrGv3789B4odyQf7Yj1psfKUkEn",
+      "startRampTimestamp": 0,
+      "stopRampTimestamp": 0,
+      "targetAmpFactor": "0a",
+      "tokenA": {
+        "adminFeeAccount": "2zPwqMH4DSBrUNMGQC6bVUeaiYEmDuAvXk4iz4wBN9zG",
+        "mint": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+        "reserve": "GP7KB8o1bv527HG8kTzzzf4wJ5aEGHvcMQvVhLziUfmT"
+      },
+      "tokenB": {
+        "adminFeeAccount": "35LNuwMUqKFBhPDnBfzwZ8uUJ1shdMfMM1uhky2ykMAQ",
+        "mint": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+        "reserve": "9gYxhAZ1M9wu5pxr8SBoa5NDm21gi3s9vMHaYTME77sa"
+      }
+    },
+    "summary": {
+      "addresses": {
+        "admin": "9fcdrC3SVxk3nNPHRtg2t4R3gEEshuLz9SP3ZeBReGf9",
+        "lpTokenMint": "NRVAGstoBkjTTuTwJrGv3789B4odyQf7Yj1psfKUkEn",
+        "mergePool": "91KREWT8q2VT9AALiCkAifuQ5RyrXgE9akHUGoJELtiC",
+        "quarry": "8W2qWpq5gSzTbviZRkhVPtPUywvQymKgXHXuwL1ngEM6",
+        "reserves": [
+          "GP7KB8o1bv527HG8kTzzzf4wJ5aEGHvcMQvVhLziUfmT",
+          "9gYxhAZ1M9wu5pxr8SBoa5NDm21gi3s9vMHaYTME77sa"
+        ],
+        "swapAccount": "Sid7E679i9ABqptiAVhkmQ27YHN8vaYT4fppPwmxFsJ",
+        "swapAuthority": "8GhxgLae6vY63wQ42AMzRs46qJwULTPts72NCJgH6JUT"
+      },
+      "decimals": 6,
+      "underlyingTokens": [
+        "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+        "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
+      ]
+    }
+  },
+  {
+    "pool": {
+      "bump": 254,
+      "index": 96,
+      "key": "3AdFUq4bb9A6z7S3jQTiknK9CgTZrcTQNdEadMpimXAV",
       "lpMint": "SoLaUA1vvCaidtQLYwt4yszBv1LtbYJDjEbwC4bzxca",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
       "mintB": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
       "permissionlessImport": false,
       "swap": "SoN9GaFpSXfpyR5dth3x7PHPVhvJMpQqqDJfCSmPv1t",
-      "tokenAFees": "H4soxgZcVVtfYVMT8oTKMva9cc3oM1GAVDzKpmaNGHaU",
-      "tokenBFees": "7uLuZ69Ej91jT9LJVxun7JHH1a3N3YgecFdZbpu92B7g",
+      "tokenAFees": "5fmcaC3D7EdvhtvCgpg1255iqWCGzyQ66RjkDnHBkFaY",
+      "tokenBFees": "GHGUr2qVSgcfTfw2549qYyVA6Uve6apJ3JdcRRwBs7aD",
       "tokenDecimals": 9
     },
     "state": {
@@ -19405,17 +19405,17 @@
   },
   {
     "pool": {
-      "bump": 254,
-      "index": 96,
-      "key": "3AdFUq4bb9A6z7S3jQTiknK9CgTZrcTQNdEadMpimXAV",
+      "bump": 252,
+      "index": 56,
+      "key": "2xzaus6tEFmcK81tbQtvqy9DxpDvV2sEwSozneKhY6Sf",
       "lpMint": "SoLaUA1vvCaidtQLYwt4yszBv1LtbYJDjEbwC4bzxca",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
       "mintB": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
       "permissionlessImport": false,
       "swap": "SoN9GaFpSXfpyR5dth3x7PHPVhvJMpQqqDJfCSmPv1t",
-      "tokenAFees": "5fmcaC3D7EdvhtvCgpg1255iqWCGzyQ66RjkDnHBkFaY",
-      "tokenBFees": "GHGUr2qVSgcfTfw2549qYyVA6Uve6apJ3JdcRRwBs7aD",
+      "tokenAFees": "H4soxgZcVVtfYVMT8oTKMva9cc3oM1GAVDzKpmaNGHaU",
+      "tokenBFees": "7uLuZ69Ej91jT9LJVxun7JHH1a3N3YgecFdZbpu92B7g",
       "tokenDecimals": 9
     },
     "state": {
@@ -19826,6 +19826,90 @@
   {
     "pool": {
       "bump": 255,
+      "index": 85,
+      "key": "EEy2D2J4582r3WBU1HB4kAPyDKpLEzkyCXJZKjJERCDP",
+      "lpMint": "WLP7MDjSKGWxs2s6o2d8JFvvqLJD8KHZpcTAZf9ongE",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "mintA": "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
+      "mintB": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+      "permissionlessImport": false,
+      "swap": "SRMuKizofcAMicegrfSv7xs9q76tH1w8aAF7oX9FEWu",
+      "tokenAFees": "FXfQxtk9BbpgjuqS8YRs6TDX7QzwhaPwg4GQcmwrS9aT",
+      "tokenBFees": "FRv4oVoLA8hDfcwVvwtRY7bPPgGK4HcTdrmLmghmgMYG",
+      "tokenDecimals": 6
+    },
+    "state": {
+      "adminAccount": "DLGQQRGoyyeRa7gAuL9GE9kUXwCay6ShLdaUx8MzUaBM",
+      "fees": {
+        "adminTrade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "adminWithdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "trade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "4"
+        },
+        "withdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        }
+      },
+      "futureAdminAccount": "11111111111111111111111111111111",
+      "futureAdminDeadline": 0,
+      "initialAmpFactor": "01f4",
+      "isInitialized": true,
+      "isPaused": false,
+      "nonce": 253,
+      "poolTokenMint": "WLP7MDjSKGWxs2s6o2d8JFvvqLJD8KHZpcTAZf9ongE",
+      "startRampTimestamp": 0,
+      "stopRampTimestamp": 0,
+      "targetAmpFactor": "01f4",
+      "tokenA": {
+        "adminFeeAccount": "Ne6ThtGzugcSXJw7tYvgPtfTbj2UbmQSqJwiaNFKhrG",
+        "mint": "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
+        "reserve": "72Hj2KWntXPfbie4UgKeTPnm1XVkomDfCnRPKbvfTtPi"
+      },
+      "tokenB": {
+        "adminFeeAccount": "AiEMmc7WdN7rrr8qmaugXKrsrGVzzzzJxecZ3Jp8vAP6",
+        "mint": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+        "reserve": "6aqJQ5wedqpUt4fFEDUqUmXhrdxCu4bEJsQdVPCADLko"
+      }
+    },
+    "summary": {
+      "addresses": {
+        "admin": "DLGQQRGoyyeRa7gAuL9GE9kUXwCay6ShLdaUx8MzUaBM",
+        "lpTokenMint": "WLP7MDjSKGWxs2s6o2d8JFvvqLJD8KHZpcTAZf9ongE",
+        "mergePool": "8NtQqyBHQxQrwwRHGgptymZqoj7AUKQPb5SkBYDoHPP7",
+        "quarry": "C7faBVAJad3obMyRxXn8dqbDJT7TT2A4oidKeELCMckp",
+        "reserves": [
+          "72Hj2KWntXPfbie4UgKeTPnm1XVkomDfCnRPKbvfTtPi",
+          "6aqJQ5wedqpUt4fFEDUqUmXhrdxCu4bEJsQdVPCADLko"
+        ],
+        "swapAccount": "SRMuKizofcAMicegrfSv7xs9q76tH1w8aAF7oX9FEWu",
+        "swapAuthority": "4VN6BM8qUa746raafkRvqwQFKYLPSAC1voCcEVHEKZBd"
+      },
+      "decimals": 6,
+      "underlyingTokens": [
+        "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
+        "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
+      ]
+    }
+  },
+  {
+    "pool": {
+      "bump": 255,
       "index": 113,
       "key": "DLGQQRGoyyeRa7gAuL9GE9kUXwCay6ShLdaUx8MzUaBM",
       "lpMint": "WLP7MDjSKGWxs2s6o2d8JFvvqLJD8KHZpcTAZf9ongE",
@@ -19910,100 +19994,16 @@
   {
     "pool": {
       "bump": 255,
-      "index": 85,
-      "key": "EEy2D2J4582r3WBU1HB4kAPyDKpLEzkyCXJZKjJERCDP",
-      "lpMint": "WLP7MDjSKGWxs2s6o2d8JFvvqLJD8KHZpcTAZf9ongE",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
-      "mintA": "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
-      "mintB": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
-      "permissionlessImport": false,
-      "swap": "SRMuKizofcAMicegrfSv7xs9q76tH1w8aAF7oX9FEWu",
-      "tokenAFees": "FXfQxtk9BbpgjuqS8YRs6TDX7QzwhaPwg4GQcmwrS9aT",
-      "tokenBFees": "FRv4oVoLA8hDfcwVvwtRY7bPPgGK4HcTdrmLmghmgMYG",
-      "tokenDecimals": 6
-    },
-    "state": {
-      "adminAccount": "DLGQQRGoyyeRa7gAuL9GE9kUXwCay6ShLdaUx8MzUaBM",
-      "fees": {
-        "adminTrade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "adminWithdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        },
-        "trade": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "4"
-        },
-        "withdraw": {
-          "denominatorStr": "10000",
-          "isFraction": true,
-          "isPercent": true,
-          "numeratorStr": "0"
-        }
-      },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
-      "initialAmpFactor": "01f4",
-      "isInitialized": true,
-      "isPaused": false,
-      "nonce": 253,
-      "poolTokenMint": "WLP7MDjSKGWxs2s6o2d8JFvvqLJD8KHZpcTAZf9ongE",
-      "startRampTimestamp": 0,
-      "stopRampTimestamp": 0,
-      "targetAmpFactor": "01f4",
-      "tokenA": {
-        "adminFeeAccount": "Ne6ThtGzugcSXJw7tYvgPtfTbj2UbmQSqJwiaNFKhrG",
-        "mint": "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
-        "reserve": "72Hj2KWntXPfbie4UgKeTPnm1XVkomDfCnRPKbvfTtPi"
-      },
-      "tokenB": {
-        "adminFeeAccount": "AiEMmc7WdN7rrr8qmaugXKrsrGVzzzzJxecZ3Jp8vAP6",
-        "mint": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
-        "reserve": "6aqJQ5wedqpUt4fFEDUqUmXhrdxCu4bEJsQdVPCADLko"
-      }
-    },
-    "summary": {
-      "addresses": {
-        "admin": "DLGQQRGoyyeRa7gAuL9GE9kUXwCay6ShLdaUx8MzUaBM",
-        "lpTokenMint": "WLP7MDjSKGWxs2s6o2d8JFvvqLJD8KHZpcTAZf9ongE",
-        "mergePool": "8NtQqyBHQxQrwwRHGgptymZqoj7AUKQPb5SkBYDoHPP7",
-        "quarry": "C7faBVAJad3obMyRxXn8dqbDJT7TT2A4oidKeELCMckp",
-        "reserves": [
-          "72Hj2KWntXPfbie4UgKeTPnm1XVkomDfCnRPKbvfTtPi",
-          "6aqJQ5wedqpUt4fFEDUqUmXhrdxCu4bEJsQdVPCADLko"
-        ],
-        "swapAccount": "SRMuKizofcAMicegrfSv7xs9q76tH1w8aAF7oX9FEWu",
-        "swapAuthority": "4VN6BM8qUa746raafkRvqwQFKYLPSAC1voCcEVHEKZBd"
-      },
-      "decimals": 6,
-      "underlyingTokens": [
-        "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
-        "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
-      ]
-    }
-  },
-  {
-    "pool": {
-      "bump": 253,
-      "index": 103,
-      "key": "4bssT1y3NLH432znMFjL7BndPyuksCr3m4qQ3aiCSgJ5",
+      "index": 112,
+      "key": "CPf1u8o45ExTFHgSWY5KxcBhGMyWoTF6SfLVfoqHVwNr",
       "lpMint": "BLZsAUk4wRWFtmgYDdrLqarUMAUfNzv2hdTjzJRZ6Uvv",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "So11111111111111111111111111111111111111112",
       "mintB": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
-      "permissionlessImport": false,
+      "permissionlessImport": true,
       "swap": "STK75uPSyBnEhGTTzb1nwmP3n427XoXmfRhXxxhyady",
-      "tokenAFees": "4KT3dBSkWctjn4QRBzVeEEr8GMaErDErBBaRKuykN3HA",
-      "tokenBFees": "DUdMQP8KcDPFcy4p6s4QxxXrVYBsFTjps72A6QNZvhFg",
+      "tokenAFees": "6BVQ861sMH1jckZoBhL4pzTZsVJjmQ8MLT1k8TxFip2x",
+      "tokenBFees": "DYvbmehrnyUpxJAWfg3QtYCK4ighJ4PkVhUNe3cU7ybP",
       "tokenDecimals": 9
     },
     "state": {
@@ -20077,17 +20077,17 @@
   },
   {
     "pool": {
-      "bump": 255,
-      "index": 112,
-      "key": "CPf1u8o45ExTFHgSWY5KxcBhGMyWoTF6SfLVfoqHVwNr",
+      "bump": 253,
+      "index": 103,
+      "key": "4bssT1y3NLH432znMFjL7BndPyuksCr3m4qQ3aiCSgJ5",
       "lpMint": "BLZsAUk4wRWFtmgYDdrLqarUMAUfNzv2hdTjzJRZ6Uvv",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "So11111111111111111111111111111111111111112",
       "mintB": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
-      "permissionlessImport": true,
+      "permissionlessImport": false,
       "swap": "STK75uPSyBnEhGTTzb1nwmP3n427XoXmfRhXxxhyady",
-      "tokenAFees": "6BVQ861sMH1jckZoBhL4pzTZsVJjmQ8MLT1k8TxFip2x",
-      "tokenBFees": "DYvbmehrnyUpxJAWfg3QtYCK4ighJ4PkVhUNe3cU7ybP",
+      "tokenAFees": "4KT3dBSkWctjn4QRBzVeEEr8GMaErDErBBaRKuykN3HA",
+      "tokenBFees": "DUdMQP8KcDPFcy4p6s4QxxXrVYBsFTjps72A6QNZvhFg",
       "tokenDecimals": 9
     },
     "state": {
@@ -21674,16 +21674,16 @@
   {
     "pool": {
       "bump": 255,
-      "index": 37,
-      "key": "6rsCTVDP9nAi8AqpEy5hEYVMSFczgpeeoZuD7JacrSiQ",
+      "index": 38,
+      "key": "6zEYiuoGeThTE6AhgKF7EqYNw2v7yXkjcYRRMPEepusv",
       "lpMint": "WLPv9tHDgkx3ekW8Kyp1TC222oYpr5BMZXTyBTLbk2n",
-      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
       "mintA": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
       "mintB": "CASHedBw9NfhsLBXq1WNVfueVznx255j8LLTScto3S6s",
       "permissionlessImport": false,
       "swap": "ZUCKP2rbfTojHnuKUkzCozccxVUWR5DBTL9QbPf9YLv",
-      "tokenAFees": "GU872PMSGjvg8ei27EutvQepH7nwX9i7Uf4JSuDXizgu",
-      "tokenBFees": "5xzeGWjFvmavCuh7TesqLnSarq596yC5FfzWGA3cxsNx",
+      "tokenAFees": "412fY1vAgJ8Z6ic9YHWS5umqFpmcMzfk2zX5zg1c5wPi",
+      "tokenBFees": "FBbys2ZTNwz35Mma4KGjL8Pki7inVZGprcBQaEsz1oM9",
       "tokenDecimals": 8
     },
     "state": {
@@ -21758,16 +21758,16 @@
   {
     "pool": {
       "bump": 255,
-      "index": 38,
-      "key": "6zEYiuoGeThTE6AhgKF7EqYNw2v7yXkjcYRRMPEepusv",
+      "index": 37,
+      "key": "6rsCTVDP9nAi8AqpEy5hEYVMSFczgpeeoZuD7JacrSiQ",
       "lpMint": "WLPv9tHDgkx3ekW8Kyp1TC222oYpr5BMZXTyBTLbk2n",
-      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
       "mintA": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
       "mintB": "CASHedBw9NfhsLBXq1WNVfueVznx255j8LLTScto3S6s",
       "permissionlessImport": false,
       "swap": "ZUCKP2rbfTojHnuKUkzCozccxVUWR5DBTL9QbPf9YLv",
-      "tokenAFees": "412fY1vAgJ8Z6ic9YHWS5umqFpmcMzfk2zX5zg1c5wPi",
-      "tokenBFees": "FBbys2ZTNwz35Mma4KGjL8Pki7inVZGprcBQaEsz1oM9",
+      "tokenAFees": "GU872PMSGjvg8ei27EutvQepH7nwX9i7Uf4JSuDXizgu",
+      "tokenBFees": "5xzeGWjFvmavCuh7TesqLnSarq596yC5FfzWGA3cxsNx",
       "tokenDecimals": 8
     },
     "state": {
