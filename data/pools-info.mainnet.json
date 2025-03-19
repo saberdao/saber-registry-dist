@@ -15508,10 +15508,10 @@
             "mint": "picobAEvs6w7QEknPce34wAE4gknZA9v5tTonnmHYdX",
             "reserve": "6U6oZid7w1k5U6XQcfnVLnHrNrosrbryfar41KpcNH81"
           },
-          "initialAmpFactor": "23",
-          "targetAmpFactor": "015e",
-          "startRampTimestamp": 1740309539,
-          "stopRampTimestamp": 1740568732,
+          "initialAmpFactor": "015e",
+          "targetAmpFactor": "23",
+          "startRampTimestamp": 1742316019,
+          "stopRampTimestamp": 1742575212,
           "fees": {
             "trade": {
               "isFraction": true,
