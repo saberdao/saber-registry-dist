@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2025-04-22T12:23:54.650Z",
+  "timestamp": "2025-04-22T12:29:27.788Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -797,6 +797,25 @@
       "tags": [
         "stablecoin",
         "saber-mkt-usd"
+      ]
+    },
+    {
+      "address": "7rmhYLU5zveQ3ahcmCAhVy4JCiwVJ3yUzL9Ffn1DhfE7",
+      "chainId": 101,
+      "decimals": 8,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "zBTCug3er3tLyffELcvDNrKkCymbPWysGcWihESYfLg",
+          "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh"
+        ],
+        "website": "https://app.saber.so/pools/zbtc_wbtc"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber zBTC-WBTC LP",
+      "symbol": "zBTC-WBTC",
+      "tags": [
+        "saber-stableswap-lp"
       ]
     },
     {
@@ -1809,7 +1828,7 @@
           "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
-        "website": "https://app.saber.so/pools/usds_usdc"
+        "website": "https://app.saber.so/pools/usdc_usds"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDS-USDC LP",
@@ -2235,7 +2254,7 @@
           "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
         ],
-        "website": "https://app.saber.so/pools/usds_usdt"
+        "website": "https://app.saber.so/pools/usdt_usds"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDS-USDT LP",
@@ -5111,12 +5130,15 @@
       "chainId": 101,
       "decimals": 6,
       "extensions": {
-        "coingeckoId": ""
+        "coingeckoId": "usds",
+        "currency": "USD"
       },
       "logoURI": "https://ipfs.io/ipfs/QmTW9HWfb2wsQqEVJiixkQ73Nsfp2Rx4ESaDSiQ7ThwnFM",
       "name": "USDS",
       "symbol": "USDS",
-      "tags": []
+      "tags": [
+        "saber-mkt-usd"
+      ]
     },
     {
       "address": "USDTJZL2vH92K5QeCvQTTzvMXUYAdvk3v46CwZyfsue",
@@ -6113,12 +6135,15 @@
       "chainId": 101,
       "decimals": 8,
       "extensions": {
-        "coingeckoId": ""
+        "coingeckoId": "zbtc",
+        "currency": "BTC"
       },
       "logoURI": "https://raw.githubusercontent.com/ZeusNetworkHQ/zbtc-metadata/refs/heads/main/lgoo-v2.png",
       "name": "zBTC",
       "symbol": "zBTC",
-      "tags": []
+      "tags": [
+        "saber-mkt-btc"
+      ]
     },
     {
       "address": "zSo2NgZQ5fv2bQ393CfCo6szdbeAc5RciwFkwBS659W",

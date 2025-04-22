@@ -8272,9 +8272,12 @@
           "symbol": "zBTC",
           "logoURI": "https://raw.githubusercontent.com/ZeusNetworkHQ/zbtc-metadata/refs/heads/main/lgoo-v2.png",
           "extensions": {
-            "coingeckoId": ""
+            "coingeckoId": "zbtc",
+            "currency": "BTC"
           },
-          "tags": []
+          "tags": [
+            "saber-mkt-btc"
+          ]
         }
       ],
       "tokenIcons": [
@@ -8303,9 +8306,12 @@
           "symbol": "zBTC",
           "logoURI": "https://raw.githubusercontent.com/ZeusNetworkHQ/zbtc-metadata/refs/heads/main/lgoo-v2.png",
           "extensions": {
-            "coingeckoId": ""
+            "coingeckoId": "zbtc",
+            "currency": "BTC"
           },
-          "tags": []
+          "tags": [
+            "saber-mkt-btc"
+          ]
         }
       ],
       "underlyingIcons": [
@@ -8334,9 +8340,12 @@
           "symbol": "zBTC",
           "logoURI": "https://raw.githubusercontent.com/ZeusNetworkHQ/zbtc-metadata/refs/heads/main/lgoo-v2.png",
           "extensions": {
-            "coingeckoId": ""
+            "coingeckoId": "zbtc",
+            "currency": "BTC"
           },
-          "tags": []
+          "tags": [
+            "saber-mkt-btc"
+          ]
         }
       ],
       "currency": "BTC",
@@ -20135,6 +20144,194 @@
       "quarry": "BgPiaXp9pd5Lc2oJutPQB3NfiBrwmtPYsxd1CYrJ6i2L"
     },
     {
+      "id": "usdc_usds",
+      "name": "USDS-USDC",
+      "tokens": [
+        {
+          "address": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
+          "name": "USDS",
+          "decimals": 6,
+          "chainId": 101,
+          "symbol": "USDS",
+          "logoURI": "https://ipfs.io/ipfs/QmTW9HWfb2wsQqEVJiixkQ73Nsfp2Rx4ESaDSiQ7ThwnFM",
+          "extensions": {
+            "coingeckoId": "usds",
+            "currency": "USD"
+          },
+          "tags": [
+            "saber-mkt-usd"
+          ]
+        },
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "decimals": 6,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "chainId": 101,
+          "tags": [
+            "stablecoin",
+            "saber-mkt-usd"
+          ],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "address": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
+          "name": "USDS",
+          "decimals": 6,
+          "chainId": 101,
+          "symbol": "USDS",
+          "logoURI": "https://ipfs.io/ipfs/QmTW9HWfb2wsQqEVJiixkQ73Nsfp2Rx4ESaDSiQ7ThwnFM",
+          "extensions": {
+            "coingeckoId": "usds",
+            "currency": "USD"
+          },
+          "tags": [
+            "saber-mkt-usd"
+          ]
+        },
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "decimals": 6,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "chainId": 101,
+          "tags": [
+            "stablecoin",
+            "saber-mkt-usd"
+          ],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "address": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
+          "name": "USDS",
+          "decimals": 6,
+          "chainId": 101,
+          "symbol": "USDS",
+          "logoURI": "https://ipfs.io/ipfs/QmTW9HWfb2wsQqEVJiixkQ73Nsfp2Rx4ESaDSiQ7ThwnFM",
+          "extensions": {
+            "coingeckoId": "usds",
+            "currency": "USD"
+          },
+          "tags": [
+            "saber-mkt-usd"
+          ]
+        },
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "decimals": 6,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "chainId": 101,
+          "tags": [
+            "stablecoin",
+            "saber-mkt-usd"
+          ],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "USDS-USDC",
+        "name": "Saber USDS-USDC LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 6,
+        "address": "AMBgyFo1UNNoo2t1fysjgzLk5capakxXXnXYj5jryorS",
+        "chainId": 101,
+        "tags": [
+          "saber-stableswap-lp"
+        ],
+        "extensions": {
+          "website": "https://app.saber.so/pools/usdc_usds",
+          "underlyingTokens": [
+            "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
+            "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "9u1wEgWChYawBRMuFHuNnzd7J3L4KZNuSdL6bAhSPkWw",
+      "swap": {
+        "config": {
+          "swapAccount": "9m7ec7MxFqWgVWBSapWjGa2eGD29xF7VxW6qxp4qUQ2",
+          "authority": "39xFfLcr4nhHDFPQYnyw9GdckP9o5iVDMnU7jfiaskUe",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "poolTokenMint": "AMBgyFo1UNNoo2t1fysjgzLk5capakxXXnXYj5jryorS",
+          "adminAccount": "26McWeTEKjQ5PDKLwhAfbPmMxt2mwTeNpGph5Vcdu8jU",
+          "tokenA": {
+            "adminFeeAccount": "HAY3VPJGiDB4XVuRato1oQjB5KA2RPsEWyss1RRkwfUa",
+            "mint": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
+            "reserve": "4zhaeEQkEzwEG8wK8USoyBZanicwidXkPpz2j1dCbQsS"
+          },
+          "tokenB": {
+            "adminFeeAccount": "Xb42i9x5yQt6YTbKUY3Rrx14zaaTmnF41N3mJbNSNhc",
+            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "reserve": "DFDLUirwwe6qN3p9CYxHe8daTjbe44ShfA5bfjGxa4zg"
+          },
+          "initialAmpFactor": "64",
+          "targetAmpFactor": "64",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "trade": {
+              "isFraction": true,
+              "numeratorStr": "1",
+              "denominatorStr": "10000",
+              "isPercent": true
+            },
+            "adminTrade": {
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
+            },
+            "withdraw": {
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
+            },
+            "adminWithdraw": {
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
+            }
+          }
+        }
+      },
+      "quarry": "8EtwvYsge9ejEygiTyBdGAPX4txaVmhHF9ibNknfqQu5"
+    },
+    {
       "id": "usdc_usdt",
       "name": "USDT-USDC",
       "tokens": [
@@ -21408,186 +21605,7 @@
       "newPoolID": "wusdk"
     },
     {
-      "id": "usds_usdc",
-      "name": "USDS-USDC",
-      "tokens": [
-        {
-          "address": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
-          "name": "USDS",
-          "decimals": 6,
-          "chainId": 101,
-          "symbol": "USDS",
-          "logoURI": "https://ipfs.io/ipfs/QmTW9HWfb2wsQqEVJiixkQ73Nsfp2Rx4ESaDSiQ7ThwnFM",
-          "extensions": {
-            "coingeckoId": ""
-          },
-          "tags": []
-        },
-        {
-          "name": "USD Coin",
-          "symbol": "USDC",
-          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
-          "decimals": 6,
-          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-          "chainId": 101,
-          "tags": [
-            "stablecoin",
-            "saber-mkt-usd"
-          ],
-          "extensions": {
-            "website": "https://www.centre.io/",
-            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-            "coingeckoId": "usd-coin",
-            "currency": "USD"
-          }
-        }
-      ],
-      "tokenIcons": [
-        {
-          "address": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
-          "name": "USDS",
-          "decimals": 6,
-          "chainId": 101,
-          "symbol": "USDS",
-          "logoURI": "https://ipfs.io/ipfs/QmTW9HWfb2wsQqEVJiixkQ73Nsfp2Rx4ESaDSiQ7ThwnFM",
-          "extensions": {
-            "coingeckoId": ""
-          },
-          "tags": []
-        },
-        {
-          "name": "USD Coin",
-          "symbol": "USDC",
-          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
-          "decimals": 6,
-          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-          "chainId": 101,
-          "tags": [
-            "stablecoin",
-            "saber-mkt-usd"
-          ],
-          "extensions": {
-            "website": "https://www.centre.io/",
-            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-            "coingeckoId": "usd-coin",
-            "currency": "USD"
-          }
-        }
-      ],
-      "underlyingIcons": [
-        {
-          "address": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
-          "name": "USDS",
-          "decimals": 6,
-          "chainId": 101,
-          "symbol": "USDS",
-          "logoURI": "https://ipfs.io/ipfs/QmTW9HWfb2wsQqEVJiixkQ73Nsfp2Rx4ESaDSiQ7ThwnFM",
-          "extensions": {
-            "coingeckoId": ""
-          },
-          "tags": []
-        },
-        {
-          "name": "USD Coin",
-          "symbol": "USDC",
-          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
-          "decimals": 6,
-          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-          "chainId": 101,
-          "tags": [
-            "stablecoin",
-            "saber-mkt-usd"
-          ],
-          "extensions": {
-            "website": "https://www.centre.io/",
-            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-            "coingeckoId": "usd-coin",
-            "currency": "USD"
-          }
-        }
-      ],
-      "currency": "USD",
-      "lpToken": {
-        "symbol": "USDS-USDC",
-        "name": "Saber USDS-USDC LP",
-        "logoURI": "https://registry.saber.so/token-icons/slp.png",
-        "decimals": 6,
-        "address": "AMBgyFo1UNNoo2t1fysjgzLk5capakxXXnXYj5jryorS",
-        "chainId": 101,
-        "tags": [
-          "saber-stableswap-lp"
-        ],
-        "extensions": {
-          "website": "https://app.saber.so/pools/usds_usdc",
-          "underlyingTokens": [
-            "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
-            "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-          ],
-          "source": "saber"
-        }
-      },
-      "plotKey": "9u1wEgWChYawBRMuFHuNnzd7J3L4KZNuSdL6bAhSPkWw",
-      "swap": {
-        "config": {
-          "swapAccount": "9m7ec7MxFqWgVWBSapWjGa2eGD29xF7VxW6qxp4qUQ2",
-          "authority": "39xFfLcr4nhHDFPQYnyw9GdckP9o5iVDMnU7jfiaskUe",
-          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
-          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
-        },
-        "state": {
-          "isInitialized": true,
-          "isPaused": false,
-          "nonce": 254,
-          "futureAdminDeadline": 0,
-          "futureAdminAccount": "11111111111111111111111111111111",
-          "poolTokenMint": "AMBgyFo1UNNoo2t1fysjgzLk5capakxXXnXYj5jryorS",
-          "adminAccount": "26McWeTEKjQ5PDKLwhAfbPmMxt2mwTeNpGph5Vcdu8jU",
-          "tokenA": {
-            "adminFeeAccount": "HAY3VPJGiDB4XVuRato1oQjB5KA2RPsEWyss1RRkwfUa",
-            "mint": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
-            "reserve": "4zhaeEQkEzwEG8wK8USoyBZanicwidXkPpz2j1dCbQsS"
-          },
-          "tokenB": {
-            "adminFeeAccount": "Xb42i9x5yQt6YTbKUY3Rrx14zaaTmnF41N3mJbNSNhc",
-            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-            "reserve": "DFDLUirwwe6qN3p9CYxHe8daTjbe44ShfA5bfjGxa4zg"
-          },
-          "initialAmpFactor": "64",
-          "targetAmpFactor": "64",
-          "startRampTimestamp": 0,
-          "stopRampTimestamp": 0,
-          "fees": {
-            "trade": {
-              "isFraction": true,
-              "numeratorStr": "4",
-              "denominatorStr": "10000",
-              "isPercent": true
-            },
-            "adminTrade": {
-              "isFraction": true,
-              "numeratorStr": "0",
-              "denominatorStr": "10000",
-              "isPercent": true
-            },
-            "withdraw": {
-              "isFraction": true,
-              "numeratorStr": "0",
-              "denominatorStr": "10000",
-              "isPercent": true
-            },
-            "adminWithdraw": {
-              "isFraction": true,
-              "numeratorStr": "0",
-              "denominatorStr": "10000",
-              "isPercent": true
-            }
-          }
-        }
-      },
-      "quarry": "8EtwvYsge9ejEygiTyBdGAPX4txaVmhHF9ibNknfqQu5"
-    },
-    {
-      "id": "usds_usdt",
+      "id": "usdt_usds",
       "name": "USDS-USDT",
       "tokens": [
         {
@@ -21598,9 +21616,12 @@
           "symbol": "USDS",
           "logoURI": "https://ipfs.io/ipfs/QmTW9HWfb2wsQqEVJiixkQ73Nsfp2Rx4ESaDSiQ7ThwnFM",
           "extensions": {
-            "coingeckoId": ""
+            "coingeckoId": "usds",
+            "currency": "USD"
           },
-          "tags": []
+          "tags": [
+            "saber-mkt-usd"
+          ]
         },
         {
           "name": "USDT",
@@ -21630,9 +21651,12 @@
           "symbol": "USDS",
           "logoURI": "https://ipfs.io/ipfs/QmTW9HWfb2wsQqEVJiixkQ73Nsfp2Rx4ESaDSiQ7ThwnFM",
           "extensions": {
-            "coingeckoId": ""
+            "coingeckoId": "usds",
+            "currency": "USD"
           },
-          "tags": []
+          "tags": [
+            "saber-mkt-usd"
+          ]
         },
         {
           "name": "USDT",
@@ -21662,9 +21686,12 @@
           "symbol": "USDS",
           "logoURI": "https://ipfs.io/ipfs/QmTW9HWfb2wsQqEVJiixkQ73Nsfp2Rx4ESaDSiQ7ThwnFM",
           "extensions": {
-            "coingeckoId": ""
+            "coingeckoId": "usds",
+            "currency": "USD"
           },
-          "tags": []
+          "tags": [
+            "saber-mkt-usd"
+          ]
         },
         {
           "name": "USDT",
@@ -21697,7 +21724,7 @@
           "saber-stableswap-lp"
         ],
         "extensions": {
-          "website": "https://app.saber.so/pools/usds_usdt",
+          "website": "https://app.saber.so/pools/usdt_usds",
           "underlyingTokens": [
             "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
             "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
@@ -29103,9 +29130,12 @@
           "symbol": "zBTC",
           "logoURI": "https://raw.githubusercontent.com/ZeusNetworkHQ/zbtc-metadata/refs/heads/main/lgoo-v2.png",
           "extensions": {
-            "coingeckoId": ""
+            "coingeckoId": "zbtc",
+            "currency": "BTC"
           },
-          "tags": []
+          "tags": [
+            "saber-mkt-btc"
+          ]
         },
         {
           "name": "Wrapped BTC (Portal)",
@@ -29135,9 +29165,12 @@
           "symbol": "zBTC",
           "logoURI": "https://raw.githubusercontent.com/ZeusNetworkHQ/zbtc-metadata/refs/heads/main/lgoo-v2.png",
           "extensions": {
-            "coingeckoId": ""
+            "coingeckoId": "zbtc",
+            "currency": "BTC"
           },
-          "tags": []
+          "tags": [
+            "saber-mkt-btc"
+          ]
         },
         {
           "name": "Wrapped BTC (Portal)",
@@ -29167,9 +29200,12 @@
           "symbol": "zBTC",
           "logoURI": "https://raw.githubusercontent.com/ZeusNetworkHQ/zbtc-metadata/refs/heads/main/lgoo-v2.png",
           "extensions": {
-            "coingeckoId": ""
+            "coingeckoId": "zbtc",
+            "currency": "BTC"
           },
-          "tags": []
+          "tags": [
+            "saber-mkt-btc"
+          ]
         },
         {
           "name": "Wrapped BTC (Portal)",
@@ -29190,7 +29226,7 @@
           }
         }
       ],
-      "currency": "USD",
+      "currency": "BTC",
       "lpToken": {
         "symbol": "zBTC-WBTC",
         "name": "Saber zBTC-WBTC LP",

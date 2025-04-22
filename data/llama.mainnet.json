@@ -584,7 +584,7 @@
     "reserveA": "EQXGDuPDRP4h1ACXSMv6TnD3NKTSKtaDCjqx6fqh44og",
     "reserveB": "uGe6VsNZwc9Jc1K3i3pzwvdpPxknGYjpYQpr8WpCPGF",
     "tokenACoingecko": "coinbase-wrapped-btc",
-    "tokenBCoingecko": "",
+    "tokenBCoingecko": "zbtc",
     "decimals": 8
   },
   {
@@ -1248,6 +1248,18 @@
     "decimals": 6
   },
   {
+    "id": "usdc_usds",
+    "lpMint": "AMBgyFo1UNNoo2t1fysjgzLk5capakxXXnXYj5jryorS",
+    "tokenA": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
+    "tokenB": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "authority": "39xFfLcr4nhHDFPQYnyw9GdckP9o5iVDMnU7jfiaskUe",
+    "reserveA": "4zhaeEQkEzwEG8wK8USoyBZanicwidXkPpz2j1dCbQsS",
+    "reserveB": "DFDLUirwwe6qN3p9CYxHe8daTjbe44ShfA5bfjGxa4zg",
+    "tokenACoingecko": "usds",
+    "tokenBCoingecko": "usd-coin",
+    "decimals": 6
+  },
+  {
     "id": "usdc_usdt",
     "lpMint": "2poo1w1DL6yd2WNTCnNTzDqkC6MBXq7axo77P16yrBuf",
     "tokenA": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
@@ -1320,26 +1332,14 @@
     "decimals": 9
   },
   {
-    "id": "usds_usdc",
-    "lpMint": "AMBgyFo1UNNoo2t1fysjgzLk5capakxXXnXYj5jryorS",
-    "tokenA": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
-    "tokenB": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "authority": "39xFfLcr4nhHDFPQYnyw9GdckP9o5iVDMnU7jfiaskUe",
-    "reserveA": "4zhaeEQkEzwEG8wK8USoyBZanicwidXkPpz2j1dCbQsS",
-    "reserveB": "DFDLUirwwe6qN3p9CYxHe8daTjbe44ShfA5bfjGxa4zg",
-    "tokenACoingecko": "",
-    "tokenBCoingecko": "usd-coin",
-    "decimals": 6
-  },
-  {
-    "id": "usds_usdt",
+    "id": "usdt_usds",
     "lpMint": "BZcm9cdVA664vzXnqkEDcxqKX5tFvCvXxTHKX5gACbf2",
     "tokenA": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
     "tokenB": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
     "authority": "D38KBTWm9oHfyVF2NnK7Xm8DHvRBhALu55PEEcXkZQEN",
     "reserveA": "3mDFfBaquanhmh7WqMr5ACfc61nEmDy6r3KYp71zjFoZ",
     "reserveB": "5pEVDGvTGwCt9NTpZQxD3qMgEZ9r4RZuwTTUTXSBSdpN",
-    "tokenACoingecko": "",
+    "tokenACoingecko": "usds",
     "tokenBCoingecko": "tether",
     "decimals": 6
   },
@@ -1750,6 +1750,18 @@
     "tokenACoingecko": "usd-coin",
     "tokenBCoingecko": "usd-coin",
     "decimals": 6
+  },
+  {
+    "id": "zbtc_wbtc",
+    "lpMint": "7rmhYLU5zveQ3ahcmCAhVy4JCiwVJ3yUzL9Ffn1DhfE7",
+    "tokenA": "zBTCug3er3tLyffELcvDNrKkCymbPWysGcWihESYfLg",
+    "tokenB": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+    "authority": "CNKv53cj1fxwYNnEBiKr3kPTj2bSrMkX7svzGXVsQvem",
+    "reserveA": "2qzUy9H4LHZDu8SJinkqhCQN5zG4oegmrmeszzVrKGM1",
+    "reserveB": "5xJFYguLMuFAa3mKj9AnE9Rwjcs5heUwq3GrqrQyCb3N",
+    "tokenACoingecko": "zbtc",
+    "tokenBCoingecko": "wrapped-bitcoin",
+    "decimals": 8
   },
   {
     "id": "zsol",

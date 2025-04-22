@@ -1,23 +1,5 @@
 [
   {
-    "id": "",
-    "accounts": [
-      {
-        "decimals": 6,
-        "addresses": [
-          "4zhaeEQkEzwEG8wK8USoyBZanicwidXkPpz2j1dCbQsS",
-          "3mDFfBaquanhmh7WqMr5ACfc61nEmDy6r3KYp71zjFoZ"
-        ]
-      },
-      {
-        "decimals": 8,
-        "addresses": [
-          "uGe6VsNZwc9Jc1K3i3pzwvdpPxknGYjpYQpr8WpCPGF"
-        ]
-      }
-    ]
-  },
-  {
     "id": "ageur",
     "accounts": [
       {
@@ -732,10 +714,10 @@
           "EXNW64GEf1ACC6xY9BtKRiunrs6GoJSXBdxWN2eTPmrF",
           "FVoNijdQ6k9FA5LPX1RWVe73YJJvz3Q48iYjd85Yz3Ln",
           "HsorcrEakUPvUfxc4L3DB43YUS7oFeHa2JC1HtmEJVxi",
+          "DFDLUirwwe6qN3p9CYxHe8daTjbe44ShfA5bfjGxa4zg",
           "CfWX7o2TswwbxusJ4hCaPobu2jLCb1hfXuXJQjVq3jQF",
           "EreMRai79gFEuXwrMnj6kpV4pvVAUqukjSuy87XQTT8K",
           "F8GSmi3vA8M8TsybLya1LQ4n1aFHCRbZ6k437PeTdXtg",
-          "DFDLUirwwe6qN3p9CYxHe8daTjbe44ShfA5bfjGxa4zg",
           "CwQDG1MWunn9cLNwcZLd8YBacweSR7ARo32w4mLua1Yr",
           "3YB7hfpBdbQEuZqLGWVDpRPmeZWCUsrrWyqGXegnQ6Cg",
           "4DPCj6Z1DsG6HUtwSogBGqXEUxdEV5a8YVrrFtcnz7UW",
@@ -838,6 +820,18 @@
     ]
   },
   {
+    "id": "usds",
+    "accounts": [
+      {
+        "decimals": 6,
+        "addresses": [
+          "4zhaeEQkEzwEG8wK8USoyBZanicwidXkPpz2j1dCbQsS",
+          "3mDFfBaquanhmh7WqMr5ACfc61nEmDy6r3KYp71zjFoZ"
+        ]
+      }
+    ]
+  },
+  {
     "id": "uxd-stablecoin",
     "accounts": [
       {
@@ -868,7 +862,8 @@
       {
         "decimals": 8,
         "addresses": [
-          "7ouZ76ceqDgfddMSgX9MubMDAN6nnMJPsRjWY7AoKP9o"
+          "7ouZ76ceqDgfddMSgX9MubMDAN6nnMJPsRjWY7AoKP9o",
+          "5xJFYguLMuFAa3mKj9AnE9Rwjcs5heUwq3GrqrQyCb3N"
         ]
       },
       {
@@ -889,6 +884,18 @@
         "decimals": 9,
         "addresses": [
           "Au5zcSost9sXpH8AQQjULRXJ9QCJ3kdKehUr1zYzTr6G"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zbtc",
+    "accounts": [
+      {
+        "decimals": 8,
+        "addresses": [
+          "uGe6VsNZwc9Jc1K3i3pzwvdpPxknGYjpYQpr8WpCPGF",
+          "2qzUy9H4LHZDu8SJinkqhCQN5zG4oegmrmeszzVrKGM1"
         ]
       }
     ]

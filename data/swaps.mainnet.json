@@ -411,6 +411,34 @@
   },
   {
     "addresses": {
+      "admin": "E8PSXvRRPhYUNGybKN5NjPe2aX7DTwMgzfHJtCSj4Kk5",
+      "lpTokenMint": "7rmhYLU5zveQ3ahcmCAhVy4JCiwVJ3yUzL9Ffn1DhfE7",
+      "mergePool": "Ca4MoFpkrVXvgee8iGPYzCFHEuo9tc8gva6m6bGK2Asm",
+      "quarry": "3Dz3iJgDTHcSxv57a6xFqjGeG6vAXLmZ1EpSGAAiZcYW",
+      "reserves": [
+        "2qzUy9H4LHZDu8SJinkqhCQN5zG4oegmrmeszzVrKGM1",
+        "5xJFYguLMuFAa3mKj9AnE9Rwjcs5heUwq3GrqrQyCb3N"
+      ],
+      "swapAccount": "8hTjRsNeKEAvgmwsXZGzJd3YKSPP4SFuD2uVXnFAV13N",
+      "swapAuthority": "CNKv53cj1fxwYNnEBiKr3kPTj2bSrMkX7svzGXVsQvem"
+    },
+    "currency": "BTC",
+    "decimals": 8,
+    "displayTokens": [
+      "zBTCug3er3tLyffELcvDNrKkCymbPWysGcWihESYfLg",
+      "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh"
+    ],
+    "id": "zbtc_wbtc",
+    "isVerified": true,
+    "name": "zBTC-WBTC",
+    "sources": [],
+    "underlyingTokens": [
+      "zBTCug3er3tLyffELcvDNrKkCymbPWysGcWihESYfLg",
+      "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh"
+    ]
+  },
+  {
+    "addresses": {
       "admin": "wzKZvdLw9AyFDfLx46PfHHdvfedHShayvNf1ZcJuU5w",
       "lpTokenMint": "J1AQLfu1TAJpXpEjq4xWK8vAP3t5UV4xTwhrsdmGyJKS",
       "mergePool": "Cb7N2qz7hHcWzCn6ouh7QKKwP6S1bXzJDr21T2VQn7MS",
@@ -520,7 +548,7 @@
       "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "usds_usdc",
+    "id": "usdc_usds",
     "isVerified": true,
     "name": "USDS-USDC",
     "sources": [],
@@ -1975,7 +2003,7 @@
       "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
       "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
     ],
-    "id": "usds_usdt",
+    "id": "usdt_usds",
     "isVerified": true,
     "name": "USDS-USDT",
     "sources": [],
