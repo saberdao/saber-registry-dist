@@ -957,7 +957,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "4"
+          "numeratorStr": "1"
         },
         "withdraw": {
           "denominatorStr": "10000",
@@ -1461,7 +1461,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "4"
+          "numeratorStr": "1"
         },
         "withdraw": {
           "denominatorStr": "10000",
