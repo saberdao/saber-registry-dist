@@ -1,5 +1,23 @@
 [
   {
+    "id": "",
+    "accounts": [
+      {
+        "decimals": 6,
+        "addresses": [
+          "4zhaeEQkEzwEG8wK8USoyBZanicwidXkPpz2j1dCbQsS",
+          "3mDFfBaquanhmh7WqMr5ACfc61nEmDy6r3KYp71zjFoZ"
+        ]
+      },
+      {
+        "decimals": 8,
+        "addresses": [
+          "uGe6VsNZwc9Jc1K3i3pzwvdpPxknGYjpYQpr8WpCPGF"
+        ]
+      }
+    ]
+  },
+  {
     "id": "ageur",
     "accounts": [
       {
@@ -159,6 +177,7 @@
       {
         "decimals": 8,
         "addresses": [
+          "EQXGDuPDRP4h1ACXSMv6TnD3NKTSKtaDCjqx6fqh44og",
           "i3y6UA8XJJ3S75qzSgV69sUZDUdguqxSDsQMTuv3Ane"
         ]
       }
@@ -667,6 +686,7 @@
           "2tBpLvzYBCs7e4DrRocEnssoJANB8rDh2jt5FbeCAeK1",
           "F7k8DuuawVEZ3new4A9ahWVojCkEG8BrLsCwyhRvmEHa",
           "EnTrdMMpdhugeH6Ban6gYZWXughWxKtVGfCwFn78ZmY3",
+          "5pEVDGvTGwCt9NTpZQxD3qMgEZ9r4RZuwTTUTXSBSdpN",
           "DtfyjjsZ5yCjWKLKHvwsfXs5QVsmm1QkK6Sh9JZHoq1g",
           "e5wrKCRv4GhHvEf1VD5Pq2KGaZDXP77nTL612Jyrxwy",
           "631WX9JizSHJm4w6VanZeJAst9T8DeUUnPLesdGkCVtK",
@@ -715,6 +735,7 @@
           "CfWX7o2TswwbxusJ4hCaPobu2jLCb1hfXuXJQjVq3jQF",
           "EreMRai79gFEuXwrMnj6kpV4pvVAUqukjSuy87XQTT8K",
           "F8GSmi3vA8M8TsybLya1LQ4n1aFHCRbZ6k437PeTdXtg",
+          "DFDLUirwwe6qN3p9CYxHe8daTjbe44ShfA5bfjGxa4zg",
           "CwQDG1MWunn9cLNwcZLd8YBacweSR7ARo32w4mLua1Yr",
           "3YB7hfpBdbQEuZqLGWVDpRPmeZWCUsrrWyqGXegnQ6Cg",
           "4DPCj6Z1DsG6HUtwSogBGqXEUxdEV5a8YVrrFtcnz7UW",

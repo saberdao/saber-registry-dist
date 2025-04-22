@@ -286,6 +286,25 @@
   },
   {
     "addresses": {
+      "admin": "GR6iPpGtzBrvySh6UHwJGLvWkGLuZN2nAZ8xxuUhzEzH",
+      "lpTokenMint": "5SaiGBw9rb6tJG6xxpG99tCRHZVH6XDPSSGqhpMJea7S",
+      "mergePool": "BLA8P5fxpXuc5GEGTz1iezJkJdSCAmKGYHcWqGTy813s",
+      "quarry": "DYvHCuuw8Z3i4NLY3mnsz8ynXX5tNiLw3ySGmaccRmDX",
+      "reserves": [
+        "EQXGDuPDRP4h1ACXSMv6TnD3NKTSKtaDCjqx6fqh44og",
+        "uGe6VsNZwc9Jc1K3i3pzwvdpPxknGYjpYQpr8WpCPGF"
+      ],
+      "swapAccount": "6kiydhF6jyM6e9Lu6JNCcNpN66Yew6SyT2wD1SmtFMny",
+      "swapAuthority": "8yeFyv5hf4fqrwVEtkvmrqNXBKZ5LGvXN2BnstbKEDaR"
+    },
+    "decimals": 8,
+    "underlyingTokens": [
+      "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+      "zBTCug3er3tLyffELcvDNrKkCymbPWysGcWihESYfLg"
+    ]
+  },
+  {
+    "addresses": {
       "admin": "4g2BgVoUhmtB6fSAkCDBnEHH4tby9cwDgBidpQMMCASj",
       "lpTokenMint": "7vG4Dc1tViBpF2xekjUdpa3MJWdevXfJRz8kWPNEvEVS",
       "mergePool": "8TW1dDgCi8cvvd781qGyBHzUkZiDvRXeZvRXk4jcQjEa",
@@ -381,6 +400,25 @@
   },
   {
     "addresses": {
+      "admin": "E8PSXvRRPhYUNGybKN5NjPe2aX7DTwMgzfHJtCSj4Kk5",
+      "lpTokenMint": "7rmhYLU5zveQ3ahcmCAhVy4JCiwVJ3yUzL9Ffn1DhfE7",
+      "mergePool": "Ca4MoFpkrVXvgee8iGPYzCFHEuo9tc8gva6m6bGK2Asm",
+      "quarry": "3Dz3iJgDTHcSxv57a6xFqjGeG6vAXLmZ1EpSGAAiZcYW",
+      "reserves": [
+        "2qzUy9H4LHZDu8SJinkqhCQN5zG4oegmrmeszzVrKGM1",
+        "5xJFYguLMuFAa3mKj9AnE9Rwjcs5heUwq3GrqrQyCb3N"
+      ],
+      "swapAccount": "8hTjRsNeKEAvgmwsXZGzJd3YKSPP4SFuD2uVXnFAV13N",
+      "swapAuthority": "CNKv53cj1fxwYNnEBiKr3kPTj2bSrMkX7svzGXVsQvem"
+    },
+    "decimals": 8,
+    "underlyingTokens": [
+      "zBTCug3er3tLyffELcvDNrKkCymbPWysGcWihESYfLg",
+      "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh"
+    ]
+  },
+  {
+    "addresses": {
       "admin": "wzKZvdLw9AyFDfLx46PfHHdvfedHShayvNf1ZcJuU5w",
       "lpTokenMint": "J1AQLfu1TAJpXpEjq4xWK8vAP3t5UV4xTwhrsdmGyJKS",
       "mergePool": "Cb7N2qz7hHcWzCn6ouh7QKKwP6S1bXzJDr21T2VQn7MS",
@@ -472,6 +510,25 @@
     "underlyingTokens": [
       "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
       "9qTUytXyBsbhU1CT8n5EwLGCBVs2Ber8QBxWubocpnjT"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "26McWeTEKjQ5PDKLwhAfbPmMxt2mwTeNpGph5Vcdu8jU",
+      "lpTokenMint": "AMBgyFo1UNNoo2t1fysjgzLk5capakxXXnXYj5jryorS",
+      "mergePool": "2XaUAHTke8BuAprNy2qCevy8ETRLpuq36bevyHKciVaJ",
+      "quarry": "8EtwvYsge9ejEygiTyBdGAPX4txaVmhHF9ibNknfqQu5",
+      "reserves": [
+        "4zhaeEQkEzwEG8wK8USoyBZanicwidXkPpz2j1dCbQsS",
+        "DFDLUirwwe6qN3p9CYxHe8daTjbe44ShfA5bfjGxa4zg"
+      ],
+      "swapAccount": "9m7ec7MxFqWgVWBSapWjGa2eGD29xF7VxW6qxp4qUQ2",
+      "swapAuthority": "39xFfLcr4nhHDFPQYnyw9GdckP9o5iVDMnU7jfiaskUe"
+    },
+    "decimals": 6,
+    "underlyingTokens": [
+      "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
+      "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ]
   },
   {
@@ -1422,6 +1479,25 @@
     "underlyingTokens": [
       "3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z",
       "LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "GTibzUBUkRtZEyjfzNtS7pGyErUbQCXyC1Bw8pXL6rPB",
+      "lpTokenMint": "BZcm9cdVA664vzXnqkEDcxqKX5tFvCvXxTHKX5gACbf2",
+      "mergePool": "zEn6QSPVtTUBTXVWfkViWSQbjLSW8KDXsg7MphEJaZA",
+      "quarry": "393VDBzssxwtuxgaT95qT9b1BLxjqK8L4j1KmJg8v2dn",
+      "reserves": [
+        "3mDFfBaquanhmh7WqMr5ACfc61nEmDy6r3KYp71zjFoZ",
+        "5pEVDGvTGwCt9NTpZQxD3qMgEZ9r4RZuwTTUTXSBSdpN"
+      ],
+      "swapAccount": "Dp1JEcS3SCFraZr4osXytfgnX31tDMnr7QKrsgS9Ysd4",
+      "swapAuthority": "D38KBTWm9oHfyVF2NnK7Xm8DHvRBhALu55PEEcXkZQEN"
+    },
+    "decimals": 6,
+    "underlyingTokens": [
+      "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
+      "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
     ]
   },
   {
