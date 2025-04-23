@@ -20113,9 +20113,9 @@
             "reserve": "DFDLUirwwe6qN3p9CYxHe8daTjbe44ShfA5bfjGxa4zg"
           },
           "initialAmpFactor": "64",
-          "targetAmpFactor": "64",
-          "startRampTimestamp": 0,
-          "stopRampTimestamp": 0,
+          "targetAmpFactor": "03e8",
+          "startRampTimestamp": 1745331200,
+          "stopRampTimestamp": 1745590395,
           "fees": {
             "trade": {
               "isFraction": true,
@@ -21574,9 +21574,9 @@
             "reserve": "5pEVDGvTGwCt9NTpZQxD3qMgEZ9r4RZuwTTUTXSBSdpN"
           },
           "initialAmpFactor": "64",
-          "targetAmpFactor": "64",
-          "startRampTimestamp": 0,
-          "stopRampTimestamp": 0,
+          "targetAmpFactor": "03e8",
+          "startRampTimestamp": 1745331213,
+          "stopRampTimestamp": 1745590408,
           "fees": {
             "trade": {
               "isFraction": true,
@@ -29085,9 +29085,9 @@
             "reserve": "uGe6VsNZwc9Jc1K3i3pzwvdpPxknGYjpYQpr8WpCPGF"
           },
           "initialAmpFactor": "64",
-          "targetAmpFactor": "64",
-          "startRampTimestamp": 0,
-          "stopRampTimestamp": 0,
+          "targetAmpFactor": "03e8",
+          "startRampTimestamp": 1745331236,
+          "stopRampTimestamp": 1745590430,
           "fees": {
             "trade": {
               "isFraction": true,
@@ -29273,9 +29273,9 @@
             "reserve": "5xJFYguLMuFAa3mKj9AnE9Rwjcs5heUwq3GrqrQyCb3N"
           },
           "initialAmpFactor": "64",
-          "targetAmpFactor": "64",
-          "startRampTimestamp": 0,
-          "stopRampTimestamp": 0,
+          "targetAmpFactor": "03e8",
+          "startRampTimestamp": 1745331253,
+          "stopRampTimestamp": 1745590444,
           "fees": {
             "trade": {
               "isFraction": true,
