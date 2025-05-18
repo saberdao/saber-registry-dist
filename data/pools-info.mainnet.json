@@ -20309,10 +20309,10 @@
             "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
             "reserve": "EnTrdMMpdhugeH6Ban6gYZWXughWxKtVGfCwFn78ZmY3"
           },
-          "initialAmpFactor": "1388",
-          "targetAmpFactor": "1f40",
-          "startRampTimestamp": 1740080610,
-          "stopRampTimestamp": 1740339804,
+          "initialAmpFactor": "1f40",
+          "targetAmpFactor": "1388",
+          "startRampTimestamp": 1747460323,
+          "stopRampTimestamp": 1747719515,
           "fees": {
             "trade": {
               "isFraction": true,
@@ -23458,10 +23458,10 @@
             "mint": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
             "reserve": "7ouZ76ceqDgfddMSgX9MubMDAN6nnMJPsRjWY7AoKP9o"
           },
-          "initialAmpFactor": "64",
-          "targetAmpFactor": "03e8",
-          "startRampTimestamp": 1740309670,
-          "stopRampTimestamp": 1740568862,
+          "initialAmpFactor": "03e8",
+          "targetAmpFactor": "0bb8",
+          "startRampTimestamp": 1747460259,
+          "stopRampTimestamp": 1747719453,
           "fees": {
             "trade": {
               "isFraction": true,
@@ -29084,10 +29084,10 @@
             "mint": "zBTCug3er3tLyffELcvDNrKkCymbPWysGcWihESYfLg",
             "reserve": "uGe6VsNZwc9Jc1K3i3pzwvdpPxknGYjpYQpr8WpCPGF"
           },
-          "initialAmpFactor": "64",
-          "targetAmpFactor": "03e8",
-          "startRampTimestamp": 1745331236,
-          "stopRampTimestamp": 1745590430,
+          "initialAmpFactor": "03e8",
+          "targetAmpFactor": "0bb8",
+          "startRampTimestamp": 1747460215,
+          "stopRampTimestamp": 1747719408,
           "fees": {
             "trade": {
               "isFraction": true,
@@ -29272,10 +29272,10 @@
             "mint": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
             "reserve": "5xJFYguLMuFAa3mKj9AnE9Rwjcs5heUwq3GrqrQyCb3N"
           },
-          "initialAmpFactor": "64",
-          "targetAmpFactor": "03e8",
-          "startRampTimestamp": 1745331253,
-          "stopRampTimestamp": 1745590444,
+          "initialAmpFactor": "03e8",
+          "targetAmpFactor": "0bb8",
+          "startRampTimestamp": 1747460242,
+          "stopRampTimestamp": 1747719433,
           "fees": {
             "trade": {
               "isFraction": true,
