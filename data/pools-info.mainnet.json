@@ -15109,25 +15109,25 @@
             "trade": {
               "isFraction": true,
               "numeratorStr": "1",
-              "denominatorStr": "10000",
+              "denominatorStr": "1",
               "isPercent": true
             },
             "adminTrade": {
               "isFraction": true,
-              "numeratorStr": "0",
-              "denominatorStr": "10000",
+              "numeratorStr": "1",
+              "denominatorStr": "1",
               "isPercent": true
             },
             "withdraw": {
               "isFraction": true,
-              "numeratorStr": "0",
-              "denominatorStr": "10000",
+              "numeratorStr": "1",
+              "denominatorStr": "1",
               "isPercent": true
             },
             "adminWithdraw": {
               "isFraction": true,
-              "numeratorStr": "0",
-              "denominatorStr": "10000",
+              "numeratorStr": "1",
+              "denominatorStr": "1",
               "isPercent": true
             }
           }
@@ -28288,26 +28288,26 @@
           "fees": {
             "trade": {
               "isFraction": true,
-              "numeratorStr": "4",
-              "denominatorStr": "10000",
+              "numeratorStr": "1",
+              "denominatorStr": "1",
               "isPercent": true
             },
             "adminTrade": {
               "isFraction": true,
-              "numeratorStr": "0",
-              "denominatorStr": "10000",
+              "numeratorStr": "1",
+              "denominatorStr": "1",
               "isPercent": true
             },
             "withdraw": {
               "isFraction": true,
-              "numeratorStr": "0",
-              "denominatorStr": "10000",
+              "numeratorStr": "1",
+              "denominatorStr": "1",
               "isPercent": true
             },
             "adminWithdraw": {
               "isFraction": true,
-              "numeratorStr": "0",
-              "denominatorStr": "10000",
+              "numeratorStr": "1",
+              "denominatorStr": "1",
               "isPercent": true
             }
           }
