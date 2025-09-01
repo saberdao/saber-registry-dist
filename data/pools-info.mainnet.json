@@ -21811,13 +21811,13 @@
             },
             "withdraw": {
               "isFraction": true,
-              "numeratorStr": "0",
+              "numeratorStr": "10000",
               "denominatorStr": "10000",
               "isPercent": true
             },
             "adminWithdraw": {
               "isFraction": true,
-              "numeratorStr": "0",
+              "numeratorStr": "10000",
               "denominatorStr": "10000",
               "isPercent": true
             }

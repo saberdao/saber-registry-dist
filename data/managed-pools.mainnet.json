@@ -12207,7 +12207,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "0"
+          "numeratorStr": "10000"
         },
         "trade": {
           "denominatorStr": "10000",
@@ -12219,7 +12219,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "0"
+          "numeratorStr": "10000"
         }
       },
       "futureAdminAccount": "11111111111111111111111111111111",
@@ -12291,7 +12291,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "0"
+          "numeratorStr": "10000"
         },
         "trade": {
           "denominatorStr": "10000",
@@ -12303,7 +12303,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "0"
+          "numeratorStr": "10000"
         }
       },
       "futureAdminAccount": "11111111111111111111111111111111",
