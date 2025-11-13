@@ -13868,13 +13868,13 @@
             },
             "withdraw": {
               "isFraction": true,
-              "numeratorStr": "10000",
+              "numeratorStr": "0",
               "denominatorStr": "10000",
               "isPercent": true
             },
             "adminWithdraw": {
               "isFraction": true,
-              "numeratorStr": "10000",
+              "numeratorStr": "0",
               "denominatorStr": "10000",
               "isPercent": true
             }
@@ -15952,13 +15952,13 @@
             },
             "withdraw": {
               "isFraction": true,
-              "numeratorStr": "10000",
+              "numeratorStr": "0",
               "denominatorStr": "10000",
               "isPercent": true
             },
             "adminWithdraw": {
               "isFraction": true,
-              "numeratorStr": "10000",
+              "numeratorStr": "0",
               "denominatorStr": "10000",
               "isPercent": true
             }
@@ -18928,13 +18928,13 @@
             },
             "withdraw": {
               "isFraction": true,
-              "numeratorStr": "10000",
+              "numeratorStr": "0",
               "denominatorStr": "10000",
               "isPercent": true
             },
             "adminWithdraw": {
               "isFraction": true,
-              "numeratorStr": "10000",
+              "numeratorStr": "0",
               "denominatorStr": "10000",
               "isPercent": true
             }
@@ -21811,13 +21811,13 @@
             },
             "withdraw": {
               "isFraction": true,
-              "numeratorStr": "10000",
+              "numeratorStr": "0",
               "denominatorStr": "10000",
               "isPercent": true
             },
             "adminWithdraw": {
               "isFraction": true,
-              "numeratorStr": "10000",
+              "numeratorStr": "0",
               "denominatorStr": "10000",
               "isPercent": true
             }

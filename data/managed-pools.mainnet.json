@@ -12207,7 +12207,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "10000"
+          "numeratorStr": "0"
         },
         "trade": {
           "denominatorStr": "10000",
@@ -12219,7 +12219,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "10000"
+          "numeratorStr": "0"
         }
       },
       "futureAdminAccount": "11111111111111111111111111111111",
@@ -12291,7 +12291,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "10000"
+          "numeratorStr": "0"
         },
         "trade": {
           "denominatorStr": "10000",
@@ -12303,7 +12303,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "10000"
+          "numeratorStr": "0"
         }
       },
       "futureAdminAccount": "11111111111111111111111111111111",
@@ -12375,7 +12375,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "10000"
+          "numeratorStr": "0"
         },
         "trade": {
           "denominatorStr": "10000",
@@ -12387,7 +12387,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "10000"
+          "numeratorStr": "0"
         }
       },
       "futureAdminAccount": "11111111111111111111111111111111",
@@ -12459,7 +12459,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "10000"
+          "numeratorStr": "0"
         },
         "trade": {
           "denominatorStr": "10000",
@@ -12471,7 +12471,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "10000"
+          "numeratorStr": "0"
         }
       },
       "futureAdminAccount": "11111111111111111111111111111111",
@@ -14643,7 +14643,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "10000"
+          "numeratorStr": "0"
         },
         "trade": {
           "denominatorStr": "10000",
@@ -14655,7 +14655,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "10000"
+          "numeratorStr": "0"
         }
       },
       "futureAdminAccount": "11111111111111111111111111111111",
@@ -14727,7 +14727,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "10000"
+          "numeratorStr": "0"
         },
         "trade": {
           "denominatorStr": "10000",
@@ -14739,7 +14739,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "10000"
+          "numeratorStr": "0"
         }
       },
       "futureAdminAccount": "11111111111111111111111111111111",
@@ -14979,7 +14979,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "10000"
+          "numeratorStr": "0"
         },
         "trade": {
           "denominatorStr": "10000",
@@ -14991,7 +14991,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "10000"
+          "numeratorStr": "0"
         }
       },
       "futureAdminAccount": "11111111111111111111111111111111",
@@ -15063,7 +15063,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "10000"
+          "numeratorStr": "0"
         },
         "trade": {
           "denominatorStr": "10000",
@@ -15075,7 +15075,7 @@
           "denominatorStr": "10000",
           "isFraction": true,
           "isPercent": true,
-          "numeratorStr": "10000"
+          "numeratorStr": "0"
         }
       },
       "futureAdminAccount": "11111111111111111111111111111111",
